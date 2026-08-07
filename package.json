@@ -6,7 +6,17 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "inventory": "tsx scripts/generate-url-inventory.ts",
+    "capture:source": "tsx scripts/capture-source.ts",
+    "assets:acquire": "tsx scripts/acquire-assets.ts",
+    "test:capture": "playwright test --project=source-capture",
+    "test:e2e": "playwright test --project=local-chromium",
+    "test:visual": "playwright test --project=local-chromium --grep @visual",
+    "test:smoke": "playwright test --project=source-capture --project=local-chromium --grep @smoke",
+    "test:browser-smoke": "playwright test --project=firefox-smoke --project=webkit-smoke",
+    "test:report": "playwright show-report artifacts/playwright-report"
   },
   "dependencies": {
     "next": "16.3.0",
@@ -14,13 +24,21 @@
     "react-dom": "19.2.8"
   },
   "devDependencies": {
+    "@axe-core/playwright": "4.12.1",
+    "@mdx-js/loader": "3.1.1",
+    "@mdx-js/react": "3.1.1",
+    "@next/mdx": "16.3.0",
+    "@playwright/test": "1.62.1",
     "@tailwindcss/postcss": "^4",
+    "@types/mdx": "2.0.14",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.3.0",
+    "image-size": "2.0.2",
     "tailwindcss": "^4",
+    "tsx": "4.23.10",
     "typescript": "^5"
   }
 }

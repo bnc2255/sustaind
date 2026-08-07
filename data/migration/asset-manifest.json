@@ -1,0 +1,3046 @@
+{
+  "generatedAt": "2026-08-07T13:02:46.138Z",
+  "sourceCount": 199,
+  "assets": [
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/7afb9a_433a5bb49ea3439e8a87e0e79c303033~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/",
+        "https://www.sustaind.in/about-us",
+        "https://www.sustaind.in/accessibility-statement",
+        "https://www.sustaind.in/blog",
+        "https://www.sustaind.in/blog/categories/carbon-credits",
+        "https://www.sustaind.in/blog/categories/climate-risk-assessment",
+        "https://www.sustaind.in/blog/categories/esg-advisory",
+        "https://www.sustaind.in/blog/categories/ifrs-service",
+        "https://www.sustaind.in/blog/categories/ifrs-service-1",
+        "https://www.sustaind.in/blog/categories/sustainability-service",
+        "https://www.sustaind.in/blog/categories/sustaind-consulting",
+        "https://www.sustaind.in/carbon-credit-service-consulting",
+        "https://www.sustaind.in/climate-risk-assessment-consultants",
+        "https://www.sustaind.in/contact-us",
+        "https://www.sustaind.in/esg-advisory-service-consultants",
+        "https://www.sustaind.in/esg-carbon-credit-and-sustainability-consulting-services",
+        "https://www.sustaind.in/irfs-service-consultant",
+        "https://www.sustaind.in/meet-the-team",
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india",
+        "https://www.sustaind.in/post/carbon-credits-services-consultants-in-gurugram",
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india",
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets",
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram",
+        "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies",
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india",
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india",
+        "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india",
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india",
+        "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india",
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026",
+        "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram",
+        "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector",
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project",
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated",
+        "https://www.sustaind.in/privacy-policy",
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "sccc.png"
+      ],
+      "localPath": "/assets/7afb9a-433a5bb49ea3439e8a87e0e79c303033-mv2-png-46bde764f709.png",
+      "contentType": "image/png",
+      "hash": "46bde764f709a2530cf0481786327ad4682a219470b03d7e23f8fb969d6cc31a",
+      "width": 813,
+      "height": 813,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_c6ad8c65b8d44f14b4a3000e7f511e0c~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/about-us"
+      ],
+      "altTexts": [
+        "Eco-Friendly Buildings"
+      ],
+      "localPath": "/assets/11062b-c6ad8c65b8d44f14b4a3000e7f511e0c-mv2-jpg-e43b705020bc.jpg",
+      "contentType": "image/jpeg",
+      "hash": "e43b705020bca250f36513033a5d5c08b4c4e8659afbca33e83bf91f6f955a8c",
+      "width": 2861,
+      "height": 1770,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b999ba461fdc4fc09627cbf35b0177e4~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/about-us"
+      ],
+      "altTexts": [
+        "About Us | Sustaind"
+      ],
+      "localPath": "/assets/0446e3-b999ba461fdc4fc09627cbf35b0177e4-mv2-png-e6e97b470ea4.png",
+      "contentType": "image/png",
+      "hash": "e6e97b470ea4fe861063cf2582c6ae7971fbe4709ff01fe8f894fe85cb8da1ad",
+      "width": 1920,
+      "height": 1080,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/8f34dde1e2084a8eb4905647fdc4f6cf.jpg",
+      "usages": [
+        "https://www.sustaind.in/about-us"
+      ],
+      "altTexts": [
+        "Vertical Garden Building"
+      ],
+      "localPath": "/assets/8f34dde1e2084a8eb4905647fdc4f6cf-jpg-5f64473f22de.jpg",
+      "contentType": "image/jpeg",
+      "hash": "5f64473f22de53ae54602f6f722701859f00ebda68e38affd8eb02c4ad3db52e",
+      "width": 4627,
+      "height": 3085,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_bd315a92555d412a8e32d93ffa4e6d58~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/about-us"
+      ],
+      "altTexts": [
+        "IRFS services"
+      ],
+      "localPath": "/assets/0446e3-bd315a92555d412a8e32d93ffa4e6d58-mv2-png-7de79ff2e6de.png",
+      "contentType": "image/png",
+      "hash": "7de79ff2e6ded0afa2b1dc44766c80e1f3bae33a54775854a13cab20a02c9b9a",
+      "width": 1200,
+      "height": 1200,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/7afb9a_67076f304c534ca89a258fb4c0794e28~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/",
+        "https://www.sustaind.in/about-us",
+        "https://www.sustaind.in/accessibility-statement",
+        "https://www.sustaind.in/blog",
+        "https://www.sustaind.in/blog/categories/carbon-credits",
+        "https://www.sustaind.in/blog/categories/climate-risk-assessment",
+        "https://www.sustaind.in/blog/categories/esg-advisory",
+        "https://www.sustaind.in/blog/categories/ifrs-service",
+        "https://www.sustaind.in/blog/categories/ifrs-service-1",
+        "https://www.sustaind.in/blog/categories/sustainability-service",
+        "https://www.sustaind.in/blog/categories/sustaind-consulting",
+        "https://www.sustaind.in/carbon-credit-service-consulting",
+        "https://www.sustaind.in/climate-risk-assessment-consultants",
+        "https://www.sustaind.in/contact-us",
+        "https://www.sustaind.in/esg-advisory-service-consultants",
+        "https://www.sustaind.in/esg-carbon-credit-and-sustainability-consulting-services",
+        "https://www.sustaind.in/irfs-service-consultant",
+        "https://www.sustaind.in/meet-the-team",
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india",
+        "https://www.sustaind.in/post/carbon-credits-services-consultants-in-gurugram",
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india",
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets",
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram",
+        "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies",
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india",
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india",
+        "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india",
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india",
+        "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india",
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026",
+        "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram",
+        "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector",
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project",
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated",
+        "https://www.sustaind.in/privacy-policy",
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "sccc t.png"
+      ],
+      "localPath": "/assets/7afb9a-67076f304c534ca89a258fb4c0794e28-mv2-png-1901e57ee93b.png",
+      "contentType": "image/png",
+      "hash": "1901e57ee93b3e0c5387e190f8408cfad730dd3b2c8a34a591a4cbec4f6a2b99",
+      "width": 813,
+      "height": 813,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_f4e3e7f537ff4762a1914aa14e3e36b9~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/",
+        "https://www.sustaind.in/about-us",
+        "https://www.sustaind.in/accessibility-statement",
+        "https://www.sustaind.in/blog",
+        "https://www.sustaind.in/blog/categories/carbon-credits",
+        "https://www.sustaind.in/blog/categories/climate-risk-assessment",
+        "https://www.sustaind.in/blog/categories/esg-advisory",
+        "https://www.sustaind.in/blog/categories/ifrs-service",
+        "https://www.sustaind.in/blog/categories/ifrs-service-1",
+        "https://www.sustaind.in/blog/categories/sustainability-service",
+        "https://www.sustaind.in/blog/categories/sustaind-consulting",
+        "https://www.sustaind.in/carbon-credit-service-consulting",
+        "https://www.sustaind.in/climate-risk-assessment-consultants",
+        "https://www.sustaind.in/contact-us",
+        "https://www.sustaind.in/esg-advisory-service-consultants",
+        "https://www.sustaind.in/esg-carbon-credit-and-sustainability-consulting-services",
+        "https://www.sustaind.in/irfs-service-consultant",
+        "https://www.sustaind.in/meet-the-team",
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india",
+        "https://www.sustaind.in/post/carbon-credits-services-consultants-in-gurugram",
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india",
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets",
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram",
+        "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies",
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india",
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india",
+        "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india",
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india",
+        "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india",
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026",
+        "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram",
+        "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector",
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project",
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated",
+        "https://www.sustaind.in/privacy-policy",
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Facebook"
+      ],
+      "localPath": "/assets/11062b-f4e3e7f537ff4762a1914aa14e3e36b9-mv2-png-589bf12a480d.png",
+      "contentType": "image/png",
+      "hash": "589bf12a480d5038dba2af3a7404c232b42a7d43dc651dd2a3378db43c4ef46b",
+      "width": 201,
+      "height": 200,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_603340b7bcb14e7785c7b65b233cd9f9~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/",
+        "https://www.sustaind.in/about-us",
+        "https://www.sustaind.in/accessibility-statement",
+        "https://www.sustaind.in/blog",
+        "https://www.sustaind.in/blog/categories/carbon-credits",
+        "https://www.sustaind.in/blog/categories/climate-risk-assessment",
+        "https://www.sustaind.in/blog/categories/esg-advisory",
+        "https://www.sustaind.in/blog/categories/ifrs-service",
+        "https://www.sustaind.in/blog/categories/ifrs-service-1",
+        "https://www.sustaind.in/blog/categories/sustainability-service",
+        "https://www.sustaind.in/blog/categories/sustaind-consulting",
+        "https://www.sustaind.in/carbon-credit-service-consulting",
+        "https://www.sustaind.in/climate-risk-assessment-consultants",
+        "https://www.sustaind.in/contact-us",
+        "https://www.sustaind.in/esg-advisory-service-consultants",
+        "https://www.sustaind.in/esg-carbon-credit-and-sustainability-consulting-services",
+        "https://www.sustaind.in/irfs-service-consultant",
+        "https://www.sustaind.in/meet-the-team",
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india",
+        "https://www.sustaind.in/post/carbon-credits-services-consultants-in-gurugram",
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india",
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets",
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram",
+        "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies",
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india",
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india",
+        "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india",
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india",
+        "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india",
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026",
+        "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram",
+        "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector",
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project",
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated",
+        "https://www.sustaind.in/privacy-policy",
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Instagram"
+      ],
+      "localPath": "/assets/11062b-603340b7bcb14e7785c7b65b233cd9f9-mv2-png-bc43511ebd47.png",
+      "contentType": "image/png",
+      "hash": "bc43511ebd4739506ac64df047785fcbae7a38f50d6a74673fdb9ef956c5b8b8",
+      "width": 201,
+      "height": 201,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_c67939a99eaf442d95d3f851857ceedf~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/",
+        "https://www.sustaind.in/about-us",
+        "https://www.sustaind.in/accessibility-statement",
+        "https://www.sustaind.in/blog",
+        "https://www.sustaind.in/blog/categories/carbon-credits",
+        "https://www.sustaind.in/blog/categories/climate-risk-assessment",
+        "https://www.sustaind.in/blog/categories/esg-advisory",
+        "https://www.sustaind.in/blog/categories/ifrs-service",
+        "https://www.sustaind.in/blog/categories/ifrs-service-1",
+        "https://www.sustaind.in/blog/categories/sustainability-service",
+        "https://www.sustaind.in/blog/categories/sustaind-consulting",
+        "https://www.sustaind.in/carbon-credit-service-consulting",
+        "https://www.sustaind.in/climate-risk-assessment-consultants",
+        "https://www.sustaind.in/contact-us",
+        "https://www.sustaind.in/esg-advisory-service-consultants",
+        "https://www.sustaind.in/esg-carbon-credit-and-sustainability-consulting-services",
+        "https://www.sustaind.in/irfs-service-consultant",
+        "https://www.sustaind.in/meet-the-team",
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india",
+        "https://www.sustaind.in/post/carbon-credits-services-consultants-in-gurugram",
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india",
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets",
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram",
+        "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies",
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india",
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india",
+        "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india",
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india",
+        "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india",
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026",
+        "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram",
+        "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector",
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project",
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated",
+        "https://www.sustaind.in/privacy-policy",
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Youtube"
+      ],
+      "localPath": "/assets/11062b-c67939a99eaf442d95d3f851857ceedf-mv2-png-b751ec640a2e.png",
+      "contentType": "image/png",
+      "hash": "b751ec640a2e1b2298f0a45dc67c34303936eaf54d1ff6ef552e70c5c4b1e22a",
+      "width": 201,
+      "height": 201,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_b5690303a8ff470e9b1c03a24aff140b~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/",
+        "https://www.sustaind.in/about-us",
+        "https://www.sustaind.in/accessibility-statement",
+        "https://www.sustaind.in/blog",
+        "https://www.sustaind.in/blog/categories/carbon-credits",
+        "https://www.sustaind.in/blog/categories/climate-risk-assessment",
+        "https://www.sustaind.in/blog/categories/esg-advisory",
+        "https://www.sustaind.in/blog/categories/ifrs-service",
+        "https://www.sustaind.in/blog/categories/ifrs-service-1",
+        "https://www.sustaind.in/blog/categories/sustainability-service",
+        "https://www.sustaind.in/blog/categories/sustaind-consulting",
+        "https://www.sustaind.in/carbon-credit-service-consulting",
+        "https://www.sustaind.in/climate-risk-assessment-consultants",
+        "https://www.sustaind.in/contact-us",
+        "https://www.sustaind.in/esg-advisory-service-consultants",
+        "https://www.sustaind.in/esg-carbon-credit-and-sustainability-consulting-services",
+        "https://www.sustaind.in/irfs-service-consultant",
+        "https://www.sustaind.in/meet-the-team",
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india",
+        "https://www.sustaind.in/post/carbon-credits-services-consultants-in-gurugram",
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india",
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets",
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram",
+        "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies",
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india",
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india",
+        "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india",
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india",
+        "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india",
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026",
+        "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram",
+        "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector",
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project",
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated",
+        "https://www.sustaind.in/privacy-policy",
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "LinkedIn"
+      ],
+      "localPath": "/assets/11062b-b5690303a8ff470e9b1c03a24aff140b-mv2-png-23b64a4d48d7.png",
+      "contentType": "image/png",
+      "hash": "23b64a4d48d7552f652d1ae1e8e2fb74365134f47e4f2611ec9cbdbbdd37e5db",
+      "width": 201,
+      "height": 201,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_3d71964d79fa478a92dcce9bf22d995d~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/",
+        "https://www.sustaind.in/blog",
+        "https://www.sustaind.in/blog/categories/carbon-credits",
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project"
+      ],
+      "altTexts": [
+        "Verra or Gold Standard? Choosing the Right Registry for Your Carbon Project"
+      ],
+      "localPath": "/assets/0446e3-3d71964d79fa478a92dcce9bf22d995d-mv2-png-4d569acf6c41.png",
+      "contentType": "image/png",
+      "hash": "4d569acf6c4103ae886ccc6a9b457dc0251805265fc811e14c44a3c82b2e38af",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_aa65c2c7ac844b87b4830267f0ccbd61~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/blog",
+        "https://www.sustaind.in/blog/categories/carbon-credits",
+        "https://www.sustaind.in/blog/categories/esg-advisory",
+        "https://www.sustaind.in/blog/categories/sustainability-service",
+        "https://www.sustaind.in/blog/categories/sustaind-consulting",
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india",
+        "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets",
+        "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies",
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india",
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india",
+        "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india",
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026",
+        "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector",
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project"
+      ],
+      "altTexts": [
+        "Writer: Dolly Soni"
+      ],
+      "localPath": "/assets/0446e3-aa65c2c7ac844b87b4830267f0ccbd61-mv2-png-a56d11681495.png",
+      "contentType": "image/png",
+      "hash": "a56d11681495844f7745a1caf91bf409126181331d58991d6d0a30e441026f0b",
+      "width": 4284,
+      "height": 5712,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_07bf86fa88244739ae30cdd640236882~mv2.avif",
+      "usages": [
+        "https://www.sustaind.in/blog/categories/carbon-credits"
+      ],
+      "altTexts": [
+        "What is ESG Score and How It Is Calculated"
+      ],
+      "localPath": "/assets/0446e3-07bf86fa88244739ae30cdd640236882-mv2-avif-38e2f9075015.avif",
+      "contentType": "image/avif",
+      "hash": "38e2f9075015e2c980509c7a7fc3ff06a87fcb5ab73082c20c3c81dab5d84636",
+      "width": 925,
+      "height": 484,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_ceb7fd633c2a4f26992c4fdb5567f08b~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/blog/categories/carbon-credits",
+        "https://www.sustaind.in/blog/categories/climate-risk-assessment",
+        "https://www.sustaind.in/blog/categories/ifrs-service",
+        "https://www.sustaind.in/post/carbon-credits-services-consultants-in-gurugram",
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india",
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram",
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india",
+        "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram",
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india",
+        "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram",
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated"
+      ],
+      "altTexts": [
+        "Writer: Harsh Ballyan"
+      ],
+      "localPath": "/assets/0446e3-ceb7fd633c2a4f26992c4fdb5567f08b-mv2-png-3571c19eeef0.png",
+      "contentType": "image/png",
+      "hash": "3571c19eeef0d3eaf557458b14bec857aec6387f99bcc453b20657fe623f443d",
+      "width": 938,
+      "height": 938,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_d20b6ddaf0f14ef6bb78ddb667b7f622~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/blog/categories/climate-risk-assessment",
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india"
+      ],
+      "altTexts": [
+        "Climate Risk Assessment for Businesses in India"
+      ],
+      "localPath": "/assets/0446e3-d20b6ddaf0f14ef6bb78ddb667b7f622-mv2-png-567052213b47.png",
+      "contentType": "image/png",
+      "hash": "567052213b4767a2b3f5f4e2d618370afbe34e4dc6a9d4c52b8361e9aa4e594c",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_07606d0340d34a18853640b905b05a0d~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/blog/categories/climate-risk-assessment",
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram"
+      ],
+      "altTexts": [
+        "Climate Risk Assessment Service Consulting in Gurugram"
+      ],
+      "localPath": "/assets/0446e3-07606d0340d34a18853640b905b05a0d-mv2-png-45c6032adc50.png",
+      "contentType": "image/png",
+      "hash": "45c6032adc50dade5c63ad9db3f36f7397233a3d4301db8464b76cfeb31d032f",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_fb93df94826c4ef29b187254a5037b9e~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/",
+        "https://www.sustaind.in/blog",
+        "https://www.sustaind.in/blog/categories/esg-advisory",
+        "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector"
+      ],
+      "altTexts": [
+        "The Future of Agri-ESG: Scaling Carbon Credits in Saudi Arabia’s Agriculture Sector"
+      ],
+      "localPath": "/assets/0446e3-fb93df94826c4ef29b187254a5037b9e-mv2-png-6cf5ba7f6234.png",
+      "contentType": "image/png",
+      "hash": "6cf5ba7f62343e2234878b4a8ce53623ce01ac6383fbf0a525b920cb6b475824",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_4963f5ac1ae841b1bd70438ab313a421~mv2.avif",
+      "usages": [
+        "https://www.sustaind.in/blog/categories/esg-advisory"
+      ],
+      "altTexts": [
+        "ESG Advisory Services for Indian Companies"
+      ],
+      "localPath": "/assets/0446e3-4963f5ac1ae841b1bd70438ab313a421-mv2-avif-c4bc621fd5fb.avif",
+      "contentType": "image/avif",
+      "hash": "c4bc621fd5fb9cb73bd5d8cf4f8b2c7cfccebc6ea5e935e5d7b376a68f014dfa",
+      "width": 925,
+      "height": 484,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_75bc4e5e4b044d0b94bbf2b06f0e970d~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/blog/categories/ifrs-service",
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india"
+      ],
+      "altTexts": [
+        "IFRS Sustainability Standards Compliance in India"
+      ],
+      "localPath": "/assets/0446e3-75bc4e5e4b044d0b94bbf2b06f0e970d-mv2-png-d9305f088038.png",
+      "contentType": "image/png",
+      "hash": "d9305f08803882d1dd71bcd3d97472266716455930f0225feff195447c71ee60",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b7430ab18eae47f5a8c1216b31107df3~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/blog/categories/ifrs-service",
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india"
+      ],
+      "altTexts": [
+        "IFRS S1 S2 Sustainability Disclosure India"
+      ],
+      "localPath": "/assets/0446e3-b7430ab18eae47f5a8c1216b31107df3-mv2-png-eeecc8ecc776.png",
+      "contentType": "image/png",
+      "hash": "eeecc8ecc776cb3bc5b2fc594d1937f1992a495be948bc80f1832b9f028d716f",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_8dddf4c5de3f4522a24b243c3a7eb421~mv2.avif",
+      "usages": [
+        "https://www.sustaind.in/blog/categories/sustainability-service"
+      ],
+      "altTexts": [
+        "How to buy carbon credits in India"
+      ],
+      "localPath": "/assets/0446e3-8dddf4c5de3f4522a24b243c3a7eb421-mv2-avif-8c5536a929b6.avif",
+      "contentType": "image/avif",
+      "hash": "8c5536a929b6ca72a4c25301460db3bb5d872e206ee6047d914ca1dfee3051cc",
+      "width": 733,
+      "height": 384,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_063cd89cbdd14813a1b62da9964d87f8~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/blog/categories/sustainability-service",
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india"
+      ],
+      "altTexts": [
+        "How Do Carbon Credits Help Companies Meet Their Net Zero Targets?"
+      ],
+      "localPath": "/assets/0446e3-063cd89cbdd14813a1b62da9964d87f8-mv2-png-5e98a0a52e5b.png",
+      "contentType": "image/png",
+      "hash": "5e98a0a52e5bfeaf89ba711d47a17556a1bc1fffcb719f61c84983764817207c",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_da285b9e335e4b63a090098aa9aced0e~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/blog",
+        "https://www.sustaind.in/blog/categories/sustaind-consulting",
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026"
+      ],
+      "altTexts": [
+        "Sustainability Reporting Frameworks India 2026"
+      ],
+      "localPath": "/assets/0446e3-da285b9e335e4b63a090098aa9aced0e-mv2-png-96b934e48864.png",
+      "contentType": "image/png",
+      "hash": "96b934e48864c80e7d6c804154b67654f9b369d6bb54b75b020cf813b7b0ca0e",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_05a90dd3e79149efbbf3d0ddfa92e82c~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/blog/categories/sustaind-consulting",
+        "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india"
+      ],
+      "altTexts": [
+        "Sustainability Consulting for SMEs in India"
+      ],
+      "localPath": "/assets/0446e3-05a90dd3e79149efbbf3d0ddfa92e82c-mv2-png-e601b09c5c31.png",
+      "contentType": "image/png",
+      "hash": "e601b09c5c3101a30b07607679fb2bae535cdcb98d231a5553da8b9a806132cc",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_03ad2bb2f5ae4a43a581798782d9f3d6~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/carbon-credit-service-consulting"
+      ],
+      "altTexts": [
+        "People Holding Globe"
+      ],
+      "localPath": "/assets/11062b-03ad2bb2f5ae4a43a581798782d9f3d6-mv2-jpg-55f7f3595c04.jpg",
+      "contentType": "image/jpeg",
+      "hash": "55f7f3595c0400f8650e0ba388eaa6d676e62a34f0587739cc2b9b53ca080ab0",
+      "width": 5000,
+      "height": 3333,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_d50125819cd142e79d87a4d50407389a~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/carbon-credit-service-consulting"
+      ],
+      "altTexts": [
+        "Woman In Greenhouse"
+      ],
+      "localPath": "/assets/11062b-d50125819cd142e79d87a4d50407389a-mv2-jpg-115391476e25.jpg",
+      "contentType": "image/jpeg",
+      "hash": "115391476e259b274b5955fec60809453dd026004e0ddbf41978f88b2af65e58",
+      "width": 3000,
+      "height": 2001,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_67afed52835a4157b2bee387e00b4c95~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/carbon-credit-service-consulting"
+      ],
+      "altTexts": [
+        "Solar Panels Landscape"
+      ],
+      "localPath": "/assets/11062b-67afed52835a4157b2bee387e00b4c95-mv2-jpg-fe32c678d9db.jpg",
+      "contentType": "image/jpeg",
+      "hash": "fe32c678d9dba62527830bea431ff21af938f6c0a823e9c45cbd7d11aa8d0e82",
+      "width": 5000,
+      "height": 3333,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_d7798f4b354e43159b3f36ec4d0922ac~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/carbon-credit-service-consulting"
+      ],
+      "altTexts": [
+        "Green Facade Design"
+      ],
+      "localPath": "/assets/11062b-d7798f4b354e43159b3f36ec4d0922ac-mv2-jpg-c23649c62755.jpg",
+      "contentType": "image/jpeg",
+      "hash": "c23649c62755689e5f9077c16d39858766c4fd2c493824ca5ddfcdc61656038a",
+      "width": 2000,
+      "height": 3008,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_99dd15b159eb4d84b2e3b28f937d86db~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/carbon-credit-service-consulting"
+      ],
+      "altTexts": [
+        "Modern Solar Panels"
+      ],
+      "localPath": "/assets/11062b-99dd15b159eb4d84b2e3b28f937d86db-mv2-jpg-00bce764aea3.jpg",
+      "contentType": "image/jpeg",
+      "hash": "00bce764aea32792a1e07e0df2c03ccbc51f109e9fa39a62f6c4d3ac5d1fd417",
+      "width": 4629,
+      "height": 3086,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_909c543b94db4abfa3364b3a1aa04540~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/carbon-credit-service-consulting"
+      ],
+      "altTexts": [
+        "Modern Urban Building"
+      ],
+      "localPath": "/assets/11062b-909c543b94db4abfa3364b3a1aa04540-mv2-jpg-6b1a9bab14fb.jpg",
+      "contentType": "image/jpeg",
+      "hash": "6b1a9bab14fbf37b2f0107b83032bc0826fcf893b7a7829545eedb63322719cf",
+      "width": 2912,
+      "height": 1632,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_325c85da0bea47789798ed15415f4fd3~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/carbon-credit-service-consulting"
+      ],
+      "altTexts": [
+        "Engineer with Solar Panels"
+      ],
+      "localPath": "/assets/11062b-325c85da0bea47789798ed15415f4fd3-mv2-jpg-299cac64f471.jpg",
+      "contentType": "image/jpeg",
+      "hash": "299cac64f4711fa68756b1ff27efff82ba493639980a7d763c4a066cbe41d8fa",
+      "width": 6000,
+      "height": 4000,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_91b5a0f3287b4f7fbefe6c138c6554fb~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/carbon-credit-service-consulting"
+      ],
+      "altTexts": [
+        "Carbon Credit Service Consulting"
+      ],
+      "localPath": "/assets/0446e3-91b5a0f3287b4f7fbefe6c138c6554fb-mv2-png-fcbc10bb6c2b.png",
+      "contentType": "image/png",
+      "hash": "fcbc10bb6c2bc19ed7b8716a7ea80ae52aa3c15d08c60f81fa9c7ec9f0be23f5",
+      "width": 1050,
+      "height": 1050,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_80f9cd9bf13c41cd971261d773fcc312~mv2_d_5700_3804_s_4_2.jpg",
+      "usages": [
+        "https://www.sustaind.in/climate-risk-assessment-consultants"
+      ],
+      "altTexts": [
+        "Farmers Group Portrait"
+      ],
+      "localPath": "/assets/11062b-80f9cd9bf13c41cd971261d773fcc312-mv2-d-5700-3804-s-4-2-jpg-47099f8fe42b.jpg",
+      "contentType": "image/jpeg",
+      "hash": "47099f8fe42bdd6d63e8aa070d162b8324fb7d031bceb6466ae27828aabb157e",
+      "width": 5700,
+      "height": 3804,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_bf57c14a628542cb9c9730f1c5ec2fd6~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/climate-risk-assessment-consultants"
+      ],
+      "altTexts": [
+        "Solar Energy Field"
+      ],
+      "localPath": "/assets/11062b-bf57c14a628542cb9c9730f1c5ec2fd6-mv2-jpg-78645f6dc7ac.jpg",
+      "contentType": "image/jpeg",
+      "hash": "78645f6dc7ac856700cce602bb0cf7395a4862c1948dffce9fb20f6d948b59f8",
+      "width": 3840,
+      "height": 2160,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_ab35a454d6ff4038bbd00a2278c32c68~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/climate-risk-assessment-consultants"
+      ],
+      "altTexts": [
+        "Community Gardening Effort"
+      ],
+      "localPath": "/assets/11062b-ab35a454d6ff4038bbd00a2278c32c68-mv2-jpg-dca280619c34.jpg",
+      "contentType": "image/jpeg",
+      "hash": "dca280619c34fe3e4356ff69fb8de7e87d245a5374cf20cfa0e38bd9eaade329",
+      "width": 2912,
+      "height": 1632,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/8ef393d429d64c5ab445f84c3e1337d2.jpg",
+      "usages": [
+        "https://www.sustaind.in/climate-risk-assessment-consultants",
+        "https://www.sustaind.in/irfs-service-consultant"
+      ],
+      "altTexts": [
+        "Green Rooftop Architecture"
+      ],
+      "localPath": "/assets/8ef393d429d64c5ab445f84c3e1337d2-jpg-15eade10e6f9.jpg",
+      "contentType": "image/jpeg",
+      "hash": "15eade10e6f9a316bd43a1b04c21224f59d81165218699240ef51312ab2a6e36",
+      "width": 6016,
+      "height": 4016,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_344738b5f26b433fb54e4dc3570fcc90~mv2.jpeg",
+      "usages": [
+        "https://www.sustaind.in/climate-risk-assessment-consultants"
+      ],
+      "altTexts": [
+        "Community Garden Gathering"
+      ],
+      "localPath": "/assets/11062b-344738b5f26b433fb54e4dc3570fcc90-mv2-jpeg-f5b7f522ecc9.jpg",
+      "contentType": "image/jpeg",
+      "hash": "f5b7f522ecc95e0c52f31ab5f1dac0b923fe911b473fad345361bdfff5444365",
+      "width": 5760,
+      "height": 3840,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_2fbf53a29e91416ca35461c5a39f4344~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/climate-risk-assessment-consultants"
+      ],
+      "altTexts": [
+        "Woman Holding Lettuce"
+      ],
+      "localPath": "/assets/11062b-2fbf53a29e91416ca35461c5a39f4344-mv2-jpg-289368708226.jpg",
+      "contentType": "image/jpeg",
+      "hash": "289368708226bf4f2c6361b44ba8c97330124fb44c5c398aa480726aaaa37e4a",
+      "width": 5000,
+      "height": 3333,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/b9d4d0a6bb8347e28c0cab2c395140bf.jpg",
+      "usages": [
+        "https://www.sustaind.in/climate-risk-assessment-consultants"
+      ],
+      "altTexts": [
+        "Harvesting Green Peppers"
+      ],
+      "localPath": "/assets/b9d4d0a6bb8347e28c0cab2c395140bf-jpg-19efc4b79321.jpg",
+      "contentType": "image/jpeg",
+      "hash": "19efc4b79321a3f383700d633abb7b4582bd27183352444985dd9431cc786567",
+      "width": 5019,
+      "height": 3346,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_e454078d2ded40a69b25f4016b234211~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/contact-us"
+      ],
+      "altTexts": [
+        "Green Buildings"
+      ],
+      "localPath": "/assets/11062b-e454078d2ded40a69b25f4016b234211-mv2-jpg-b282c212e144.jpg",
+      "contentType": "image/jpeg",
+      "hash": "b282c212e14406ccc1c88291d9168c4d2bd8222c3f5d269ccf05a693a933a2ce",
+      "width": 5000,
+      "height": 3334,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/480890ceef2444b8a2c9914e773d1404.jpg",
+      "usages": [
+        "https://www.sustaind.in/esg-advisory-service-consultants"
+      ],
+      "altTexts": [
+        "Environmental Activity Outdoors"
+      ],
+      "localPath": "/assets/480890ceef2444b8a2c9914e773d1404-jpg-2797a2ed695f.jpg",
+      "contentType": "image/jpeg",
+      "hash": "2797a2ed695f743c9d9f109977e1642f8542ffcba153bf7313f4ef9c6e088d45",
+      "width": 6000,
+      "height": 4004,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_66846533db5941479adb11ae8381e92a~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/esg-advisory-service-consultants"
+      ],
+      "altTexts": [
+        "Modern Green Building"
+      ],
+      "localPath": "/assets/11062b-66846533db5941479adb11ae8381e92a-mv2-jpg-61a79a95b594.jpg",
+      "contentType": "image/jpeg",
+      "hash": "61a79a95b59459616c87a466a56cd459416f44219052cf1fb01df771d22174b6",
+      "width": 3451,
+      "height": 2001,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_1438881d90a0412794c23f52eafc32a8~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/esg-advisory-service-consultants"
+      ],
+      "altTexts": [
+        "Electric Vehicle Charging"
+      ],
+      "localPath": "/assets/11062b-1438881d90a0412794c23f52eafc32a8-mv2-jpg-a3c9143d23d5.jpg",
+      "contentType": "image/jpeg",
+      "hash": "a3c9143d23d5a8369d32db56dfa9fd01ad94f7c3c78a4d2bf682427752c7e823",
+      "width": 5000,
+      "height": 3333,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_e6c08a9eb8fb4bc28210a4ff39466df3~mv2.jpeg",
+      "usages": [
+        "https://www.sustaind.in/esg-advisory-service-consultants"
+      ],
+      "altTexts": [
+        "Sprout in Eggshell"
+      ],
+      "localPath": "/assets/11062b-e6c08a9eb8fb4bc28210a4ff39466df3-mv2-jpeg-814acf4f0989.jpg",
+      "contentType": "image/jpeg",
+      "hash": "814acf4f0989a36157873182cc8aefe6853da642ada5956ad9daccf6569c020d",
+      "width": 5000,
+      "height": 3333,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_9e1bfe52f4a44ef3a4e1fdf580a01465~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/esg-advisory-service-consultants"
+      ],
+      "altTexts": [
+        "Vertical Garden Buildings"
+      ],
+      "localPath": "/assets/11062b-9e1bfe52f4a44ef3a4e1fdf580a01465-mv2-jpg-f0bfb17134f9.jpg",
+      "contentType": "image/jpeg",
+      "hash": "f0bfb17134f9fbcdf12b77ec40cd7f53a23da3235085655128d1b97ed2eb6fa4",
+      "width": 6000,
+      "height": 4000,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_55afbdfae50b4fa1af9708669d35a69d~mv2_d_2048_1365_s_2.jpg",
+      "usages": [
+        "https://www.sustaind.in/esg-advisory-service-consultants"
+      ],
+      "altTexts": [
+        "Wind Turbines Landscape"
+      ],
+      "localPath": "/assets/11062b-55afbdfae50b4fa1af9708669d35a69d-mv2-d-2048-1365-s-2-jpg-8e5e7ec0b0ef.jpg",
+      "contentType": "image/jpeg",
+      "hash": "8e5e7ec0b0ef7e7c761eb500c161733e23293d81e4268030e8c1118153ea15a1",
+      "width": 2048,
+      "height": 1365,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_41884d0c6bbb4a6d8f1fdb654f93670b~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/esg-advisory-service-consultants"
+      ],
+      "altTexts": [
+        "Electric Vehicle Chargers"
+      ],
+      "localPath": "/assets/11062b-41884d0c6bbb4a6d8f1fdb654f93670b-mv2-jpg-52250f461cba.jpg",
+      "contentType": "image/jpeg",
+      "hash": "52250f461cba358cc2bac1a7c46d278a46076241d6657070e794865445076852",
+      "width": 4544,
+      "height": 2215,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_968bb2d1c76c438e8327c6df51a6743e~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/esg-advisory-service-consultants"
+      ],
+      "altTexts": [
+        "Burning Globe Symbolism"
+      ],
+      "localPath": "/assets/11062b-968bb2d1c76c438e8327c6df51a6743e-mv2-jpg-c03903f52fa8.jpg",
+      "contentType": "image/jpeg",
+      "hash": "c03903f52fa892f1d9dc89807a660fae280d4ef3d5a519f22f7b621b580e8b08",
+      "width": 5000,
+      "height": 3749,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_c21d88731de04f2d8e50c0b59c1480f5~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/esg-advisory-service-consultants"
+      ],
+      "altTexts": [
+        "ESG Advisory Service Consultants "
+      ],
+      "localPath": "/assets/0446e3-c21d88731de04f2d8e50c0b59c1480f5-mv2-png-967fa6893950.png",
+      "contentType": "image/png",
+      "hash": "967fa6893950850399479a3fb704200ace650e574e42c216d665f2b3348b47fb",
+      "width": 900,
+      "height": 900,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_853c1ec79d71437bba18202d42761e37~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/esg-carbon-credit-and-sustainability-consulting-services"
+      ],
+      "altTexts": [
+        "Urban Green Space"
+      ],
+      "localPath": "/assets/11062b-853c1ec79d71437bba18202d42761e37-mv2-jpg-9be376623fc8.jpg",
+      "contentType": "image/jpeg",
+      "hash": "9be376623fc85b23522f0bb8830206a3d56a6043e9da344b6a924391f26f7cc7",
+      "width": 2464,
+      "height": 1856,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_6bb260d19a5440cfafc616f3afadc12d~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/esg-carbon-credit-and-sustainability-consulting-services"
+      ],
+      "altTexts": [
+        "Sustaind Services"
+      ],
+      "localPath": "/assets/0446e3-6bb260d19a5440cfafc616f3afadc12d-mv2-png-aca7ba8d29c9.png",
+      "contentType": "image/png",
+      "hash": "aca7ba8d29c98c337317c426ccae74ac26baffb6592e19f95ecf2a51b0615077",
+      "width": 1920,
+      "height": 1080,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_0d0684a101fe4e36a74f6e3db0afb71c~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/esg-carbon-credit-and-sustainability-consulting-services"
+      ],
+      "altTexts": [
+        "Modern Office Lobby"
+      ],
+      "localPath": "/assets/11062b-0d0684a101fe4e36a74f6e3db0afb71c-mv2-jpg-a789cc188128.jpg",
+      "contentType": "image/jpeg",
+      "hash": "a789cc1881289a444e7121d740b624edde50fcb0a3f18dad630d36d86e13578d",
+      "width": 2464,
+      "height": 1856,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_e16cb98fc41a4c128b1984d6352e9e3e~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/"
+      ],
+      "altTexts": [
+        "Wind Turbine Closeup"
+      ],
+      "localPath": "/assets/11062b-e16cb98fc41a4c128b1984d6352e9e3e-mv2-jpg-e32a764e9593.jpg",
+      "contentType": "image/jpeg",
+      "hash": "e32a764e9593fe60cc9fb4c5a602bd7a98336561336daf4a11927cad665e2b05",
+      "width": 4160,
+      "height": 2340,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_40328ef22d8a4893bab73f14f54b0d45~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/"
+      ],
+      "altTexts": [
+        "Powering Responsible Growth for Businesses Across India"
+      ],
+      "localPath": "/assets/0446e3-40328ef22d8a4893bab73f14f54b0d45-mv2-jpg-47aeffb5e08d.jpg",
+      "contentType": "image/jpeg",
+      "hash": "47aeffb5e08dff0c179b1faae80d996c21fdb70d4a7b7b4fe3cd2b8928114768",
+      "width": 912,
+      "height": 1600,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_1d7bc67df3924092a7e2470d4dba00ad~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/"
+      ],
+      "altTexts": [
+        "Wind Turbine Closeup"
+      ],
+      "localPath": "/assets/11062b-1d7bc67df3924092a7e2470d4dba00ad-mv2-jpg-af8d9a958bca.jpg",
+      "contentType": "image/jpeg",
+      "hash": "af8d9a958bca7ca4004637880293051906338524384edacc26cfca30ff30681d",
+      "width": 2774,
+      "height": 1458,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_ef6e2204be8f40c6af92b8a681b4a809~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/"
+      ],
+      "altTexts": [
+        "sustaind Approach — Global Frameworks. Local Execution. Measurable Outcomes."
+      ],
+      "localPath": "/assets/0446e3-ef6e2204be8f40c6af92b8a681b4a809-mv2-png-8ffa377ad5c9.png",
+      "contentType": "image/png",
+      "hash": "8ffa377ad5c9796d7239ffc10549ad417f2da7c20d1b90c68a9c5883f53fb5a1",
+      "width": 900,
+      "height": 900,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_e07dc4c0b7424e8abf438cb564cc6804~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/"
+      ],
+      "altTexts": [
+        "Carbon Credit Service Consulting"
+      ],
+      "localPath": "/assets/0446e3-e07dc4c0b7424e8abf438cb564cc6804-mv2-png-ecf83d1f9202.png",
+      "contentType": "image/png",
+      "hash": "ecf83d1f9202dc1bfc01a1b528aae4898f80078e630122205fe32d84e9b54d5b",
+      "width": 1200,
+      "height": 1200,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_36f549e59a6747f68a17eef908bc6c8e~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/"
+      ],
+      "altTexts": [
+        "Solar Heating Buildings"
+      ],
+      "localPath": "/assets/11062b-36f549e59a6747f68a17eef908bc6c8e-mv2-jpg-7ea32b9a67d9.jpg",
+      "contentType": "image/jpeg",
+      "hash": "7ea32b9a67d983495ae753aae41a4eeb01dab13ed796bc6de988f54169abade2",
+      "width": 4886,
+      "height": 3257,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_fefd82df6e8c4a71b1d93b3ece3002db~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/irfs-service-consultant"
+      ],
+      "altTexts": [
+        "Elderly Man with Turbine"
+      ],
+      "localPath": "/assets/11062b-fefd82df6e8c4a71b1d93b3ece3002db-mv2-jpg-71bf3d05ea72.jpg",
+      "contentType": "image/jpeg",
+      "hash": "71bf3d05ea725187b5fd16770cfe1a388344eeffb32b52692bc26fdc806f1a32",
+      "width": 6720,
+      "height": 4480,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_aaf31ded725448698abf486ccfc04dd7~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/irfs-service-consultant"
+      ],
+      "altTexts": [
+        "Farmer Using Tablet"
+      ],
+      "localPath": "/assets/11062b-aaf31ded725448698abf486ccfc04dd7-mv2-jpg-d15237c66c36.jpg",
+      "contentType": "image/jpeg",
+      "hash": "d15237c66c361b094c3497080fe848584786c1270f043bf137fc287a66d80131",
+      "width": 5000,
+      "height": 3333,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_77732064ecf74c17b2f55f40778e5c19~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/irfs-service-consultant"
+      ],
+      "altTexts": [
+        "Greenhouse Farming Scene"
+      ],
+      "localPath": "/assets/11062b-77732064ecf74c17b2f55f40778e5c19-mv2-jpg-a6962dc24de7.jpg",
+      "contentType": "image/jpeg",
+      "hash": "a6962dc24de77204e2a4f7f7958b2cf967487b0f5990c696bffbf137e6821fdc",
+      "width": 6720,
+      "height": 4480,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_7fe9c6e056b546f88ab46be01b0c046d~mv2.jpeg",
+      "usages": [
+        "https://www.sustaind.in/irfs-service-consultant"
+      ],
+      "altTexts": [
+        "Vertical Garden Design"
+      ],
+      "localPath": "/assets/11062b-7fe9c6e056b546f88ab46be01b0c046d-mv2-jpeg-2efececd0300.jpg",
+      "contentType": "image/jpeg",
+      "hash": "2efececd0300c89554d5ab606263ecdf849c5d250010210dafcfe2b79d2cf3cb",
+      "width": 4500,
+      "height": 3000,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/7b547e2ada214ed2974cc522cfc425e8.jpg",
+      "usages": [
+        "https://www.sustaind.in/irfs-service-consultant",
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Solar Panel Array"
+      ],
+      "localPath": "/assets/7b547e2ada214ed2974cc522cfc425e8-jpg-34f3429eec5e.jpg",
+      "contentType": "image/jpeg",
+      "hash": "34f3429eec5eadc423d636a859e3c442f9592aac31bf0ed59abf07d120acf2c9",
+      "width": 5100,
+      "height": 3400,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_caa79f32ca114d63b652b1182c10e530~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/irfs-service-consultant"
+      ],
+      "altTexts": [
+        "Modern Solar House"
+      ],
+      "localPath": "/assets/11062b-caa79f32ca114d63b652b1182c10e530-mv2-jpg-9606af07659b.jpg",
+      "contentType": "image/jpeg",
+      "hash": "9606af07659b6f2e9000c8a4717fc67ddd61c98a430d7915d828c1014b9cbc1b",
+      "width": 3333,
+      "height": 5000,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_5f2ceef3a7b841958ae3fc01d9c1933a~mv2.jpeg",
+      "usages": [
+        "https://www.sustaind.in/irfs-service-consultant"
+      ],
+      "altTexts": [
+        "Woman at the lake"
+      ],
+      "localPath": "/assets/11062b-5f2ceef3a7b841958ae3fc01d9c1933a-mv2-jpeg-0f5bb38e5ec2.jpg",
+      "contentType": "image/jpeg",
+      "hash": "0f5bb38e5ec298f8dd0ab131dbaff3f6520e52c2c775b09f2a2f1257879279b1",
+      "width": 5472,
+      "height": 3648,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b248bff97d4a43a5a3271012cab11f87~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/irfs-service-consultant"
+      ],
+      "altTexts": [
+        "ESG Advisory Service Consultants "
+      ],
+      "localPath": "/assets/0446e3-b248bff97d4a43a5a3271012cab11f87-mv2-png-f2ba9bed5086.png",
+      "contentType": "image/png",
+      "hash": "f2ba9bed5086ebc5bd1d61db1bacc22440ccb7e0c4f7375314419a0b417ec051",
+      "width": 900,
+      "height": 900,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_c57a3fdd0b144c8c9bc5f3309234596c~mv2.jpeg",
+      "usages": [
+        "https://www.sustaind.in/meet-the-team"
+      ],
+      "altTexts": [
+        "On the Train"
+      ],
+      "localPath": "/assets/11062b-c57a3fdd0b144c8c9bc5f3309234596c-mv2-jpeg-9e7e1c04bcf2.jpg",
+      "contentType": "image/jpeg",
+      "hash": "9e7e1c04bcf2ff5a9a8052021e000bb82d5159ac564ec3f0c452d616a98a94d2",
+      "width": 6000,
+      "height": 4000,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b8cbc41bda9a4beeade149cd6f20cdfe~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/meet-the-team"
+      ],
+      "altTexts": [
+        "Summit Goyal"
+      ],
+      "localPath": "/assets/0446e3-b8cbc41bda9a4beeade149cd6f20cdfe-mv2-png-91a956bbeca1.png",
+      "contentType": "image/png",
+      "hash": "91a956bbeca158c8b45c4c49f0c8e4aaa7887473078265328d0b9f464fa867d8",
+      "width": 500,
+      "height": 500,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_2570de86943a4f75902c04567498d800~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/meet-the-team"
+      ],
+      "altTexts": [
+        "Gurvinder Singh"
+      ],
+      "localPath": "/assets/0446e3-2570de86943a4f75902c04567498d800-mv2-png-8f817b4a018d.png",
+      "contentType": "image/png",
+      "hash": "8f817b4a018dbcd671a5816d5bbe07a386b5bd49671cc8c13d0b71a94c56346d",
+      "width": 500,
+      "height": 500,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b86754fbc6a34ab78867063f96980ac1~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/meet-the-team"
+      ],
+      "altTexts": [
+        "Saurabh Verma"
+      ],
+      "localPath": "/assets/0446e3-b86754fbc6a34ab78867063f96980ac1-mv2-png-a4db8da71314.png",
+      "contentType": "image/png",
+      "hash": "a4db8da71314c63903e0032fac94051554631f8034d1e1563fcc9c727f85693e",
+      "width": 500,
+      "height": 500,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_64f8582d8d4346bb9d24762c1baf59d8~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/meet-the-team"
+      ],
+      "altTexts": [
+        "Pankhuri Jain"
+      ],
+      "localPath": "/assets/0446e3-64f8582d8d4346bb9d24762c1baf59d8-mv2-png-db019662d980.png",
+      "contentType": "image/png",
+      "hash": "db019662d980f4272416168b4b2682bba9174e7e726766d0129609ddb6012de8",
+      "width": 500,
+      "height": 500,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_e1b0578864af4a8d8623ef3babb34d76~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/meet-the-team"
+      ],
+      "altTexts": [
+        "Pranav Bhardwaj"
+      ],
+      "localPath": "/assets/0446e3-e1b0578864af4a8d8623ef3babb34d76-mv2-png-81c417301684.png",
+      "contentType": "image/png",
+      "hash": "81c417301684efa19abad24d4599a890e0be39824b6cee53224e6726c861bb1e",
+      "width": 500,
+      "height": 500,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_82b859f955604a0fa9a2656e7c3285d5~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/meet-the-team"
+      ],
+      "altTexts": [
+        "Sustaind India"
+      ],
+      "localPath": "/assets/0446e3-82b859f955604a0fa9a2656e7c3285d5-mv2-png-efd416b0261c.png",
+      "contentType": "image/png",
+      "hash": "efd416b0261c11fb03bfec63636af6751d510c2a31660912f8be4934608d370e",
+      "width": 1920,
+      "height": 1080,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_6508d5e8e7114f0ea559c16ff6782616~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india"
+      ],
+      "altTexts": [
+        "How Do Carbon Credits Help Companies Meet Their Net Zero Targets?"
+      ],
+      "localPath": "/assets/0446e3-6508d5e8e7114f0ea559c16ff6782616-mv2-png-c99d90b1b057.png",
+      "contentType": "image/png",
+      "hash": "c99d90b1b057d8ce6576edcbf94ef701fb92615cbe57b7c551a69e3a28ec2e75",
+      "width": 2986,
+      "height": 1337,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_0691df803dbc4d56ba0782b2eb59ec03~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-0691df803dbc4d56ba0782b2eb59ec03-mv2-png-56cc052d793d.png",
+      "contentType": "image/png",
+      "hash": "56cc052d793d9dae2ad1a33fb160c6fbdd53a1e91693ad694df1794a5f0ffe14",
+      "width": 3172,
+      "height": 1337,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_f78bd8f7e2d84eff951b577491853301~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-f78bd8f7e2d84eff951b577491853301-mv2-png-8e2a72c5d793.png",
+      "contentType": "image/png",
+      "hash": "8e2a72c5d79387285b46e01aed975c44fd2c18d72f8950ea9fe7a58c392bb02c",
+      "width": 2892,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_4e59c7a6a34c46cbaa47eff2a1d7263f~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-4e59c7a6a34c46cbaa47eff2a1d7263f-mv2-png-ef80becf412d.png",
+      "contentType": "image/png",
+      "hash": "ef80becf412deef6db2533938a33ef60b99176cc375f77da34ed2689cf6e1455",
+      "width": 2910,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_a88f0710a460401d8029e85e952ecba4~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-a88f0710a460401d8029e85e952ecba4-mv2-png-ff9e6f40124c.png",
+      "contentType": "image/png",
+      "hash": "ff9e6f40124c718d9d8c0eee862df6c683102e8daff169853aa0eb9543248681",
+      "width": 3130,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_6cc993f2a0f44f1692ca67213c314a99~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-6cc993f2a0f44f1692ca67213c314a99-mv2-png-1b585df45986.png",
+      "contentType": "image/png",
+      "hash": "1b585df45986f56e874b8bd5408c162bb5f84f1558b5d899773646c7abe2d353",
+      "width": 2860,
+      "height": 1437,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_eec25beaf5ad482290d7f01cd824ff2a~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/carbon-credits-services-consultants-in-gurugram"
+      ],
+      "altTexts": [
+        "Carbon Credits Services Consultants in Gurugram"
+      ],
+      "localPath": "/assets/0446e3-eec25beaf5ad482290d7f01cd824ff2a-mv2-png-1fe2272a39e3.png",
+      "contentType": "image/png",
+      "hash": "1fe2272a39e36fc428e134325b594ee1324cca7e9ac760af58a4d0d5e556172f",
+      "width": 1200,
+      "height": 630,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_8f0b02e8e0fc4932bdc08042587c7d25~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/carbon-credits-services-consultants-in-gurugram"
+      ],
+      "altTexts": [
+        "What Are Carbon Credits?"
+      ],
+      "localPath": "/assets/0446e3-8f0b02e8e0fc4932bdc08042587c7d25-mv2-png-f0117ed08433.png",
+      "contentType": "image/png",
+      "hash": "f0117ed084336108224d219e319e9f8ff5face799fa7df011416f50ea81df0ac",
+      "width": 518,
+      "height": 137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_af49327360404dc7a1e0cb9500e062e8~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/carbon-credits-services-consultants-in-gurugram"
+      ],
+      "altTexts": [
+        "Understanding Carbon Credits"
+      ],
+      "localPath": "/assets/0446e3-af49327360404dc7a1e0cb9500e062e8-mv2-png-601202a95191.png",
+      "contentType": "image/png",
+      "hash": "601202a951911678764cc18b98f3d02fa118436a180416879630ac2e9bccfd71",
+      "width": 1460,
+      "height": 1140,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_70746160d0cf4a019752270a03a86aa8~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/carbon-credits-services-consultants-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-70746160d0cf4a019752270a03a86aa8-mv2-png-5f4880f79aa3.png",
+      "contentType": "image/png",
+      "hash": "5f4880f79aa3de5e88738573a599718f8f4abee6b57b421bf4060ca5db0c81f7",
+      "width": 2420,
+      "height": 1540,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_11ed16e7616f4c328e0f1f2b5620911d~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/carbon-credits-services-consultants-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-11ed16e7616f4c328e0f1f2b5620911d-mv2-png-e2abaac737ce.png",
+      "contentType": "image/png",
+      "hash": "e2abaac737ced340bcd9e67990447371ec2627ff40c2a3b8bccbc1dee6bea5f9",
+      "width": 2525,
+      "height": 1240,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_0018c4baaa6d4f03bc5c59b85205acf2~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-0018c4baaa6d4f03bc5c59b85205acf2-mv2-png-67337a2bcc37.png",
+      "contentType": "image/png",
+      "hash": "67337a2bcc37c70fdf8dd8fd369f62cb62e5d7608f1c7548c1b5a01c139adec8",
+      "width": 3169,
+      "height": 1437,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_251344fe781e47ef96e114ca4427b246~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-251344fe781e47ef96e114ca4427b246-mv2-png-b55d67983e67.png",
+      "contentType": "image/png",
+      "hash": "b55d67983e67b479fcf4e26b964ac3c658696d414f4705a60a01339a5da6cd65",
+      "width": 3008,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_05309512aa014f2bb751e52727147abf~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-05309512aa014f2bb751e52727147abf-mv2-png-37130684e91b.png",
+      "contentType": "image/png",
+      "hash": "37130684e91b9725c882ff346b32e6ae75d87daf5292df8c7dc9b652b11fa3ad",
+      "width": 3414,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_6cc28eb51c70479a810f2344b51c1814~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-6cc28eb51c70479a810f2344b51c1814-mv2-png-e4f1c305fbbf.png",
+      "contentType": "image/png",
+      "hash": "e4f1c305fbbf8ee4073006b87d99df54f6fc075042ca34f44d0360aabe824305",
+      "width": 3288,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_453caace708d4570925c13fd233204af~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-453caace708d4570925c13fd233204af-mv2-png-a4962132283d.png",
+      "contentType": "image/png",
+      "hash": "a4962132283d1c466c64a5591ea375a0be4cc70009e070d7aa9cbf2a5e5f4a05",
+      "width": 3335,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_df78b5de045a43428d2583bc471738a8~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-df78b5de045a43428d2583bc471738a8-mv2-png-c59900d8b7bb.png",
+      "contentType": "image/png",
+      "hash": "c59900d8b7bb8834eae58f8dfde676f78831597f3227e24060e37c191b7ed888",
+      "width": 3326,
+      "height": 1337,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_1d76632f2fa24602beb6a577a3ccb42a~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-1d76632f2fa24602beb6a577a3ccb42a-mv2-png-f0bbb5875777.png",
+      "contentType": "image/png",
+      "hash": "f0bbb58757771974eab8bf218ddf9ddc6c8073359f5db4f7009d9b1a7466a010",
+      "width": 2518,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_2d9580c0a8404d55a3d58f04b3f14fd4~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-2d9580c0a8404d55a3d58f04b3f14fd4-mv2-png-e898e1bd85e7.png",
+      "contentType": "image/png",
+      "hash": "e898e1bd85e795912ae3e0ce71fcd4eaa3af2fa122bf82f10f28c14da3b9d556",
+      "width": 4089,
+      "height": 1537,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_bc336c719a7642e68b1c07db1d59978b~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-bc336c719a7642e68b1c07db1d59978b-mv2-png-a3ddfb53d72e.png",
+      "contentType": "image/png",
+      "hash": "a3ddfb53d72e1bd3c203feeaff1ffd9a461ce69d50a1f592c65fc48a148111ad",
+      "width": 4087,
+      "height": 1337,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_9c351c1b0e9c4fc88b1255747f8a5d2c~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-9c351c1b0e9c4fc88b1255747f8a5d2c-mv2-png-c992f8d6da49.png",
+      "contentType": "image/png",
+      "hash": "c992f8d6da490c65cff18d6aaa601f6bd7b877140e2cbaf2976f00ea681ec4c5",
+      "width": 3374,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_38095896970846349339f3b08fcd4874~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-38095896970846349339f3b08fcd4874-mv2-png-1550b11f3be2.png",
+      "contentType": "image/png",
+      "hash": "1550b11f3be2568dcfe4d867fc1ae31e2fa402a6c14eb532fa4a5beca5d3455f",
+      "width": 3581,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_89085474a38a4188a8fe3c475a7be1ae~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-89085474a38a4188a8fe3c475a7be1ae-mv2-png-4ef8babd1c1f.png",
+      "contentType": "image/png",
+      "hash": "4ef8babd1c1f5abe7999f7ae97e8aee7b793d7df269b6f317aa5337c580500c1",
+      "width": 3471,
+      "height": 1337,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_c7b86bfab53847069b5229cdbe43f900~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-c7b86bfab53847069b5229cdbe43f900-mv2-png-a9560b6ab715.png",
+      "contentType": "image/png",
+      "hash": "a9560b6ab7152094d448d675ba3ab052fb2e45cd83be940f1eb97a4211c7a78a",
+      "width": 3461,
+      "height": 1437,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_4c9fe1d6700b47f8aa823e3470f5e79e~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-4c9fe1d6700b47f8aa823e3470f5e79e-mv2-png-d718fc7aa131.png",
+      "contentType": "image/png",
+      "hash": "d718fc7aa131b3e1081ec2323aa653165dfe022933506fe46be65dde494d8cda",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b63d3e88db094cc594c680b825e6ed81~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-b63d3e88db094cc594c680b825e6ed81-mv2-png-911dd8391033.png",
+      "contentType": "image/png",
+      "hash": "911dd839103363821bcf8f758ecff14507d6a6eb9c884c4bb8ae4197fddfa926",
+      "width": 3164,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_7a78234903124d02a76c5452e3b8a133~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-7a78234903124d02a76c5452e3b8a133-mv2-png-d98e910ab1d6.png",
+      "contentType": "image/png",
+      "hash": "d98e910ab1d61b8ead6101a011c89b23c133fe8c53b8dfc424d9e1a4b24b9202",
+      "width": 3065,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b6d4d41edb4648e584ef1e45c4ecb740~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-b6d4d41edb4648e584ef1e45c4ecb740-mv2-png-203a88a738af.png",
+      "contentType": "image/png",
+      "hash": "203a88a738af49865519905d96fcf22b1e0d11c8bc6d4c7796baa858ebaea61b",
+      "width": 3973,
+      "height": 1037,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_3a44cac3e86845069b4aac586d0ee32b~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-3a44cac3e86845069b4aac586d0ee32b-mv2-png-e18a3679e8f2.png",
+      "contentType": "image/png",
+      "hash": "e18a3679e8f2ec6f2301486a81a13ebd9d6c8beb56f6d6d8145f12477ec24fbf",
+      "width": 3899,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_7051b9e80eed499ba7eedf98740bf1ad~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-7051b9e80eed499ba7eedf98740bf1ad-mv2-png-6cf3cea8b6b3.png",
+      "contentType": "image/png",
+      "hash": "6cf3cea8b6b3947c5ffb8a396d91bc5d092a5c01dd26186c60e6bba7025bb76a",
+      "width": 3005,
+      "height": 1037,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_68a4b0303a274ca490791719562a0340~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram"
+      ],
+      "altTexts": [
+        "ESG Advisory Service Consultants in Gurugram"
+      ],
+      "localPath": "/assets/0446e3-68a4b0303a274ca490791719562a0340-mv2-png-64607b96d45a.png",
+      "contentType": "image/png",
+      "hash": "64607b96d45a62055b64d68f8aae2a11e7c052fef3f2488a90964ff47fe9f684",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_29dfadab65284c9483578d167a1eb2e1~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-29dfadab65284c9483578d167a1eb2e1-mv2-png-71539c27c3a9.png",
+      "contentType": "image/png",
+      "hash": "71539c27c3a9ecb5325d0d39f62a6be3b262ddfb0de4cf4fddbe4d00ef134e1c",
+      "width": 1961,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_8af5f024ffe24a3087776d699eff0b21~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-8af5f024ffe24a3087776d699eff0b21-mv2-png-9d8493cdfa2b.png",
+      "contentType": "image/png",
+      "hash": "9d8493cdfa2bb8bed99c6fe9d2268436f1334bc7732d382b56010440dc697126",
+      "width": 3526,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_49f6bf76154c4cb1a2874ea72c78cca6~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-49f6bf76154c4cb1a2874ea72c78cca6-mv2-png-6ca2f89f258c.png",
+      "contentType": "image/png",
+      "hash": "6ca2f89f258c378e377a9a9ae595d3bb09b158a4cad233e32bd1efd51b69e24b",
+      "width": 3034,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_3c7418a2c5e64315add00537bf0e4719~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-3c7418a2c5e64315add00537bf0e4719-mv2-png-8254bbdb4e68.png",
+      "contentType": "image/png",
+      "hash": "8254bbdb4e684ea1566b74737b7a62b5bb1fb0d373081f6d9a7de0b7d844ec00",
+      "width": 3769,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_1a8c4b743fca4b0d92123893e97fbc76~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-1a8c4b743fca4b0d92123893e97fbc76-mv2-png-600858e63f30.png",
+      "contentType": "image/png",
+      "hash": "600858e63f30d858099682cfc4f93e9f070f5d5fd213560c52adde8466032ace",
+      "width": 3103,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_d56bc59705aa44d787a5dd85763cd734~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-d56bc59705aa44d787a5dd85763cd734-mv2-png-1a0b5420615c.png",
+      "contentType": "image/png",
+      "hash": "1a0b5420615c29c56196f3fbfff820db24858340de1bae595e2ac54f322a6626",
+      "width": 3005,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_f5bc1be0e00f40809513c830c639d90a~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies"
+      ],
+      "altTexts": [
+        "ESG Advisory Services for Indian Companies"
+      ],
+      "localPath": "/assets/0446e3-f5bc1be0e00f40809513c830c639d90a-mv2-png-717296eebe6c.png",
+      "contentType": "image/png",
+      "hash": "717296eebe6c8e068f4ed90a3bba3122669694093b427f2cb68bea25bdf883bc",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_9ba949c0583146c4a95b9491276e3539~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies"
+      ],
+      "altTexts": [
+        "ESG Advisory Services for Indian Companies"
+      ],
+      "localPath": "/assets/0446e3-9ba949c0583146c4a95b9491276e3539-mv2-png-fa876bde82dd.png",
+      "contentType": "image/png",
+      "hash": "fa876bde82dddfd735ce7fa4a8be03902ce4ff4eb0de9a57cc8d9f99830a08db",
+      "width": 2400,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_2003187938ea4aca94f211cf89cd6564~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-2003187938ea4aca94f211cf89cd6564-mv2-png-0eaf7a0c8f3e.png",
+      "contentType": "image/png",
+      "hash": "0eaf7a0c8f3e7413d7e6af2b439d4d04e5ce2ae8cf7060292a4d5b9a55521dbf",
+      "width": 3180,
+      "height": 1037,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_ba336d961d43476380da2da128110c87~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-ba336d961d43476380da2da128110c87-mv2-png-f5abc9e6d004.png",
+      "contentType": "image/png",
+      "hash": "f5abc9e6d0043c764a18149368ddb1dd366e5c418b31dd534341b4fdd094615a",
+      "width": 2861,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_5cef660f2dbc407a9066109ee7c7061e~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-5cef660f2dbc407a9066109ee7c7061e-mv2-png-a40598ce8d91.png",
+      "contentType": "image/png",
+      "hash": "a40598ce8d9171aeadb5627f37165f96c427114bab47974591c45a961a43692a",
+      "width": 2895,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_27db76daa2324ffca3e066c5fa598e3b~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-27db76daa2324ffca3e066c5fa598e3b-mv2-png-ccaa36deb1a2.png",
+      "contentType": "image/png",
+      "hash": "ccaa36deb1a29f56ead06ba70cd19177bde9d27ca5056e55512a37bcd5e16d57",
+      "width": 2864,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_5b667ba5bc0b448ba9bf60f05a72ccbe~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india"
+      ],
+      "altTexts": [
+        "How to buy carbon credits in India"
+      ],
+      "localPath": "/assets/0446e3-5b667ba5bc0b448ba9bf60f05a72ccbe-mv2-png-473bda4a6977.png",
+      "contentType": "image/png",
+      "hash": "473bda4a69770589fce80b1736e0edcb924f6ad3af232eec5d36661421a44469",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_e8ed94b71c0f4a2c9e7c96884b69f0df~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india"
+      ],
+      "altTexts": [
+        "How to buy carbon credits in India"
+      ],
+      "localPath": "/assets/0446e3-e8ed94b71c0f4a2c9e7c96884b69f0df-mv2-png-e8b98b277a55.png",
+      "contentType": "image/png",
+      "hash": "e8b98b277a5539bcc8ee3464b0907bf691141558dabb90b17621a2c2b88a4894",
+      "width": 2024,
+      "height": 1337,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_20a6622441974483a474b50f35fb1737~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-20a6622441974483a474b50f35fb1737-mv2-png-a7f002c5a02a.png",
+      "contentType": "image/png",
+      "hash": "a7f002c5a02aa9d4176ba927aca0411173a19aaa9a0dec07c9030316f6f4fb47",
+      "width": 2890,
+      "height": 1337,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_a691e03d35aa487daff5276e1b9496ad~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-a691e03d35aa487daff5276e1b9496ad-mv2-png-a40d8f911789.png",
+      "contentType": "image/png",
+      "hash": "a40d8f911789cc6dc43b3bac5affe0ab86eaa3887c4a71881bcb0b8579725fc0",
+      "width": 2843,
+      "height": 1337,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_dc35bec73dbb4dfcaf45879b3dc82a70~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-dc35bec73dbb4dfcaf45879b3dc82a70-mv2-png-7b6707a703a9.png",
+      "contentType": "image/png",
+      "hash": "7b6707a703a9243eb13167dfa7bdcdd9523544170e52b756b8516f6215d02f54",
+      "width": 3049,
+      "height": 1337,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_163cd7d1709f4cd49151a4e450c4c981~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-163cd7d1709f4cd49151a4e450c4c981-mv2-png-189c31f77582.png",
+      "contentType": "image/png",
+      "hash": "189c31f775823cead04e59263581e1693f40c7e0dee07d2f571d4147cdd2c68c",
+      "width": 2972,
+      "height": 1437,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_1d0e95188f83478d8339863f9636f8d5~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-1d0e95188f83478d8339863f9636f8d5-mv2-png-72f0f9b3c1c9.png",
+      "contentType": "image/png",
+      "hash": "72f0f9b3c1c971d4cf5735eabfc46ffd9f4c507210683d2c3d1e2df71b32b1b5",
+      "width": 2909,
+      "height": 1637,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_2292124ddb3949e18e8da4835080c48d~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-2292124ddb3949e18e8da4835080c48d-mv2-png-4071bdd879fc.png",
+      "contentType": "image/png",
+      "hash": "4071bdd879fc77c6b54a7f478cde22803e19f6dcf3be16759e6d724431f4cc2b",
+      "width": 2596,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b12c090e20094bb0846c4b1784d3cc58~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-b12c090e20094bb0846c4b1784d3cc58-mv2-png-e9b66afcdfee.png",
+      "contentType": "image/png",
+      "hash": "e9b66afcdfeee8ccdbf6a0c2920b90c62a4d99f8ed57f9b6fdfa86550052e7e0",
+      "width": 3535,
+      "height": 1437,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_17b150c336a54142874aca12714aa3a2~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-17b150c336a54142874aca12714aa3a2-mv2-png-854f6755cf54.png",
+      "contentType": "image/png",
+      "hash": "854f6755cf54f8c875a36573d07cc6828dcea3718b3cbdd884864fff2d709268",
+      "width": 3553,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_3a847ee7ab9c4e5bbde74ba35b06ef7a~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-3a847ee7ab9c4e5bbde74ba35b06ef7a-mv2-png-0ec950e670c7.png",
+      "contentType": "image/png",
+      "hash": "0ec950e670c772e816b4a397ea7d6324e5c09d8a2ba47f16bba17eee76e7c55c",
+      "width": 3081,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_bfcf49da46384122b264d48da236f391~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-bfcf49da46384122b264d48da236f391-mv2-png-8a1fcad5ee56.png",
+      "contentType": "image/png",
+      "hash": "8a1fcad5ee56fe4698d0665ab75c4fae31bce31ebc51fb3e34ba656781c705ad",
+      "width": 3166,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_ece5d9ff087b46e4a5da5d2c81653766~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-ece5d9ff087b46e4a5da5d2c81653766-mv2-png-10e4034d823c.png",
+      "contentType": "image/png",
+      "hash": "10e4034d823caeab563d68e9f913055dc8e9cbc9369bb2945020cfb1b8ee3a35",
+      "width": 2881,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_bb823248a7664fcc97bde1ed1cb5183a~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-bb823248a7664fcc97bde1ed1cb5183a-mv2-png-800c4e911c34.png",
+      "contentType": "image/png",
+      "hash": "800c4e911c340587ee4b9d7ebd36e05d9510016b8eaf03a137e7c3ae9588d5c9",
+      "width": 3060,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_4ef5fba8b771411f8b5ba848b16fb98d~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-4ef5fba8b771411f8b5ba848b16fb98d-mv2-png-781c16de59fd.png",
+      "contentType": "image/png",
+      "hash": "781c16de59fd9cb5d6380de34ae2e09fee1d6f24f2d3eec2bc705dc03d4b2764",
+      "width": 3055,
+      "height": 1437,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_bbb3ab9148ba49f9ad88f46750de9602~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram"
+      ],
+      "altTexts": [
+        "IFRS Service Consulting in Gurugram"
+      ],
+      "localPath": "/assets/0446e3-bbb3ab9148ba49f9ad88f46750de9602-mv2-png-ecf499e75157.png",
+      "contentType": "image/png",
+      "hash": "ecf499e751571ef94aadcb30bf0a83d4af9963acae4231465b3e1d62a1e38edc",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b98ae3fcc3614b769815440c4e796f98~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-b98ae3fcc3614b769815440c4e796f98-mv2-png-019050317845.png",
+      "contentType": "image/png",
+      "hash": "019050317845ef557bd48630f32bcb9fe5bdf60ba122b0f8cedf8cdc1597930f",
+      "width": 1773,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_c90e3520a57149ee9094008e8db5042f~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-c90e3520a57149ee9094008e8db5042f-mv2-png-1cbed0fc5c37.png",
+      "contentType": "image/png",
+      "hash": "1cbed0fc5c37e09ac9489eb8ba0ad368da0b450f428c3609c82c2836f5b0c926",
+      "width": 2686,
+      "height": 1337,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_2007d886b28342fbb694b958bb08c625~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-2007d886b28342fbb694b958bb08c625-mv2-png-c57bb467ea6a.png",
+      "contentType": "image/png",
+      "hash": "c57bb467ea6a6c85ba3573ca2812d243920a00370ad28d544fadb3d737fb68c8",
+      "width": 2796,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_28b5fef6bb0c4b96ba9df3867dd4e498~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-28b5fef6bb0c4b96ba9df3867dd4e498-mv2-png-8530c104f9a5.png",
+      "contentType": "image/png",
+      "hash": "8530c104f9a5d9e1bc21d8e2567b11e056ec5fbbdb10cab8768a23b4e8c9bcef",
+      "width": 2778,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_a587c2592a3f40e8a0463cafeb4ed534~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-a587c2592a3f40e8a0463cafeb4ed534-mv2-png-f54fb38979ec.png",
+      "contentType": "image/png",
+      "hash": "f54fb38979ec00227ce20b9388d3598e347314cc892affb77e7bd230fd61dfee",
+      "width": 2654,
+      "height": 1437,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_58c2d72211344e00a17a4f71fb63ffa2~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-58c2d72211344e00a17a4f71fb63ffa2-mv2-png-bd8a607c5bcc.png",
+      "contentType": "image/png",
+      "hash": "bd8a607c5bccecf88e4c54b7a4f20499cb69837d21876d82423870a79260b7c3",
+      "width": 2771,
+      "height": 1037,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_4fca8671d55d49bd92d4eb285e9b5616~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-4fca8671d55d49bd92d4eb285e9b5616-mv2-png-5e93ce6fbe92.png",
+      "contentType": "image/png",
+      "hash": "5e93ce6fbe9278eff5eb4f8b0b3dca2e4b927a7a4f11516283b7dace74c0960a",
+      "width": 4327,
+      "height": 1037,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_78591f8c2c414f5e8625921353363624~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-78591f8c2c414f5e8625921353363624-mv2-png-142ab584dab8.png",
+      "contentType": "image/png",
+      "hash": "142ab584dab85fba84bc33580cd38eca381314e26154f78770a61f4a4ac486f2",
+      "width": 4175,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_f1c9c5c38df9433193bc50e08aa22f02~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-f1c9c5c38df9433193bc50e08aa22f02-mv2-png-b8f34b7d75a1.png",
+      "contentType": "image/png",
+      "hash": "b8f34b7d75a17e4da9d9eb2419e6d8a105e053f348924ce480692f5190e8092b",
+      "width": 3298,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b40c933aa94143cda8d587d8ecc4d241~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-b40c933aa94143cda8d587d8ecc4d241-mv2-png-e516e3a8c18c.png",
+      "contentType": "image/png",
+      "hash": "e516e3a8c18c6c393c8a9398fb81adba486ae7b1b13a253484e6514411663f9d",
+      "width": 3362,
+      "height": 1037,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_262f104092714f2f93cebd762eb11701~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-262f104092714f2f93cebd762eb11701-mv2-png-eac078da17f9.png",
+      "contentType": "image/png",
+      "hash": "eac078da17f95f6ff15773cbcdb9c78a3f27b01f4097e64913d78b48a74ea17d",
+      "width": 3305,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_e01f8d9ed2754ce8a62d570d6b35c507~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india"
+      ],
+      "altTexts": [
+        "IFRS vs BRSR Reporting Difference in India"
+      ],
+      "localPath": "/assets/0446e3-e01f8d9ed2754ce8a62d570d6b35c507-mv2-png-e603a7e084b8.png",
+      "contentType": "image/png",
+      "hash": "e603a7e084b81cb11d39252566f96ef978930fdf124e18b8cd5ed162d6d4a8c2",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_32d9f0f3aeec45938f96708d38b66aac~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-32d9f0f3aeec45938f96708d38b66aac-mv2-png-ba730a0fb21e.png",
+      "contentType": "image/png",
+      "hash": "ba730a0fb21ed2496800f2b797dc676f703c7ec7b4d630e945c0c10495db8eea",
+      "width": 3151,
+      "height": 1537,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_39242cb5f08d4d8ea6b4c56f22b5212f~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-39242cb5f08d4d8ea6b4c56f22b5212f-mv2-png-96eea2ab998f.png",
+      "contentType": "image/png",
+      "hash": "96eea2ab998f46d426b54c5461c624d48f9c591bfd7d8c0a3d7fbb260a1a1c21",
+      "width": 2682,
+      "height": 1337,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b02422350e834513925b21a9add25e78~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-b02422350e834513925b21a9add25e78-mv2-png-b95f04d6f5ea.png",
+      "contentType": "image/png",
+      "hash": "b95f04d6f5ea31e5ad309a362aab648045d3e81201ee5d29638f7bfc47324385",
+      "width": 3114,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_55f21f263606442eaa896a2d9f0b9333~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-55f21f263606442eaa896a2d9f0b9333-mv2-png-b459677738f7.png",
+      "contentType": "image/png",
+      "hash": "b459677738f7131abf68dc044ddc98e2feaa997c4e2d839b844bedc2f915d32d",
+      "width": 2953,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_1f54cbce3f9342bda185e9bb83b9450e~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-1f54cbce3f9342bda185e9bb83b9450e-mv2-png-ddca703e268b.png",
+      "contentType": "image/png",
+      "hash": "ddca703e268b0de6aba8a2cda636f65fd681cb464f83e0adee046581e1271ac8",
+      "width": 2785,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_d6685bae053547489fb7638e2aea1d6b~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-d6685bae053547489fb7638e2aea1d6b-mv2-png-bc5d9c8f70e0.png",
+      "contentType": "image/png",
+      "hash": "bc5d9c8f70e08117b073de349b95118a375360d7ef92ac37573d04d967ee01bf",
+      "width": 2766,
+      "height": 1337,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b5e011ffadd54dfd9cb8ea04840d07ca~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-b5e011ffadd54dfd9cb8ea04840d07ca-mv2-png-410b92163dba.png",
+      "contentType": "image/png",
+      "hash": "410b92163dbabff28eac6e6f9a2634329af8da30c8ea38f9e2cf5eb2bd4003c8",
+      "width": 3064,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_138fbe448f184a18bd6a8eded125d5f2~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-138fbe448f184a18bd6a8eded125d5f2-mv2-png-00ed16f8c943.png",
+      "contentType": "image/png",
+      "hash": "00ed16f8c943368ec065961fba85b1d0ed07e8e1deb9c6cfb34e99a3ce48e6b3",
+      "width": 3042,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_8ca4c8efb2fe4c988a7097a0473da344~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-8ca4c8efb2fe4c988a7097a0473da344-mv2-png-627d1593edcf.png",
+      "contentType": "image/png",
+      "hash": "627d1593edcff040b19acd94e1ec39983103bd2fe8e3f89988cd0d375eb171e6",
+      "width": 2927,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_ed8d3c0b597f45fba38b2d5dfb20d9c7~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-ed8d3c0b597f45fba38b2d5dfb20d9c7-mv2-png-d794ac6b8072.png",
+      "contentType": "image/png",
+      "hash": "d794ac6b80726f4cb4a04a7243da716fdd974a7a133337ed389673fdf68f2471",
+      "width": 3167,
+      "height": 1037,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_851accdac581410889222b23355fe6af~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-851accdac581410889222b23355fe6af-mv2-png-0dece2639644.png",
+      "contentType": "image/png",
+      "hash": "0dece2639644b54144aa95bcf5c1eec1ccc53b591ec1f898427f54c0cbe434db",
+      "width": 2903,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_ad36328b4d584497814fc6b8af31b51c~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-ad36328b4d584497814fc6b8af31b51c-mv2-png-5c2ef9321f52.png",
+      "contentType": "image/png",
+      "hash": "5c2ef9321f5287eda71dc943bfb7580d297e204aa0dc36dc96c5f1a48023ff03",
+      "width": 3052,
+      "height": 1037,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_daeb04728eb24bcf86cfa0c8bae64741~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-daeb04728eb24bcf86cfa0c8bae64741-mv2-png-122dfd7fa0dd.png",
+      "contentType": "image/png",
+      "hash": "122dfd7fa0dd8334bdf69f118d1c6fd50f08be7412f7747101cd88b20ba9196d",
+      "width": 4703,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_db5f55a3a740418c9a2da29c25da62f7~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-db5f55a3a740418c9a2da29c25da62f7-mv2-png-1988f5957305.png",
+      "contentType": "image/png",
+      "hash": "1988f59573053c171df4b4d1b84c79a8ea444011de38c32773ed13ce551e6ff4",
+      "width": 4948,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_d130aecce14a4e2bae8956319ed40cf2~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-d130aecce14a4e2bae8956319ed40cf2-mv2-png-f1e932d03bc3.png",
+      "contentType": "image/png",
+      "hash": "f1e932d03bc32c026c32772644147bbd7655e7c42cbfd04d7eff39153fc4a0af",
+      "width": 5154,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_0fead16731534545922b20ba4ac7cda5~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-0fead16731534545922b20ba4ac7cda5-mv2-png-4ffa2dbe22ff.png",
+      "contentType": "image/png",
+      "hash": "4ffa2dbe22ffab5c649f2b3c6834f495858bcc411238dfefc61e1e72d3e06ad3",
+      "width": 4769,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_afd55ed332fa426493571c72928c9351~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-afd55ed332fa426493571c72928c9351-mv2-png-63921892cd42.png",
+      "contentType": "image/png",
+      "hash": "63921892cd42ac8e493f0860d1071a693df7c4655ff323107f07f911218854fb",
+      "width": 4876,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_6b98d1d5ccfd47c5b0e29bf12106b858~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-6b98d1d5ccfd47c5b0e29bf12106b858-mv2-png-ed0ca39b863d.png",
+      "contentType": "image/png",
+      "hash": "ed0ca39b863d6ebfaadc7eafb6ac7bfcdee374f4e808eecb963be416381e47f0",
+      "width": 3327,
+      "height": 837,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_fee4184525364f898392384653ded10f~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-fee4184525364f898392384653ded10f-mv2-png-f391e7170071.png",
+      "contentType": "image/png",
+      "hash": "f391e7170071f38eb2639dec67dce4fe857c686a8785d225ce7042c92a470388",
+      "width": 3441,
+      "height": 1037,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_d7e20fef48cf4fab8ac7826c4c8d3c11~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-d7e20fef48cf4fab8ac7826c4c8d3c11-mv2-png-2b6d9a429807.png",
+      "contentType": "image/png",
+      "hash": "2b6d9a429807a23b5a1f1334c29d6ff5a5dca3fb70ba3d7fba45a2a46ce9acd0",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_d06dd3a43fdd415e9cd7a02c51473d92~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-d06dd3a43fdd415e9cd7a02c51473d92-mv2-png-46dae63a217b.png",
+      "contentType": "image/png",
+      "hash": "46dae63a217b4b0d1d56717f1938486561eb2530d9f8a8b7e34da83fe4b5d26a",
+      "width": 1960,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_fc4ae7032d0449648f6d76ec6345517d~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-fc4ae7032d0449648f6d76ec6345517d-mv2-png-9c46a4466bdb.png",
+      "contentType": "image/png",
+      "hash": "9c46a4466bdbeef162817465f68f4813ada91c27c7985347a456344d6dc2986c",
+      "width": 2776,
+      "height": 1437,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_0bdace5d95f242bdbbbb47bc63fa909b~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-0bdace5d95f242bdbbbb47bc63fa909b-mv2-png-d3983033f868.png",
+      "contentType": "image/png",
+      "hash": "d3983033f868a46f636715d781f0da3afe38b5b415abf81ff7c0e6f0487e8b23",
+      "width": 3116,
+      "height": 1537,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_db8bce0fdd0148b59332aa77a6bed437~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-db8bce0fdd0148b59332aa77a6bed437-mv2-png-5edf59a7fe48.png",
+      "contentType": "image/png",
+      "hash": "5edf59a7fe48e92d238e48e7b81a333ccd2796cc9534b8d2f7727b5e92df5c68",
+      "width": 3036,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_dc121e0b43e44e03a08b10a0cbbf26c9~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-dc121e0b43e44e03a08b10a0cbbf26c9-mv2-png-734547b6eced.png",
+      "contentType": "image/png",
+      "hash": "734547b6eced72a63cb79cb5182676ec0890dd57750d8b23fa2ea937788f536a",
+      "width": 3019,
+      "height": 1437,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_de9a12c78c5b48048b60a6870590a4a1~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-de9a12c78c5b48048b60a6870590a4a1-mv2-png-3377bac5a0de.png",
+      "contentType": "image/png",
+      "hash": "3377bac5a0de8bff9bc5030c2d0320ac99f4ea75eb210c723281f486fe60e17d",
+      "width": 3110,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b0f88d7088f5453e9cf4f31bbeb2184d~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-b0f88d7088f5453e9cf4f31bbeb2184d-mv2-png-88763d4a210c.png",
+      "contentType": "image/png",
+      "hash": "88763d4a210c88d8bf8e01d6bac017f7581011b2c672db600999c3494310f760",
+      "width": 3896,
+      "height": 1037,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_f9c4c209a760410dac1edb746dcf81d9~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-f9c4c209a760410dac1edb746dcf81d9-mv2-png-78a9890ab619.png",
+      "contentType": "image/png",
+      "hash": "78a9890ab619f3234b91676d52461462c1e7eee6183186cd54e4b784a831d7e3",
+      "width": 3435,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_44cbeb2be23a40e7b4174d6453223b89~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-44cbeb2be23a40e7b4174d6453223b89-mv2-png-2559eb8fd99b.png",
+      "contentType": "image/png",
+      "hash": "2559eb8fd99befe58ba189b4433d64be71a47b91cbf42be0890b62a3075b5587",
+      "width": 3325,
+      "height": 1037,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_46ffddf7309347ac9756dcdef0742961~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-46ffddf7309347ac9756dcdef0742961-mv2-png-a00ae967f20c.png",
+      "contentType": "image/png",
+      "hash": "a00ae967f20c0896b400f67ab674327a6243b885ea3c607ef35d07765cd05cb4",
+      "width": 3212,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_3294998365b1494e9108ce62e8ec3f68~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-3294998365b1494e9108ce62e8ec3f68-mv2-png-81fd3c8f3b68.png",
+      "contentType": "image/png",
+      "hash": "81fd3c8f3b6809bd760649d2a5aeaf5f31e6be44998462f6a43fc907e0ae7476",
+      "width": 2627,
+      "height": 1537,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_601e25b51b7f4776b50bc43c94ae1cf9~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-601e25b51b7f4776b50bc43c94ae1cf9-mv2-png-3f095a0d0eaf.png",
+      "contentType": "image/png",
+      "hash": "3f095a0d0eaf7ec07250cd53c307cb19a777c573f65325689808c5ad5cd42a07",
+      "width": 2717,
+      "height": 1337,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_c6235fc43fa7479bb4503346eaf00ea2~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-c6235fc43fa7479bb4503346eaf00ea2-mv2-png-0c9b4b07480d.png",
+      "contentType": "image/png",
+      "hash": "0c9b4b07480da19310c68aa1251458e220b3aae6a3e37a8dc0956c4cb1ab2f11",
+      "width": 3139,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_191f8760d9bf4890b5e895a4ce24c308~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-191f8760d9bf4890b5e895a4ce24c308-mv2-png-ce97fd58ff2a.png",
+      "contentType": "image/png",
+      "hash": "ce97fd58ff2adb17339a7422d08f9975fbcd56bbc4e7ac792fc7078018744950",
+      "width": 3253,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_4987e1cd4d824e73bbeea0b8af627ff4~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-4987e1cd4d824e73bbeea0b8af627ff4-mv2-png-a9bf7cf2a2e7.png",
+      "contentType": "image/png",
+      "hash": "a9bf7cf2a2e7fbc9552e1e846dcbbe3b7745db68e2a7a7a033ac8714ad4cf19c",
+      "width": 3051,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_448b12780c6942068928dea83dd92fe7~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-448b12780c6942068928dea83dd92fe7-mv2-png-f339ef52bd7c.png",
+      "contentType": "image/png",
+      "hash": "f339ef52bd7cd9023228c6ba5434fad96d09c921130c1564b4d630638d3e2057",
+      "width": 2378,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_b1f3e1648dd6402399d1a38cd6e51846~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-b1f3e1648dd6402399d1a38cd6e51846-mv2-png-4813aaa55b93.png",
+      "contentType": "image/png",
+      "hash": "4813aaa55b93ce84f3c2bf3fe61d08106be2dd5c4e11a1c4dad9b552500aa297",
+      "width": 2615,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_198653a616434189a8dcff6114ad08be~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated"
+      ],
+      "altTexts": [
+        "What is ESG Score and How It Is Calculated"
+      ],
+      "localPath": "/assets/0446e3-198653a616434189a8dcff6114ad08be-mv2-png-008de7a25a20.png",
+      "contentType": "image/png",
+      "hash": "008de7a25a206d0fd82af91293465896a6b67df98c499f5571b206e7674f6ec2",
+      "width": 1200,
+      "height": 628,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_2179e536748946bb8b932cd0874ae5a4~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-2179e536748946bb8b932cd0874ae5a4-mv2-png-8fd3be874a63.png",
+      "contentType": "image/png",
+      "hash": "8fd3be874a63161ed89b4ac2518ed3c025a9dfd2944ca213cb72c0d47efa8d04",
+      "width": 2813,
+      "height": 1437,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_30566f9ec8c2459daa1c0e0e559bfab5~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-30566f9ec8c2459daa1c0e0e559bfab5-mv2-png-a96bb033208b.png",
+      "contentType": "image/png",
+      "hash": "a96bb033208b8e2ad76d3c4996cb096cf906b03cb7439c69e1bf4d5c55040a47",
+      "width": 2865,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_96d53fcbf9964f98accf8ffb2c292311~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-96d53fcbf9964f98accf8ffb2c292311-mv2-png-f394a3f7f188.png",
+      "contentType": "image/png",
+      "hash": "f394a3f7f188b1e8b34ebe07cfc2f2cddb6af5884f8ffd17e37dc2a4237ea714",
+      "width": 2912,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_2dd34a5aa3394b6d8f35e25a49dba3eb~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-2dd34a5aa3394b6d8f35e25a49dba3eb-mv2-png-eb2e190b9e8c.png",
+      "contentType": "image/png",
+      "hash": "eb2e190b9e8cff27883e2066956f859f756998e30288fb6bcb99dd9490a86252",
+      "width": 2153,
+      "height": 1137,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_362d32ed510047819861a8e310522fc7~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-362d32ed510047819861a8e310522fc7-mv2-png-b7924c433111.png",
+      "contentType": "image/png",
+      "hash": "b7924c4331110506896df40a0f6422cd021aec624fce857dff8daaba45fbba9d",
+      "width": 2148,
+      "height": 1037,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_327b1bc12fe54e02bdf8644a9993ee85~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-327b1bc12fe54e02bdf8644a9993ee85-mv2-png-a9df81bbd292.png",
+      "contentType": "image/png",
+      "hash": "a9df81bbd292d1966c60abeb12835faa1a69a953ed23c21e712a72d2e7b6f528",
+      "width": 2166,
+      "height": 1237,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_1a18c1013cc34ecf90698152a732bda2~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated"
+      ],
+      "altTexts": [],
+      "localPath": "/assets/0446e3-1a18c1013cc34ecf90698152a732bda2-mv2-png-4ed54649c9ce.png",
+      "contentType": "image/png",
+      "hash": "4ed54649c9ce5103c0e3a908a279c737cacc096aa293127f45a9f7fa73add1e2",
+      "width": 2042,
+      "height": 937,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/598af248b6334b2a822f736abb5549c0.jpg",
+      "usages": [
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Wind Turbine Field"
+      ],
+      "localPath": "/assets/598af248b6334b2a822f736abb5549c0-jpg-ec2122a1ffaa.jpg",
+      "contentType": "image/jpeg",
+      "hash": "ec2122a1ffaa1f6e4c10bb6d904de6a1f840a07ce7e30e95b264c8c73d545869",
+      "width": 5472,
+      "height": 3648,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_b3d81e77da124646b5424e71556a0f1a~mv2.jpeg",
+      "usages": [
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Irrigation System Field"
+      ],
+      "localPath": "/assets/11062b-b3d81e77da124646b5424e71556a0f1a-mv2-jpeg-58a5774d4e2a.jpg",
+      "contentType": "image/jpeg",
+      "hash": "58a5774d4e2a710512f97b5346dd03f79ed2a1163da3e549960c15d6e673357e",
+      "width": 1920,
+      "height": 1081,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/f3d55eda0a4a48bfb298d9e5393e8fb3.jpg",
+      "usages": [
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Wind Turbines Landscape"
+      ],
+      "localPath": "/assets/f3d55eda0a4a48bfb298d9e5393e8fb3-jpg-0ed5259dda84.jpg",
+      "contentType": "image/jpeg",
+      "hash": "0ed5259dda847532d92795451475f8460d79f5afde9e61718428fd9679fa315a",
+      "width": 1920,
+      "height": 1277,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_be928fefe3cf42c0960e13b0289714a8~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Solar and Wind Farm"
+      ],
+      "localPath": "/assets/11062b-be928fefe3cf42c0960e13b0289714a8-mv2-jpg-30192804bbd9.jpg",
+      "contentType": "image/jpeg",
+      "hash": "30192804bbd90fd753f6b67967a093dc4790b0b4efe4690443940e86cd79115d",
+      "width": 3840,
+      "height": 2160,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_6a3d71cdc9474cd995b1e34adc0392e5~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Wind Turbine Field"
+      ],
+      "localPath": "/assets/11062b-6a3d71cdc9474cd995b1e34adc0392e5-mv2-jpg-9991a029dcb1.jpg",
+      "contentType": "image/jpeg",
+      "hash": "9991a029dcb15192aa3917c5a3b7211f63af7e8dc61c625035cad461202c76a1",
+      "width": 5120,
+      "height": 3401,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_afca362c2c3644629af5489b89c22008~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Wind Farm Landscape"
+      ],
+      "localPath": "/assets/11062b-afca362c2c3644629af5489b89c22008-mv2-jpg-668a482912d8.jpg",
+      "contentType": "image/jpeg",
+      "hash": "668a482912d85b723ee168fdc97cedc6f9ce3425a81c90679b8736fd62899f7a",
+      "width": 2000,
+      "height": 2328,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_7e2b0fe258dd4ccca228799eda4960a7~mv2.jpeg",
+      "usages": [
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Wind Turbines Landscape"
+      ],
+      "localPath": "/assets/11062b-7e2b0fe258dd4ccca228799eda4960a7-mv2-jpeg-2982076850ad.jpg",
+      "contentType": "image/jpeg",
+      "hash": "2982076850ad42ce7580571259e63000e70f8932d8b543cdce3d96c4dd172b49",
+      "width": 4189,
+      "height": 2774,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_b5bc17a6db7345238f6d2558e8da475b~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Wind Turbines Landscape"
+      ],
+      "localPath": "/assets/11062b-b5bc17a6db7345238f6d2558e8da475b-mv2-jpg-a10a49e5b678.jpg",
+      "contentType": "image/jpeg",
+      "hash": "a10a49e5b678bf0646e470135cf78a3a7daeeafca9f4a3eed5ded7b0b5307265",
+      "width": 3840,
+      "height": 2554,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_cf82eeea45604a13a5cb25e47eafc916~mv2.jpg",
+      "usages": [
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Filling Water Bottle"
+      ],
+      "localPath": "/assets/11062b-cf82eeea45604a13a5cb25e47eafc916-mv2-jpg-57a3948fc4a2.jpg",
+      "contentType": "image/jpeg",
+      "hash": "57a3948fc4a2ed2e80fde8202d46a42d8e42bf21dd4394c743eb6abd1d5d8717",
+      "width": 5000,
+      "height": 3333,
+      "duplicateOf": null
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/0446e3_35a3bc7f86024636b874c3a873c210c4~mv2.png",
+      "usages": [
+        "https://www.sustaind.in/sustainability-service-consultants"
+      ],
+      "altTexts": [
+        "Sustainability Consultant"
+      ],
+      "localPath": "/assets/0446e3-35a3bc7f86024636b874c3a873c210c4-mv2-png-647cf7c84b90.png",
+      "contentType": "image/png",
+      "hash": "647cf7c84b903f596c5cd9edcb5de3915970e4c12372dd3c94ce06a81bbf792b",
+      "width": 900,
+      "height": 900,
+      "duplicateOf": null
+    }
+  ],
+  "failures": []
+}

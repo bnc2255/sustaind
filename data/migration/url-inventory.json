@@ -1,0 +1,315 @@
+{
+  "generatedAt": "2026-08-07T11:00:54.555Z",
+  "source": "https://www.sustaind.in/sitemap.xml",
+  "entries": [
+    {
+      "url": "https://www.sustaind.in/",
+      "pathname": "/",
+      "type": "page",
+      "sourceSitemap": "https://www.sustaind.in/pages-sitemap.xml",
+      "localRoute": "/",
+      "lastModified": "2026-07-07"
+    },
+    {
+      "url": "https://www.sustaind.in/about-us",
+      "pathname": "/about-us",
+      "type": "page",
+      "sourceSitemap": "https://www.sustaind.in/pages-sitemap.xml",
+      "localRoute": "/about-us",
+      "lastModified": "2026-07-07"
+    },
+    {
+      "url": "https://www.sustaind.in/accessibility-statement",
+      "pathname": "/accessibility-statement",
+      "type": "page",
+      "sourceSitemap": "https://www.sustaind.in/pages-sitemap.xml",
+      "localRoute": "/accessibility-statement",
+      "lastModified": "2026-07-07"
+    },
+    {
+      "url": "https://www.sustaind.in/blog",
+      "pathname": "/blog",
+      "type": "page",
+      "sourceSitemap": "https://www.sustaind.in/blog-categories-sitemap.xml",
+      "localRoute": "/blog",
+      "lastModified": "2026-05-07"
+    },
+    {
+      "url": "https://www.sustaind.in/blog/categories/carbon-credits",
+      "pathname": "/blog/categories/carbon-credits",
+      "type": "category",
+      "sourceSitemap": "https://www.sustaind.in/blog-categories-sitemap.xml",
+      "localRoute": "/blog/categories/carbon-credits",
+      "lastModified": "2026-05-08"
+    },
+    {
+      "url": "https://www.sustaind.in/blog/categories/climate-risk-assessment",
+      "pathname": "/blog/categories/climate-risk-assessment",
+      "type": "category",
+      "sourceSitemap": "https://www.sustaind.in/blog-categories-sitemap.xml",
+      "localRoute": "/blog/categories/climate-risk-assessment",
+      "lastModified": "2026-05-01"
+    },
+    {
+      "url": "https://www.sustaind.in/blog/categories/esg-advisory",
+      "pathname": "/blog/categories/esg-advisory",
+      "type": "category",
+      "sourceSitemap": "https://www.sustaind.in/blog-categories-sitemap.xml",
+      "localRoute": "/blog/categories/esg-advisory",
+      "lastModified": "2026-05-08"
+    },
+    {
+      "url": "https://www.sustaind.in/blog/categories/ifrs-service",
+      "pathname": "/blog/categories/ifrs-service",
+      "type": "category",
+      "sourceSitemap": "https://www.sustaind.in/blog-categories-sitemap.xml",
+      "localRoute": "/blog/categories/ifrs-service",
+      "lastModified": "2026-05-04"
+    },
+    {
+      "url": "https://www.sustaind.in/blog/categories/ifrs-service-1",
+      "pathname": "/blog/categories/ifrs-service-1",
+      "type": "category",
+      "sourceSitemap": "https://www.sustaind.in/blog-categories-sitemap.xml",
+      "localRoute": "/blog/categories/ifrs-service-1",
+      "lastModified": "2026-05-04"
+    },
+    {
+      "url": "https://www.sustaind.in/blog/categories/sustainability-service",
+      "pathname": "/blog/categories/sustainability-service",
+      "type": "category",
+      "sourceSitemap": "https://www.sustaind.in/blog-categories-sitemap.xml",
+      "localRoute": "/blog/categories/sustainability-service",
+      "lastModified": "2026-05-02"
+    },
+    {
+      "url": "https://www.sustaind.in/blog/categories/sustaind-consulting",
+      "pathname": "/blog/categories/sustaind-consulting",
+      "type": "category",
+      "sourceSitemap": "https://www.sustaind.in/blog-categories-sitemap.xml",
+      "localRoute": "/blog/categories/sustaind-consulting",
+      "lastModified": "2026-05-08"
+    },
+    {
+      "url": "https://www.sustaind.in/carbon-credit-service-consulting",
+      "pathname": "/carbon-credit-service-consulting",
+      "type": "page",
+      "sourceSitemap": "https://www.sustaind.in/pages-sitemap.xml",
+      "localRoute": "/carbon-credit-service-consulting",
+      "lastModified": "2026-07-07"
+    },
+    {
+      "url": "https://www.sustaind.in/climate-risk-assessment-consultants",
+      "pathname": "/climate-risk-assessment-consultants",
+      "type": "page",
+      "sourceSitemap": "https://www.sustaind.in/pages-sitemap.xml",
+      "localRoute": "/climate-risk-assessment-consultants",
+      "lastModified": "2026-07-07"
+    },
+    {
+      "url": "https://www.sustaind.in/contact-us",
+      "pathname": "/contact-us",
+      "type": "page",
+      "sourceSitemap": "https://www.sustaind.in/pages-sitemap.xml",
+      "localRoute": "/contact-us",
+      "lastModified": "2026-07-07"
+    },
+    {
+      "url": "https://www.sustaind.in/esg-advisory-service-consultants",
+      "pathname": "/esg-advisory-service-consultants",
+      "type": "page",
+      "sourceSitemap": "https://www.sustaind.in/pages-sitemap.xml",
+      "localRoute": "/esg-advisory-service-consultants",
+      "lastModified": "2026-07-07"
+    },
+    {
+      "url": "https://www.sustaind.in/esg-carbon-credit-and-sustainability-consulting-services",
+      "pathname": "/esg-carbon-credit-and-sustainability-consulting-services",
+      "type": "page",
+      "sourceSitemap": "https://www.sustaind.in/pages-sitemap.xml",
+      "localRoute": "/esg-carbon-credit-and-sustainability-consulting-services",
+      "lastModified": "2026-07-07"
+    },
+    {
+      "url": "https://www.sustaind.in/irfs-service-consultant",
+      "pathname": "/irfs-service-consultant",
+      "type": "page",
+      "sourceSitemap": "https://www.sustaind.in/pages-sitemap.xml",
+      "localRoute": "/irfs-service-consultant",
+      "lastModified": "2026-07-07"
+    },
+    {
+      "url": "https://www.sustaind.in/meet-the-team",
+      "pathname": "/meet-the-team",
+      "type": "page",
+      "sourceSitemap": "https://www.sustaind.in/pages-sitemap.xml",
+      "localRoute": "/meet-the-team",
+      "lastModified": "2026-07-07"
+    },
+    {
+      "url": "https://www.sustaind.in/post/carbon-credits-for-net-zero-targets-india",
+      "pathname": "/post/carbon-credits-for-net-zero-targets-india",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/carbon-credits-for-net-zero-targets-india",
+      "lastModified": "2026-05-02"
+    },
+    {
+      "url": "https://www.sustaind.in/post/carbon-credits-services-consultants-in-gurugram",
+      "pathname": "/post/carbon-credits-services-consultants-in-gurugram",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/carbon-credits-services-consultants-in-gurugram",
+      "lastModified": "2026-05-08"
+    },
+    {
+      "url": "https://www.sustaind.in/post/climate-risk-assessment-for-businesses-in-india",
+      "pathname": "/post/climate-risk-assessment-for-businesses-in-india",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/climate-risk-assessment-for-businesses-in-india",
+      "lastModified": "2026-04-30"
+    },
+    {
+      "url": "https://www.sustaind.in/post/climate-risk-assessment-service-consulting-in-gurugram",
+      "pathname": "/post/climate-risk-assessment-service-consulting-in-gurugram",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/climate-risk-assessment-service-consulting-in-gurugram",
+      "lastModified": "2026-04-29"
+    },
+    {
+      "url": "https://www.sustaind.in/post/difference-between-carbon-credits-and-carbon-off-sets",
+      "pathname": "/post/difference-between-carbon-credits-and-carbon-off-sets",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/difference-between-carbon-credits-and-carbon-off-sets",
+      "lastModified": "2026-05-08"
+    },
+    {
+      "url": "https://www.sustaind.in/post/esg-advisory-service-consultantsin-gurugram",
+      "pathname": "/post/esg-advisory-service-consultantsin-gurugram",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/esg-advisory-service-consultantsin-gurugram",
+      "lastModified": "2026-04-29"
+    },
+    {
+      "url": "https://www.sustaind.in/post/esg-advisory-services-for-indian-companies",
+      "pathname": "/post/esg-advisory-services-for-indian-companies",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/esg-advisory-services-for-indian-companies",
+      "lastModified": "2026-05-01"
+    },
+    {
+      "url": "https://www.sustaind.in/post/how-to-buy-carbon-credits-in-india",
+      "pathname": "/post/how-to-buy-carbon-credits-in-india",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/how-to-buy-carbon-credits-in-india",
+      "lastModified": "2026-05-01"
+    },
+    {
+      "url": "https://www.sustaind.in/post/ifrs-s1-s2-sustainability-disclosure-india",
+      "pathname": "/post/ifrs-s1-s2-sustainability-disclosure-india",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/ifrs-s1-s2-sustainability-disclosure-india",
+      "lastModified": "2026-05-03"
+    },
+    {
+      "url": "https://www.sustaind.in/post/ifrs-service-consulting-in-gurugram",
+      "pathname": "/post/ifrs-service-consulting-in-gurugram",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/ifrs-service-consulting-in-gurugram",
+      "lastModified": "2026-04-29"
+    },
+    {
+      "url": "https://www.sustaind.in/post/ifrs-sustainability-standards-compliance-in-india",
+      "pathname": "/post/ifrs-sustainability-standards-compliance-in-india",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/ifrs-sustainability-standards-compliance-in-india",
+      "lastModified": "2026-05-03"
+    },
+    {
+      "url": "https://www.sustaind.in/post/ifrs-vs-brsr-reporting-difference-in-india",
+      "pathname": "/post/ifrs-vs-brsr-reporting-difference-in-india",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/ifrs-vs-brsr-reporting-difference-in-india",
+      "lastModified": "2026-05-08"
+    },
+    {
+      "url": "https://www.sustaind.in/post/sustainability-consulting-for-smes-in-india",
+      "pathname": "/post/sustainability-consulting-for-smes-in-india",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/sustainability-consulting-for-smes-in-india",
+      "lastModified": "2026-04-30"
+    },
+    {
+      "url": "https://www.sustaind.in/post/sustainability-reporting-frameworks-india-2026",
+      "pathname": "/post/sustainability-reporting-frameworks-india-2026",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/sustainability-reporting-frameworks-india-2026",
+      "lastModified": "2026-05-03"
+    },
+    {
+      "url": "https://www.sustaind.in/post/sustainability-service-consultingin-gurugram",
+      "pathname": "/post/sustainability-service-consultingin-gurugram",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/sustainability-service-consultingin-gurugram",
+      "lastModified": "2026-05-08"
+    },
+    {
+      "url": "https://www.sustaind.in/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector",
+      "pathname": "/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector",
+      "lastModified": "2026-05-07"
+    },
+    {
+      "url": "https://www.sustaind.in/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project",
+      "pathname": "/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project",
+      "lastModified": "2026-05-07"
+    },
+    {
+      "url": "https://www.sustaind.in/post/what-is-esg-scoreand-how-it-is-calculated",
+      "pathname": "/post/what-is-esg-scoreand-how-it-is-calculated",
+      "type": "post",
+      "sourceSitemap": "https://www.sustaind.in/blog-posts-sitemap.xml",
+      "localRoute": "/post/what-is-esg-scoreand-how-it-is-calculated",
+      "lastModified": "2026-05-01"
+    },
+    {
+      "url": "https://www.sustaind.in/privacy-policy",
+      "pathname": "/privacy-policy",
+      "type": "page",
+      "sourceSitemap": "https://www.sustaind.in/pages-sitemap.xml",
+      "localRoute": "/privacy-policy",
+      "lastModified": "2026-07-07"
+    },
+    {
+      "url": "https://www.sustaind.in/sustainability-service-consultants",
+      "pathname": "/sustainability-service-consultants",
+      "type": "page",
+      "sourceSitemap": "https://www.sustaind.in/pages-sitemap.xml",
+      "localRoute": "/sustainability-service-consultants",
+      "lastModified": "2026-07-07"
+    }
+  ],
+  "counts": {
+    "page": 13,
+    "post": 18,
+    "category": 7
+  }
+}
