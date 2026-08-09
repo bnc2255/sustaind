@@ -1,0 +1,310 @@
+[
+  {
+    "route": "/about-us",
+    "viewport": "mobile",
+    "screenshot": "screenshots/mobile/about-us.png",
+    "width": 390,
+    "height": 4776
+  },
+  {
+    "route": "/accessibility-statement",
+    "viewport": "mobile",
+    "screenshot": "screenshots/mobile/accessibility-statement.png",
+    "width": 390,
+    "height": 1631
+  },
+  {
+    "route": "/carbon-credit-service-consulting",
+    "viewport": "mobile",
+    "screenshot": "screenshots/mobile/carbon-credit-service-consulting.png",
+    "width": 390,
+    "height": 6656
+  },
+  {
+    "route": "/climate-risk-assessment-consultants",
+    "viewport": "mobile",
+    "screenshot": "screenshots/mobile/climate-risk-assessment-consultants.png",
+    "width": 390,
+    "height": 4719
+  },
+  {
+    "route": "/contact-us",
+    "viewport": "mobile",
+    "screenshot": "screenshots/mobile/contact-us.png",
+    "width": 390,
+    "height": 2052
+  },
+  {
+    "route": "/esg-advisory-service-consultants",
+    "viewport": "mobile",
+    "screenshot": "screenshots/mobile/esg-advisory-service-consultants.png",
+    "width": 390,
+    "height": 6390
+  },
+  {
+    "route": "/esg-carbon-credit-and-sustainability-consulting-services",
+    "viewport": "mobile",
+    "screenshot": "screenshots/mobile/esg-carbon-credit-and-sustainability-consulting-services.png",
+    "width": 390,
+    "height": 4861
+  },
+  {
+    "route": "/irfs-service-consultant",
+    "viewport": "mobile",
+    "screenshot": "screenshots/mobile/irfs-service-consultant.png",
+    "width": 390,
+    "height": 7373
+  },
+  {
+    "route": "/meet-the-team",
+    "viewport": "mobile",
+    "screenshot": "screenshots/mobile/meet-the-team.png",
+    "width": 390,
+    "height": 3078
+  },
+  {
+    "route": "/privacy-policy",
+    "viewport": "mobile",
+    "screenshot": "screenshots/mobile/privacy-policy.png",
+    "width": 390,
+    "height": 4417
+  },
+  {
+    "route": "/sustainability-service-consultants",
+    "viewport": "mobile",
+    "screenshot": "screenshots/mobile/sustainability-service-consultants.png",
+    "width": 390,
+    "height": 8304
+  },
+  {
+    "route": "/about-us",
+    "viewport": "tablet",
+    "screenshot": "screenshots/tablet/about-us.png",
+    "width": 768,
+    "height": 3830
+  },
+  {
+    "route": "/accessibility-statement",
+    "viewport": "tablet",
+    "screenshot": "screenshots/tablet/accessibility-statement.png",
+    "width": 768,
+    "height": 1320
+  },
+  {
+    "route": "/carbon-credit-service-consulting",
+    "viewport": "tablet",
+    "screenshot": "screenshots/tablet/carbon-credit-service-consulting.png",
+    "width": 768,
+    "height": 7058
+  },
+  {
+    "route": "/climate-risk-assessment-consultants",
+    "viewport": "tablet",
+    "screenshot": "screenshots/tablet/climate-risk-assessment-consultants.png",
+    "width": 768,
+    "height": 5310
+  },
+  {
+    "route": "/contact-us",
+    "viewport": "tablet",
+    "screenshot": "screenshots/tablet/contact-us.png",
+    "width": 768,
+    "height": 1846
+  },
+  {
+    "route": "/esg-advisory-service-consultants",
+    "viewport": "tablet",
+    "screenshot": "screenshots/tablet/esg-advisory-service-consultants.png",
+    "width": 768,
+    "height": 6962
+  },
+  {
+    "route": "/esg-carbon-credit-and-sustainability-consulting-services",
+    "viewport": "tablet",
+    "screenshot": "screenshots/tablet/esg-carbon-credit-and-sustainability-consulting-services.png",
+    "width": 768,
+    "height": 4841
+  },
+  {
+    "route": "/irfs-service-consultant",
+    "viewport": "tablet",
+    "screenshot": "screenshots/tablet/irfs-service-consultant.png",
+    "width": 768,
+    "height": 7920
+  },
+  {
+    "route": "/meet-the-team",
+    "viewport": "tablet",
+    "screenshot": "screenshots/tablet/meet-the-team.png",
+    "width": 768,
+    "height": 2893
+  },
+  {
+    "route": "/privacy-policy",
+    "viewport": "tablet",
+    "screenshot": "screenshots/tablet/privacy-policy.png",
+    "width": 768,
+    "height": 3504
+  },
+  {
+    "route": "/sustainability-service-consultants",
+    "viewport": "tablet",
+    "screenshot": "screenshots/tablet/sustainability-service-consultants.png",
+    "width": 768,
+    "height": 9309
+  },
+  {
+    "route": "/about-us",
+    "viewport": "source-reference",
+    "screenshot": "screenshots/source-reference/about-us.png",
+    "width": 980,
+    "height": 3665
+  },
+  {
+    "route": "/accessibility-statement",
+    "viewport": "source-reference",
+    "screenshot": "screenshots/source-reference/accessibility-statement.png",
+    "width": 980,
+    "height": 1242
+  },
+  {
+    "route": "/carbon-credit-service-consulting",
+    "viewport": "source-reference",
+    "screenshot": "screenshots/source-reference/carbon-credit-service-consulting.png",
+    "width": 980,
+    "height": 5450
+  },
+  {
+    "route": "/climate-risk-assessment-consultants",
+    "viewport": "source-reference",
+    "screenshot": "screenshots/source-reference/climate-risk-assessment-consultants.png",
+    "width": 980,
+    "height": 3772
+  },
+  {
+    "route": "/contact-us",
+    "viewport": "source-reference",
+    "screenshot": "screenshots/source-reference/contact-us.png",
+    "width": 980,
+    "height": 1385
+  },
+  {
+    "route": "/esg-advisory-service-consultants",
+    "viewport": "source-reference",
+    "screenshot": "screenshots/source-reference/esg-advisory-service-consultants.png",
+    "width": 980,
+    "height": 5247
+  },
+  {
+    "route": "/esg-carbon-credit-and-sustainability-consulting-services",
+    "viewport": "source-reference",
+    "screenshot": "screenshots/source-reference/esg-carbon-credit-and-sustainability-consulting-services.png",
+    "width": 980,
+    "height": 4937
+  },
+  {
+    "route": "/irfs-service-consultant",
+    "viewport": "source-reference",
+    "screenshot": "screenshots/source-reference/irfs-service-consultant.png",
+    "width": 980,
+    "height": 6008
+  },
+  {
+    "route": "/meet-the-team",
+    "viewport": "source-reference",
+    "screenshot": "screenshots/source-reference/meet-the-team.png",
+    "width": 980,
+    "height": 2626
+  },
+  {
+    "route": "/privacy-policy",
+    "viewport": "source-reference",
+    "screenshot": "screenshots/source-reference/privacy-policy.png",
+    "width": 980,
+    "height": 3341
+  },
+  {
+    "route": "/sustainability-service-consultants",
+    "viewport": "source-reference",
+    "screenshot": "screenshots/source-reference/sustainability-service-consultants.png",
+    "width": 980,
+    "height": 6671
+  },
+  {
+    "route": "/about-us",
+    "viewport": "desktop",
+    "screenshot": "screenshots/desktop/about-us.png",
+    "width": 1440,
+    "height": 3989
+  },
+  {
+    "route": "/accessibility-statement",
+    "viewport": "desktop",
+    "screenshot": "screenshots/desktop/accessibility-statement.png",
+    "width": 1440,
+    "height": 1261
+  },
+  {
+    "route": "/carbon-credit-service-consulting",
+    "viewport": "desktop",
+    "screenshot": "screenshots/desktop/carbon-credit-service-consulting.png",
+    "width": 1440,
+    "height": 5729
+  },
+  {
+    "route": "/climate-risk-assessment-consultants",
+    "viewport": "desktop",
+    "screenshot": "screenshots/desktop/climate-risk-assessment-consultants.png",
+    "width": 1440,
+    "height": 4282
+  },
+  {
+    "route": "/contact-us",
+    "viewport": "desktop",
+    "screenshot": "screenshots/desktop/contact-us.png",
+    "width": 1440,
+    "height": 1385
+  },
+  {
+    "route": "/esg-advisory-service-consultants",
+    "viewport": "desktop",
+    "screenshot": "screenshots/desktop/esg-advisory-service-consultants.png",
+    "width": 1440,
+    "height": 5782
+  },
+  {
+    "route": "/esg-carbon-credit-and-sustainability-consulting-services",
+    "viewport": "desktop",
+    "screenshot": "screenshots/desktop/esg-carbon-credit-and-sustainability-consulting-services.png",
+    "width": 1440,
+    "height": 5342
+  },
+  {
+    "route": "/irfs-service-consultant",
+    "viewport": "desktop",
+    "screenshot": "screenshots/desktop/irfs-service-consultant.png",
+    "width": 1440,
+    "height": 6518
+  },
+  {
+    "route": "/meet-the-team",
+    "viewport": "desktop",
+    "screenshot": "screenshots/desktop/meet-the-team.png",
+    "width": 1440,
+    "height": 2901
+  },
+  {
+    "route": "/privacy-policy",
+    "viewport": "desktop",
+    "screenshot": "screenshots/desktop/privacy-policy.png",
+    "width": 1440,
+    "height": 3361
+  },
+  {
+    "route": "/sustainability-service-consultants",
+    "viewport": "desktop",
+    "screenshot": "screenshots/desktop/sustainability-service-consultants.png",
+    "width": 1440,
+    "height": 7290
+  }
+]

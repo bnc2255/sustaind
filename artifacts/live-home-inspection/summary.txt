@@ -1,0 +1,700 @@
+
+=== mobile ===
+header { x: 0, y: 0, width: 980, height: 84 }
+nav [
+  {
+    text: 'Home',
+    ariaLabel: null,
+    rect: { x: 264, y: 39, width: 107, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'Services',
+    ariaLabel: null,
+    rect: { x: 371, y: 39, width: 127, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: '',
+    ariaLabel: 'More Services pages',
+    rect: { x: 498, y: 39, width: 24, height: 24 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '13.3333px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'About',
+    ariaLabel: null,
+    rect: { x: 498, y: 39, width: 109, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'Meet The Team',
+    ariaLabel: null,
+    rect: { x: 607, y: 39, width: 180, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'Contact',
+    ariaLabel: null,
+    rect: { x: 787, y: 39, width: 124, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'Search',
+    ariaLabel: 'Search',
+    rect: { x: 927, y: 33, width: 42, height: 42 },
+    font: {
+      family: 'Arial, Helvetica, sans-serif',
+      size: '13.3333px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    }
+  }
+]
+hero { x: 0, y: 84, width: 980, height: 989 }
+state 0 [
+  {
+    tag: 'img',
+    text: '',
+    alt: 'Solar Panel Installation',
+    sourceId: '11062b_3ec38b1c07bc47ceb82c223379ceb6e0',
+    rect: { x: 4.900691509246826, y: 84, width: 980, height: 800 },
+    font: {
+      family: 'Arial, Helvetica, sans-serif',
+      size: '10px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    },
+    color: 'rgb(0, 0, 0)'
+  },
+  {
+    tag: 'h2',
+    text: 'Carbon Emissions Measurement',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 88.90068817138672, y: 602, width: 550, height: 100 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '50px',
+      weight: '400',
+      lineHeight: '50px',
+      letterSpacing: '-1.5px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  {
+    tag: 'p',
+    text: 'Accurate Scope 1, 2 & 3 quantification with reduction pathways and reporting support.',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 88.90068817138672, y: 723, width: 408, height: 55.1875 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '19px',
+      weight: '400',
+      lineHeight: '26.6px',
+      letterSpacing: '-0.19px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  {
+    tag: 'img',
+    text: '',
+    alt: 'Wind Turbine Closeup',
+    sourceId: '11062b_e16cb98fc41a4c128b1984d6352e9e3e',
+    rect: { x: -975.0993041992188, y: 84, width: 980, height: 800 },
+    font: {
+      family: 'Arial, Helvetica, sans-serif',
+      size: '10px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    },
+    color: 'rgb(0, 0, 0)'
+  },
+  {
+    tag: 'h1',
+    text: 'Sustainability, ESG Advisory & Carbon Credit Services Consultants for Future-Ready Organizations',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: -938.0993041992188, y: 567, width: 925, height: 135 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '50px',
+      weight: '400',
+      lineHeight: '45px',
+      letterSpacing: '-1.5px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  {
+    tag: 'p',
+    text: 'Empowering enterprises to integrate sustainability into core business strategy, compliance, and long-term value creation.',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: -938.0993041992188, y: 725, width: 618, height: 56 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '20px',
+      weight: '400',
+      lineHeight: '28px',
+      letterSpacing: '-0.2px'
+    },
+    color: 'rgb(5, 86, 94)'
+  }
+]
+state 1 []
+state 2 [
+  {
+    tag: 'img',
+    text: '',
+    alt: 'Wind Turbine Closeup',
+    sourceId: '11062b_e16cb98fc41a4c128b1984d6352e9e3e',
+    rect: { x: 0, y: 84, width: 980, height: 800 },
+    font: {
+      family: 'Arial, Helvetica, sans-serif',
+      size: '10px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    },
+    color: 'rgb(0, 0, 0)'
+  },
+  {
+    tag: 'h1',
+    text: 'Sustainability, ESG Advisory & Carbon Credit Services Consultants for Future-Ready Organizations',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 37, y: 567, width: 925, height: 135 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '50px',
+      weight: '400',
+      lineHeight: '45px',
+      letterSpacing: '-1.5px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  {
+    tag: 'p',
+    text: 'Empowering enterprises to integrate sustainability into core business strategy, compliance, and long-term value creation.',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 37, y: 725, width: 618, height: 56 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '20px',
+      weight: '400',
+      lineHeight: '28px',
+      letterSpacing: '-0.2px'
+    },
+    color: 'rgb(5, 86, 94)'
+  }
+]
+state 3 []
+state 4 []
+state 5 [
+  {
+    tag: 'img',
+    text: '',
+    alt: 'Wind Turbine Closeup',
+    sourceId: '11062b_e16cb98fc41a4c128b1984d6352e9e3e',
+    rect: { x: 0, y: 84, width: 980, height: 800 },
+    font: {
+      family: 'Arial, Helvetica, sans-serif',
+      size: '10px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    },
+    color: 'rgb(0, 0, 0)'
+  },
+  {
+    tag: 'h1',
+    text: 'Sustainability, ESG Advisory & Carbon Credit Services Consultants for Future-Ready Organizations',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 37, y: 567, width: 925, height: 135 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '50px',
+      weight: '400',
+      lineHeight: '45px',
+      letterSpacing: '-1.5px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  {
+    tag: 'p',
+    text: 'Empowering enterprises to integrate sustainability into core business strategy, compliance, and long-term value creation.',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 37, y: 725, width: 618, height: 56 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '20px',
+      weight: '400',
+      lineHeight: '28px',
+      letterSpacing: '-0.2px'
+    },
+    color: 'rgb(5, 86, 94)'
+  }
+]
+
+=== tablet ===
+header { x: 0, y: 0, width: 980, height: 84 }
+nav [
+  {
+    text: 'Home',
+    ariaLabel: null,
+    rect: { x: 264, y: 39, width: 107, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'Services',
+    ariaLabel: null,
+    rect: { x: 371, y: 39, width: 127, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: '',
+    ariaLabel: 'More Services pages',
+    rect: { x: 498, y: 39, width: 24, height: 24 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '13.3333px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'About',
+    ariaLabel: null,
+    rect: { x: 498, y: 39, width: 109, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'Meet The Team',
+    ariaLabel: null,
+    rect: { x: 607, y: 39, width: 180, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'Contact',
+    ariaLabel: null,
+    rect: { x: 787, y: 39, width: 124, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'Search',
+    ariaLabel: 'Search',
+    rect: { x: 927, y: 33, width: 42, height: 42 },
+    font: {
+      family: 'Arial, Helvetica, sans-serif',
+      size: '13.3333px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    }
+  }
+]
+hero undefined
+state 0 []
+state 1 []
+state 2 [
+  {
+    tag: 'img',
+    text: '',
+    alt: 'Wind Turbine Closeup',
+    sourceId: '11062b_e16cb98fc41a4c128b1984d6352e9e3e',
+    rect: { x: 0, y: 84, width: 980, height: 800 },
+    font: {
+      family: 'Arial, Helvetica, sans-serif',
+      size: '10px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    },
+    color: 'rgb(0, 0, 0)'
+  },
+  {
+    tag: 'h1',
+    text: 'Sustainability, ESG Advisory & Carbon Credit Services Consultants for Future-Ready Organizations',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 37, y: 567, width: 925, height: 135 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '50px',
+      weight: '400',
+      lineHeight: '45px',
+      letterSpacing: '-1.5px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  {
+    tag: 'p',
+    text: 'Empowering enterprises to integrate sustainability into core business strategy, compliance, and long-term value creation.',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 37, y: 725, width: 618, height: 56 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '20px',
+      weight: '400',
+      lineHeight: '28px',
+      letterSpacing: '-0.2px'
+    },
+    color: 'rgb(5, 86, 94)'
+  }
+]
+state 3 []
+state 4 []
+state 5 [
+  {
+    tag: 'img',
+    text: '',
+    alt: 'Wind Turbine Closeup',
+    sourceId: '11062b_e16cb98fc41a4c128b1984d6352e9e3e',
+    rect: { x: 0, y: 84, width: 980, height: 800 },
+    font: {
+      family: 'Arial, Helvetica, sans-serif',
+      size: '10px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    },
+    color: 'rgb(0, 0, 0)'
+  },
+  {
+    tag: 'h1',
+    text: 'Sustainability, ESG Advisory & Carbon Credit Services Consultants for Future-Ready Organizations',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 37, y: 567, width: 925, height: 135 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '50px',
+      weight: '400',
+      lineHeight: '45px',
+      letterSpacing: '-1.5px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  {
+    tag: 'p',
+    text: 'Empowering enterprises to integrate sustainability into core business strategy, compliance, and long-term value creation.',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 37, y: 725, width: 618, height: 56 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '20px',
+      weight: '400',
+      lineHeight: '28px',
+      letterSpacing: '-0.2px'
+    },
+    color: 'rgb(5, 86, 94)'
+  }
+]
+
+=== desktop ===
+header { x: 0, y: 0, width: 1440, height: 84 }
+nav [
+  {
+    text: 'Home',
+    ariaLabel: null,
+    rect: { x: 494, y: 39, width: 107, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'Services',
+    ariaLabel: null,
+    rect: { x: 601, y: 39, width: 127, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: '',
+    ariaLabel: 'More Services pages',
+    rect: { x: 728, y: 39, width: 24, height: 24 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '13.3333px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'About',
+    ariaLabel: null,
+    rect: { x: 728, y: 39, width: 109, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'Meet The Team',
+    ariaLabel: null,
+    rect: { x: 837, y: 39, width: 180, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'Contact',
+    ariaLabel: null,
+    rect: { x: 1017, y: 39, width: 124, height: 30 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '16px',
+      weight: '400',
+      lineHeight: '24px',
+      letterSpacing: 'normal'
+    }
+  },
+  {
+    text: 'Search',
+    ariaLabel: 'Search',
+    rect: { x: 1157, y: 33, width: 42, height: 42 },
+    font: {
+      family: 'Arial, Helvetica, sans-serif',
+      size: '13.3333px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    }
+  }
+]
+hero { x: 0, y: 84, width: 1440, height: 989 }
+state 0 [
+  {
+    tag: 'img',
+    text: '',
+    alt: 'Solar Panel Installation',
+    sourceId: '11062b_3ec38b1c07bc47ceb82c223379ceb6e0',
+    rect: { x: 40.684757232666016, y: 84, width: 1440, height: 800 },
+    font: {
+      family: 'Arial, Helvetica, sans-serif',
+      size: '10px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    },
+    color: 'rgb(0, 0, 0)'
+  },
+  {
+    tag: 'h2',
+    text: 'Carbon Emissions Measurement',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 354.68475341796875, y: 602, width: 550, height: 100 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '50px',
+      weight: '400',
+      lineHeight: '50px',
+      letterSpacing: '-1.5px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  {
+    tag: 'p',
+    text: 'Accurate Scope 1, 2 & 3 quantification with reduction pathways and reporting support.',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 354.68475341796875, y: 723, width: 408, height: 55.1875 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '19px',
+      weight: '400',
+      lineHeight: '26.6px',
+      letterSpacing: '-0.19px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  {
+    tag: 'img',
+    text: '',
+    alt: 'Wind Turbine Closeup',
+    sourceId: '11062b_e16cb98fc41a4c128b1984d6352e9e3e',
+    rect: { x: -1399.315185546875, y: 84, width: 1440, height: 800 },
+    font: {
+      family: 'Arial, Helvetica, sans-serif',
+      size: '10px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    },
+    color: 'rgb(0, 0, 0)'
+  },
+  {
+    tag: 'h1',
+    text: 'Sustainability, ESG Advisory & Carbon Credit Services Consultants for Future-Ready Organizations',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: -1132.315185546875, y: 567, width: 925, height: 135 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '50px',
+      weight: '400',
+      lineHeight: '45px',
+      letterSpacing: '-1.5px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  {
+    tag: 'p',
+    text: 'Empowering enterprises to integrate sustainability into core business strategy, compliance, and long-term value creation.',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: -1132.315185546875, y: 725, width: 618, height: 56 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '20px',
+      weight: '400',
+      lineHeight: '28px',
+      letterSpacing: '-0.2px'
+    },
+    color: 'rgb(5, 86, 94)'
+  }
+]
+state 1 []
+state 2 []
+state 3 [
+  {
+    tag: 'img',
+    text: '',
+    alt: 'Wind Turbine Closeup',
+    sourceId: '11062b_e16cb98fc41a4c128b1984d6352e9e3e',
+    rect: { x: 0, y: 84, width: 1440, height: 800 },
+    font: {
+      family: 'Arial, Helvetica, sans-serif',
+      size: '10px',
+      weight: '400',
+      lineHeight: 'normal',
+      letterSpacing: 'normal'
+    },
+    color: 'rgb(0, 0, 0)'
+  },
+  {
+    tag: 'h1',
+    text: 'Sustainability, ESG Advisory & Carbon Credit Services Consultants for Future-Ready Organizations',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 267, y: 567, width: 925, height: 135 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '50px',
+      weight: '400',
+      lineHeight: '45px',
+      letterSpacing: '-1.5px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  {
+    tag: 'p',
+    text: 'Empowering enterprises to integrate sustainability into core business strategy, compliance, and long-term value creation.',
+    alt: undefined,
+    sourceId: undefined,
+    rect: { x: 267, y: 725, width: 618, height: 56 },
+    font: {
+      family: 'aether, sans-serif',
+      size: '20px',
+      weight: '400',
+      lineHeight: '28px',
+      letterSpacing: '-0.2px'
+    },
+    color: 'rgb(5, 86, 94)'
+  }
+]
+state 4 []
+state 5 []

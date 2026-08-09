@@ -1,0 +1,2453 @@
+{
+  "mobile": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "document": {
+      "width": 980,
+      "height": 2876
+    },
+    "heading": {
+      "tag": "h1",
+      "text": "Meet The Team",
+      "className": "font_0 wixui-rich-text__text",
+      "rect": {
+        "x": 56,
+        "y": 444,
+        "width": 401,
+        "height": 45
+      },
+      "display": "block",
+      "gridTemplateColumns": "none",
+      "gap": "normal",
+      "padding": "0px",
+      "borderTop": "0px none rgb(5, 86, 94)",
+      "color": "rgb(5, 86, 94)",
+      "background": "rgba(0, 0, 0, 0)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "font": {
+        "family": "poppins-v2, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "lineHeight": "45px",
+        "letterSpacing": "-1.5px"
+      }
+    },
+    "heroSection": {
+      "tag": "section",
+      "text": "Meet The Team",
+      "className": "Le88gL comp-mi8r38xo wixui-section",
+      "rect": {
+        "x": 0,
+        "y": 84,
+        "width": 980,
+        "height": 482
+      },
+      "display": "block",
+      "gridTemplateColumns": "none",
+      "gap": "normal",
+      "padding": "0px",
+      "borderTop": "0px none rgb(0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "font": {
+        "family": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    "heroImage": {
+      "tag": "img",
+      "text": "",
+      "className": "",
+      "rect": {
+        "x": 0,
+        "y": 84,
+        "width": 980,
+        "height": 482
+      },
+      "display": "inline",
+      "gridTemplateColumns": "none",
+      "gap": "normal",
+      "padding": "0px",
+      "borderTop": "0px none rgb(0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "font": {
+        "family": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal"
+      },
+      "src": "https://static.wixstatic.com/media/11062b_c57a3fdd0b144c8c9bc5f3309234596c~mv2.jpeg/v1/fill/w_980,h_482,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_c57a3fdd0b144c8c9bc5f3309234596c~mv2.jpeg",
+      "alt": "On the Train",
+      "naturalWidth": 980,
+      "naturalHeight": 482
+    },
+    "cards": [
+      {
+        "name": "Summit Goyal",
+        "card": {
+          "tag": "div",
+          "text": "Summit GoyalHead of Governancesummit@sustaind.inSummit brings 17+ years of experience in Governance and Data Analysis, with a background in Risk Advisory at KPMG and Protiviti. He focuses on internal controls and process improvements across Real Estate, Retail, and Fintech industries.",
+          "className": "gpDCD5 comp-mi8r64s1",
+          "rect": {
+            "x": -5,
+            "y": 604,
+            "width": 488,
+            "height": 454
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Summit Goyal",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 197,
+            "y": 631,
+            "width": 254,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": -18,
+            "y": 615,
+            "width": 200,
+            "height": 200
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_b8cbc41bda9a4beeade149cd6f20cdfe~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2.png",
+          "alt": "Summit Goyal",
+          "naturalWidth": 200,
+          "naturalHeight": 200
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "summit@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 197,
+              "y": 724.203125,
+              "width": 174.859375,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 196,
+              "y": 766.703125,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Gurvinder Singh",
+        "card": {
+          "tag": "div",
+          "text": "Gurvinder SinghHead of Social Responsibilitygurvinder@sustaind.inWith 18+ years in Governance, Compliance, and Reporting, Gurvinder has worked with KPMG, MetLife, and Aon, specializing in CSR impact assessments across sectors like Oil & Gas, Real Estate, and Insurance.",
+          "className": "gpDCD5 comp-mi8rdcz6",
+          "rect": {
+            "x": 497,
+            "y": 604,
+            "width": 488,
+            "height": 453.5
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Gurvinder Singh",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 693,
+            "y": 631,
+            "width": 310,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": 488,
+            "y": 615,
+            "width": 200,
+            "height": 200
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_2570de86943a4f75902c04567498d800~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png",
+          "alt": "Gurvinder Singh",
+          "naturalWidth": 200,
+          "naturalHeight": 200
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "gurvinder@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 693,
+              "y": 724.203125,
+              "width": 192.984375,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 693,
+              "y": 766.703125,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Saurabh Verma",
+        "card": {
+          "tag": "div",
+          "text": "Saurabh VermaHead of Climate Risksaurabh@sustaind.inFormer Director at Moody’s, Saurabh has expertise in climate change, risk analysis, and compliance reporting, with a focus on Banking, Asset Management, and Insurance sectors.",
+          "className": "gpDCD5 comp-mi8rdi3d",
+          "rect": {
+            "x": -5,
+            "y": 1090,
+            "width": 488,
+            "height": 453.5
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Saurabh Verma",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 196,
+            "y": 1117,
+            "width": 310,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": -14,
+            "y": 1101,
+            "width": 200,
+            "height": 200
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_b86754fbc6a34ab78867063f96980ac1~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4.png",
+          "alt": "Saurabh Verma",
+          "naturalWidth": 200,
+          "naturalHeight": 200
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "saurabh@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 196,
+              "y": 1210.203125,
+              "width": 182.71875,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 196,
+              "y": 1252.703125,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pankhuri Jain",
+        "card": {
+          "tag": "div",
+          "text": "Pankhuri JainClimate Change Advisory Sustainable Healthcare ESGpankhuri@sustaind.inConsultant with a cross-sector background in academia, consulting, and research. At Sustaind, she focuses on impact assessments, sustainable healthcare, and ESG initiatives, fostering collaborations with corporate and global partners.",
+          "className": "gpDCD5 comp-mi8rn5ya",
+          "rect": {
+            "x": 497,
+            "y": 1090,
+            "width": 488,
+            "height": 454
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Pankhuri Jain",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 685,
+            "y": 1112,
+            "width": 310,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": 480,
+            "y": 1101,
+            "width": 200,
+            "height": 200
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_64f8582d8d4346bb9d24762c1baf59d8~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6.png",
+          "alt": "Pankhuri Jain",
+          "naturalWidth": 200,
+          "naturalHeight": 200
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "pankhuri@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 685,
+              "y": 1228.203125,
+              "width": 186.015625,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 684,
+              "y": 1261.703125,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pranav Bhardwaj",
+        "card": {
+          "tag": "div",
+          "text": "Pranav BhardwajClimate Change Advisory Sustainability ESGpranav@sustaind.inSustainability and ESG specialist with expertise in climate risk, ESG reporting, and monitoring & evaluation. At Sustaind, he leads strategic engagements with governments and multilateral organizations to drive impactful sustainability solutions.",
+          "className": "gpDCD5 comp-mi8rmv51",
+          "rect": {
+            "x": 246,
+            "y": 1566,
+            "width": 488,
+            "height": 454
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Pranav Bhardwaj",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 440,
+            "y": 1596,
+            "width": 310,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": 238,
+            "y": 1577,
+            "width": 195,
+            "height": 195
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_e1b0578864af4a8d8623ef3babb34d76~mv2.png/v1/fill/w_195,h_195,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5.png",
+          "alt": "Pranav Bhardwaj",
+          "naturalWidth": 195,
+          "naturalHeight": 195
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "pranav@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 440,
+              "y": 1704.203125,
+              "width": 171.109375,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 440,
+              "y": 1739,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "tablet": {
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "document": {
+      "width": 980,
+      "height": 2876
+    },
+    "heading": {
+      "tag": "h1",
+      "text": "Meet The Team",
+      "className": "font_0 wixui-rich-text__text",
+      "rect": {
+        "x": 56,
+        "y": 444,
+        "width": 401,
+        "height": 45
+      },
+      "display": "block",
+      "gridTemplateColumns": "none",
+      "gap": "normal",
+      "padding": "0px",
+      "borderTop": "0px none rgb(5, 86, 94)",
+      "color": "rgb(5, 86, 94)",
+      "background": "rgba(0, 0, 0, 0)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "font": {
+        "family": "poppins-v2, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "lineHeight": "45px",
+        "letterSpacing": "-1.5px"
+      }
+    },
+    "heroSection": {
+      "tag": "section",
+      "text": "Meet The Team",
+      "className": "Le88gL comp-mi8r38xo wixui-section",
+      "rect": {
+        "x": 0,
+        "y": 84,
+        "width": 980,
+        "height": 482
+      },
+      "display": "block",
+      "gridTemplateColumns": "none",
+      "gap": "normal",
+      "padding": "0px",
+      "borderTop": "0px none rgb(0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "font": {
+        "family": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    "heroImage": {
+      "tag": "img",
+      "text": "",
+      "className": "",
+      "rect": {
+        "x": 0,
+        "y": 84,
+        "width": 980,
+        "height": 482
+      },
+      "display": "inline",
+      "gridTemplateColumns": "none",
+      "gap": "normal",
+      "padding": "0px",
+      "borderTop": "0px none rgb(0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "font": {
+        "family": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal"
+      },
+      "src": "https://static.wixstatic.com/media/11062b_c57a3fdd0b144c8c9bc5f3309234596c~mv2.jpeg/v1/fill/w_980,h_482,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_c57a3fdd0b144c8c9bc5f3309234596c~mv2.jpeg",
+      "alt": "On the Train",
+      "naturalWidth": 980,
+      "naturalHeight": 482
+    },
+    "cards": [
+      {
+        "name": "Summit Goyal",
+        "card": {
+          "tag": "div",
+          "text": "Summit GoyalHead of Governancesummit@sustaind.inSummit brings 17+ years of experience in Governance and Data Analysis, with a background in Risk Advisory at KPMG and Protiviti. He focuses on internal controls and process improvements across Real Estate, Retail, and Fintech industries.",
+          "className": "gpDCD5 comp-mi8r64s1",
+          "rect": {
+            "x": -5,
+            "y": 604,
+            "width": 488,
+            "height": 454
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Summit Goyal",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 197,
+            "y": 631,
+            "width": 254,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": -18,
+            "y": 615,
+            "width": 200,
+            "height": 200
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_b8cbc41bda9a4beeade149cd6f20cdfe~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2.png",
+          "alt": "Summit Goyal",
+          "naturalWidth": 200,
+          "naturalHeight": 200
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "summit@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 197,
+              "y": 724.203125,
+              "width": 174.859375,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 196,
+              "y": 766.703125,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Gurvinder Singh",
+        "card": {
+          "tag": "div",
+          "text": "Gurvinder SinghHead of Social Responsibilitygurvinder@sustaind.inWith 18+ years in Governance, Compliance, and Reporting, Gurvinder has worked with KPMG, MetLife, and Aon, specializing in CSR impact assessments across sectors like Oil & Gas, Real Estate, and Insurance.",
+          "className": "gpDCD5 comp-mi8rdcz6",
+          "rect": {
+            "x": 497,
+            "y": 604,
+            "width": 488,
+            "height": 453.5
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Gurvinder Singh",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 693,
+            "y": 631,
+            "width": 310,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": 488,
+            "y": 615,
+            "width": 200,
+            "height": 200
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_2570de86943a4f75902c04567498d800~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png",
+          "alt": "Gurvinder Singh",
+          "naturalWidth": 200,
+          "naturalHeight": 200
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "gurvinder@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 693,
+              "y": 724.203125,
+              "width": 192.984375,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 693,
+              "y": 766.703125,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Saurabh Verma",
+        "card": {
+          "tag": "div",
+          "text": "Saurabh VermaHead of Climate Risksaurabh@sustaind.inFormer Director at Moody’s, Saurabh has expertise in climate change, risk analysis, and compliance reporting, with a focus on Banking, Asset Management, and Insurance sectors.",
+          "className": "gpDCD5 comp-mi8rdi3d",
+          "rect": {
+            "x": -5,
+            "y": 1090,
+            "width": 488,
+            "height": 453.5
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Saurabh Verma",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 196,
+            "y": 1117,
+            "width": 310,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": -14,
+            "y": 1101,
+            "width": 200,
+            "height": 200
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_b86754fbc6a34ab78867063f96980ac1~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4.png",
+          "alt": "Saurabh Verma",
+          "naturalWidth": 200,
+          "naturalHeight": 200
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "saurabh@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 196,
+              "y": 1210.203125,
+              "width": 182.71875,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 196,
+              "y": 1252.703125,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pankhuri Jain",
+        "card": {
+          "tag": "div",
+          "text": "Pankhuri JainClimate Change Advisory Sustainable Healthcare ESGpankhuri@sustaind.inConsultant with a cross-sector background in academia, consulting, and research. At Sustaind, she focuses on impact assessments, sustainable healthcare, and ESG initiatives, fostering collaborations with corporate and global partners.",
+          "className": "gpDCD5 comp-mi8rn5ya",
+          "rect": {
+            "x": 497,
+            "y": 1090,
+            "width": 488,
+            "height": 454
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Pankhuri Jain",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 685,
+            "y": 1112,
+            "width": 310,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": 480,
+            "y": 1101,
+            "width": 200,
+            "height": 200
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_64f8582d8d4346bb9d24762c1baf59d8~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6.png",
+          "alt": "Pankhuri Jain",
+          "naturalWidth": 200,
+          "naturalHeight": 200
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "pankhuri@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 685,
+              "y": 1228.203125,
+              "width": 186.015625,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 684,
+              "y": 1261.703125,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pranav Bhardwaj",
+        "card": {
+          "tag": "div",
+          "text": "Pranav BhardwajClimate Change Advisory Sustainability ESGpranav@sustaind.inSustainability and ESG specialist with expertise in climate risk, ESG reporting, and monitoring & evaluation. At Sustaind, he leads strategic engagements with governments and multilateral organizations to drive impactful sustainability solutions.",
+          "className": "gpDCD5 comp-mi8rmv51",
+          "rect": {
+            "x": 246,
+            "y": 1566,
+            "width": 488,
+            "height": 454
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Pranav Bhardwaj",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 440,
+            "y": 1596,
+            "width": 310,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": 238,
+            "y": 1577,
+            "width": 195,
+            "height": 195
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_e1b0578864af4a8d8623ef3babb34d76~mv2.png/v1/fill/w_195,h_195,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5.png",
+          "alt": "Pranav Bhardwaj",
+          "naturalWidth": 195,
+          "naturalHeight": 195
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "pranav@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 440,
+              "y": 1704.203125,
+              "width": 171.109375,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 440,
+              "y": 1739,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "desktop": {
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "document": {
+      "width": 1440,
+      "height": 2876
+    },
+    "heading": {
+      "tag": "h1",
+      "text": "Meet The Team",
+      "className": "font_0 wixui-rich-text__text",
+      "rect": {
+        "x": 286,
+        "y": 444,
+        "width": 401,
+        "height": 45
+      },
+      "display": "block",
+      "gridTemplateColumns": "none",
+      "gap": "normal",
+      "padding": "0px",
+      "borderTop": "0px none rgb(5, 86, 94)",
+      "color": "rgb(5, 86, 94)",
+      "background": "rgba(0, 0, 0, 0)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "font": {
+        "family": "poppins-v2, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "lineHeight": "45px",
+        "letterSpacing": "-1.5px"
+      }
+    },
+    "heroSection": {
+      "tag": "section",
+      "text": "Meet The Team",
+      "className": "Le88gL comp-mi8r38xo wixui-section",
+      "rect": {
+        "x": 0,
+        "y": 84,
+        "width": 1440,
+        "height": 482
+      },
+      "display": "block",
+      "gridTemplateColumns": "none",
+      "gap": "normal",
+      "padding": "0px",
+      "borderTop": "0px none rgb(0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "font": {
+        "family": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    "heroImage": {
+      "tag": "img",
+      "text": "",
+      "className": "",
+      "rect": {
+        "x": 0,
+        "y": 84,
+        "width": 1440,
+        "height": 482
+      },
+      "display": "inline",
+      "gridTemplateColumns": "none",
+      "gap": "normal",
+      "padding": "0px",
+      "borderTop": "0px none rgb(0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "font": {
+        "family": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal"
+      },
+      "src": "https://static.wixstatic.com/media/11062b_c57a3fdd0b144c8c9bc5f3309234596c~mv2.jpeg/v1/fill/w_1440,h_482,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_c57a3fdd0b144c8c9bc5f3309234596c~mv2.jpeg",
+      "alt": "On the Train",
+      "naturalWidth": 1440,
+      "naturalHeight": 482
+    },
+    "cards": [
+      {
+        "name": "Summit Goyal",
+        "card": {
+          "tag": "div",
+          "text": "Summit GoyalHead of Governancesummit@sustaind.inSummit brings 17+ years of experience in Governance and Data Analysis, with a background in Risk Advisory at KPMG and Protiviti. He focuses on internal controls and process improvements across Real Estate, Retail, and Fintech industries.",
+          "className": "gpDCD5 comp-mi8r64s1",
+          "rect": {
+            "x": 225,
+            "y": 604,
+            "width": 488,
+            "height": 454
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Summit Goyal",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 427,
+            "y": 631,
+            "width": 254,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": 212,
+            "y": 615,
+            "width": 200,
+            "height": 200
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_b8cbc41bda9a4beeade149cd6f20cdfe~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2.png",
+          "alt": "Summit Goyal",
+          "naturalWidth": 200,
+          "naturalHeight": 200
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "summit@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 427,
+              "y": 724.203125,
+              "width": 174.859375,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 426,
+              "y": 766.703125,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Gurvinder Singh",
+        "card": {
+          "tag": "div",
+          "text": "Gurvinder SinghHead of Social Responsibilitygurvinder@sustaind.inWith 18+ years in Governance, Compliance, and Reporting, Gurvinder has worked with KPMG, MetLife, and Aon, specializing in CSR impact assessments across sectors like Oil & Gas, Real Estate, and Insurance.",
+          "className": "gpDCD5 comp-mi8rdcz6",
+          "rect": {
+            "x": 727,
+            "y": 604,
+            "width": 488,
+            "height": 453.5
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Gurvinder Singh",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 923,
+            "y": 631,
+            "width": 310,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": 718,
+            "y": 615,
+            "width": 200,
+            "height": 200
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_2570de86943a4f75902c04567498d800~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png",
+          "alt": "Gurvinder Singh",
+          "naturalWidth": 200,
+          "naturalHeight": 200
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "gurvinder@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 923,
+              "y": 724.203125,
+              "width": 192.984375,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 923,
+              "y": 766.703125,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Saurabh Verma",
+        "card": {
+          "tag": "div",
+          "text": "Saurabh VermaHead of Climate Risksaurabh@sustaind.inFormer Director at Moody’s, Saurabh has expertise in climate change, risk analysis, and compliance reporting, with a focus on Banking, Asset Management, and Insurance sectors.",
+          "className": "gpDCD5 comp-mi8rdi3d",
+          "rect": {
+            "x": 225,
+            "y": 1090,
+            "width": 488,
+            "height": 453.5
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Saurabh Verma",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 426,
+            "y": 1117,
+            "width": 310,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": 216,
+            "y": 1101,
+            "width": 200,
+            "height": 200
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_b86754fbc6a34ab78867063f96980ac1~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4.png",
+          "alt": "Saurabh Verma",
+          "naturalWidth": 200,
+          "naturalHeight": 200
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "saurabh@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 426,
+              "y": 1210.203125,
+              "width": 182.71875,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 426,
+              "y": 1252.703125,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pankhuri Jain",
+        "card": {
+          "tag": "div",
+          "text": "Pankhuri JainClimate Change Advisory Sustainable Healthcare ESGpankhuri@sustaind.inConsultant with a cross-sector background in academia, consulting, and research. At Sustaind, she focuses on impact assessments, sustainable healthcare, and ESG initiatives, fostering collaborations with corporate and global partners.",
+          "className": "gpDCD5 comp-mi8rn5ya",
+          "rect": {
+            "x": 727,
+            "y": 1090,
+            "width": 488,
+            "height": 454
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Pankhuri Jain",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 915,
+            "y": 1112,
+            "width": 310,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": 710,
+            "y": 1101,
+            "width": 200,
+            "height": 200
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_64f8582d8d4346bb9d24762c1baf59d8~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6.png",
+          "alt": "Pankhuri Jain",
+          "naturalWidth": 200,
+          "naturalHeight": 200
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "pankhuri@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 915,
+              "y": 1228.203125,
+              "width": 186.015625,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 914,
+              "y": 1261.703125,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pranav Bhardwaj",
+        "card": {
+          "tag": "div",
+          "text": "Pranav BhardwajClimate Change Advisory Sustainability ESGpranav@sustaind.inSustainability and ESG specialist with expertise in climate risk, ESG reporting, and monitoring & evaluation. At Sustaind, he leads strategic engagements with governments and multilateral organizations to drive impactful sustainability solutions.",
+          "className": "gpDCD5 comp-mi8rmv51",
+          "rect": {
+            "x": 476,
+            "y": 1566,
+            "width": 488,
+            "height": 454
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          }
+        },
+        "title": {
+          "tag": "h4",
+          "text": "Pranav Bhardwaj",
+          "className": "font_4 wixui-rich-text__text",
+          "rect": {
+            "x": 670,
+            "y": 1596,
+            "width": 310,
+            "height": 31.203125
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(5, 86, 94)",
+          "color": "rgb(5, 86, 94)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "poppins-v2, sans-serif",
+            "size": "24px",
+            "weight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "-0.72px"
+          }
+        },
+        "image": {
+          "tag": "img",
+          "text": "",
+          "className": "gRkIq0 sFiSiq",
+          "rect": {
+            "x": 468,
+            "y": 1577,
+            "width": 195,
+            "height": 195
+          },
+          "display": "block",
+          "gridTemplateColumns": "none",
+          "gap": "normal",
+          "padding": "0px",
+          "borderTop": "0px none rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "font": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "10px",
+            "weight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "normal"
+          },
+          "src": "https://static.wixstatic.com/media/0446e3_e1b0578864af4a8d8623ef3babb34d76~mv2.png/v1/fill/w_195,h_195,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5.png",
+          "alt": "Pranav Bhardwaj",
+          "naturalWidth": 195,
+          "naturalHeight": 195
+        },
+        "links": [
+          {
+            "tag": "a",
+            "text": "pranav@sustaind.in",
+            "className": "wixui-rich-text__text",
+            "rect": {
+              "x": 670,
+              "y": 1704.203125,
+              "width": 171.109375,
+              "height": 22
+            },
+            "display": "inline",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(201, 241, 255)",
+            "color": "rgb(201, 241, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "aether, sans-serif",
+              "size": "19px",
+              "weight": "400",
+              "lineHeight": "28.5px",
+              "letterSpacing": "-0.19px"
+            }
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "className": "twXk19",
+            "rect": {
+              "x": 670,
+              "y": 1739,
+              "width": 39,
+              "height": 39
+            },
+            "display": "block",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "padding": "0px",
+            "borderTop": "0px none rgb(0, 0, 238)",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "objectFit": "fill",
+            "objectPosition": "50% 50%",
+            "font": {
+              "family": "Arial, Helvetica, sans-serif",
+              "size": "10px",
+              "weight": "400",
+              "lineHeight": "normal",
+              "letterSpacing": "normal"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

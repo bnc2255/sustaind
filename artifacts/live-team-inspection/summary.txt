@@ -1,0 +1,585 @@
+
+mobile {
+  viewport: { width: 390, height: 844 },
+  document: { width: 980, height: 2876 },
+  hero: { x: 0, y: 84, width: 980, height: 482 },
+  heroImage: { x: 0, y: 84, width: 980, height: 482 },
+  heroObjectPosition: '50% 50%',
+  heading: {
+    tag: 'h1',
+    text: 'Meet The Team',
+    className: 'font_0 wixui-rich-text__text',
+    rect: { x: 56, y: 444, width: 401, height: 45 },
+    display: 'block',
+    gridTemplateColumns: 'none',
+    gap: 'normal',
+    padding: '0px',
+    borderTop: '0px none rgb(5, 86, 94)',
+    color: 'rgb(5, 86, 94)',
+    background: 'rgba(0, 0, 0, 0)',
+    objectFit: 'fill',
+    objectPosition: '50% 50%',
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '50px',
+      weight: '400',
+      lineHeight: '45px',
+      letterSpacing: '-1.5px'
+    }
+  }
+}
+Summit Goyal {
+  card: { x: -5, y: 604, width: 488, height: 454 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 197, y: 631, width: 254, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: -18, y: 615, width: 200, height: 200 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'summit@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+Gurvinder Singh {
+  card: { x: 497, y: 604, width: 488, height: 453.5 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 693, y: 631, width: 310, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: 488, y: 615, width: 200, height: 200 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'gurvinder@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+Saurabh Verma {
+  card: { x: -5, y: 1090, width: 488, height: 453.5 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 196, y: 1117, width: 310, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: -14, y: 1101, width: 200, height: 200 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'saurabh@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+Pankhuri Jain {
+  card: { x: 497, y: 1090, width: 488, height: 454 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 685, y: 1112, width: 310, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: 480, y: 1101, width: 200, height: 200 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'pankhuri@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+Pranav Bhardwaj {
+  card: { x: 246, y: 1566, width: 488, height: 454 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 440, y: 1596, width: 310, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: 238, y: 1577, width: 195, height: 195 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'pranav@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+
+tablet {
+  viewport: { width: 768, height: 1024 },
+  document: { width: 980, height: 2876 },
+  hero: { x: 0, y: 84, width: 980, height: 482 },
+  heroImage: { x: 0, y: 84, width: 980, height: 482 },
+  heroObjectPosition: '50% 50%',
+  heading: {
+    tag: 'h1',
+    text: 'Meet The Team',
+    className: 'font_0 wixui-rich-text__text',
+    rect: { x: 56, y: 444, width: 401, height: 45 },
+    display: 'block',
+    gridTemplateColumns: 'none',
+    gap: 'normal',
+    padding: '0px',
+    borderTop: '0px none rgb(5, 86, 94)',
+    color: 'rgb(5, 86, 94)',
+    background: 'rgba(0, 0, 0, 0)',
+    objectFit: 'fill',
+    objectPosition: '50% 50%',
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '50px',
+      weight: '400',
+      lineHeight: '45px',
+      letterSpacing: '-1.5px'
+    }
+  }
+}
+Summit Goyal {
+  card: { x: -5, y: 604, width: 488, height: 454 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 197, y: 631, width: 254, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: -18, y: 615, width: 200, height: 200 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'summit@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+Gurvinder Singh {
+  card: { x: 497, y: 604, width: 488, height: 453.5 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 693, y: 631, width: 310, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: 488, y: 615, width: 200, height: 200 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'gurvinder@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+Saurabh Verma {
+  card: { x: -5, y: 1090, width: 488, height: 453.5 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 196, y: 1117, width: 310, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: -14, y: 1101, width: 200, height: 200 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'saurabh@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+Pankhuri Jain {
+  card: { x: 497, y: 1090, width: 488, height: 454 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 685, y: 1112, width: 310, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: 480, y: 1101, width: 200, height: 200 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'pankhuri@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+Pranav Bhardwaj {
+  card: { x: 246, y: 1566, width: 488, height: 454 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 440, y: 1596, width: 310, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: 238, y: 1577, width: 195, height: 195 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'pranav@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+
+desktop {
+  viewport: { width: 1440, height: 900 },
+  document: { width: 1440, height: 2876 },
+  hero: { x: 0, y: 84, width: 1440, height: 482 },
+  heroImage: { x: 0, y: 84, width: 1440, height: 482 },
+  heroObjectPosition: '50% 50%',
+  heading: {
+    tag: 'h1',
+    text: 'Meet The Team',
+    className: 'font_0 wixui-rich-text__text',
+    rect: { x: 286, y: 444, width: 401, height: 45 },
+    display: 'block',
+    gridTemplateColumns: 'none',
+    gap: 'normal',
+    padding: '0px',
+    borderTop: '0px none rgb(5, 86, 94)',
+    color: 'rgb(5, 86, 94)',
+    background: 'rgba(0, 0, 0, 0)',
+    objectFit: 'fill',
+    objectPosition: '50% 50%',
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '50px',
+      weight: '400',
+      lineHeight: '45px',
+      letterSpacing: '-1.5px'
+    }
+  }
+}
+Summit Goyal {
+  card: { x: 225, y: 604, width: 488, height: 454 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 427, y: 631, width: 254, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: 212, y: 615, width: 200, height: 200 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'summit@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+Gurvinder Singh {
+  card: { x: 727, y: 604, width: 488, height: 453.5 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 923, y: 631, width: 310, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: 718, y: 615, width: 200, height: 200 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'gurvinder@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+Saurabh Verma {
+  card: { x: 225, y: 1090, width: 488, height: 453.5 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 426, y: 1117, width: 310, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: 216, y: 1101, width: 200, height: 200 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'saurabh@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+Pankhuri Jain {
+  card: { x: 727, y: 1090, width: 488, height: 454 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 915, y: 1112, width: 310, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: 710, y: 1101, width: 200, height: 200 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'pankhuri@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}
+Pranav Bhardwaj {
+  card: { x: 476, y: 1566, width: 488, height: 454 },
+  background: 'rgba(0, 0, 0, 0)',
+  title: {
+    rect: { x: 670, y: 1596, width: 310, height: 31.203125 },
+    font: {
+      family: 'poppins-v2, sans-serif',
+      size: '24px',
+      weight: '500',
+      lineHeight: '31.2px',
+      letterSpacing: '-0.72px'
+    },
+    color: 'rgb(5, 86, 94)'
+  },
+  image: {
+    rect: { x: 468, y: 1577, width: 195, height: 195 },
+    objectPosition: '50% 50%'
+  },
+  links: [
+    {
+      rect: [Object],
+      text: 'pranav@sustaind.in',
+      font: [Object],
+      color: 'rgb(201, 241, 255)'
+    },
+    {
+      rect: [Object],
+      text: '',
+      font: [Object],
+      color: 'rgb(0, 0, 238)'
+    }
+  ]
+}

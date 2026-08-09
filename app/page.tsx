@@ -3,6 +3,9 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useMemo, useState } from "react";
+import { BlogCarousel } from "@/components/blog-ui";
+import { HomeHeroCarousel } from "@/components/home-hero-carousel";
+import { getHomepagePosts } from "@/content/posts";
 
 const asset = "/assets/";
 const sectors = [
@@ -13,11 +16,6 @@ const sectors = [
   ["Fintech & Financial Services", "ESG integration in lending and investment decisions, green finance framework development"],
   ["Energy & Utilities", "Net-zero strategy, renewable energy transition planning, and climate scenario analysis"],
 ] as const;
-const articles = [
-  { image: `${asset}0446e3-3d71964d79fa478a92dcce9bf22d995d-mv2-png-4d569acf6c41.png`, category: "Carbon Credits", title: "Verra or Gold Standard? Choosing the Right Registry", href: "/post/verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project" },
-  { image: `${asset}0446e3-fb93df94826c4ef29b187254a5037b9e-mv2-png-6cf5ba7f6234.png`, category: "ESG Advisory", title: "The Future of Agri-ESG: Scaling Carbon Credits", href: "/post/the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector" },
-  { image: `${asset}0446e3-063cd89cbdd14813a1b62da9964d87f8-mv2-png-5e98a0a52e5b.png`, category: "Net Zero", title: "How Do Carbon Credits Help Companies Meet Their Net Zero Targets?", href: "/post/carbon-credits-for-net-zero-targets-india" },
-];
 const questions = [
   ["Climate Risk Assessment", "What does your climate risk assessment include?", "We cover physical risks, transition risks, scenario analysis, and a practical roadmap for building climate resilience."],
   ["ESG Advisory", "How can ESG improve business performance?", "Our ESG advisory work connects governance, sustainability data, risk management, and transparent reporting to long-term value creation."],
@@ -26,22 +24,20 @@ const questions = [
 ] as const;
 
 export default function Home() {
-  const [articleIndex, setArticleIndex] = useState(0);
+  const homepagePosts = getHomepagePosts();
   const [faqCategory, setFaqCategory] = useState("All");
   const [faqQuery, setFaqQuery] = useState("");
   const filteredQuestions = useMemo(() => questions.filter(([category, question]) => (faqCategory === "All" || category === faqCategory) && question.toLowerCase().includes(faqQuery.toLowerCase())), [faqCategory, faqQuery]);
 
   return <>
-    <section className="home-hero"><Image src={`${asset}11062b-e16cb98fc41a4c128b1984d6352e9e3e-mv2-jpg-e32a764e9593.jpg`} alt="Wind turbine" fill priority sizes="100vw"/><div className="hero-shade"/><div className="site-container hero-copy"><button type="button" aria-label="Previous hero slide">‹</button><div><h1>Sustainability, ESG Advisory &amp; <em>Carbon Credit Services Consultants</em> for Future-Ready Organizations</h1><span>Empowering enterprises to integrate sustainability into core business strategy, compliance, and long-term value creation.</span></div><button type="button" aria-label="Next hero slide">›</button></div></section>
+    <HomeHeroCarousel />
     <section className="logo-rail" aria-label="Frameworks and standards"><div className="site-container logo-rail__items"><span>GHG PROTOCOL</span><span>IFRS S1 / S2</span><span>CDP</span><span>BRSR</span><span>SCIENCE BASED TARGETS</span></div></section>
     <section className="home-intro site-container"><Image src={`${asset}0446e3-40328ef22d8a4893bab73f14f54b0d45-mv2-jpg-47aeffb5e08d.jpg`} alt="Sustaind consultants meeting" width={1200} height={1600}/><div><h2>Powering Responsible Growth for Businesses Across India &amp; the <em>Middle East</em></h2><p>In a world where environmental accountability is no longer optional, Sustaind stands as a trusted partner for organisations ready to lead the transition toward responsible, climate-aligned growth.</p><p>Headquartered in Gurugram, India — with an established presence in Saudi Arabia — we bring together deep domain expertise, global framework knowledge, and ground execution capability.</p><Link className="outline-link" href="/about-us">Discover Sustaind <span>→</span></Link></div></section>
     <section className="sector-band"><div className="site-container"><p className="section-kicker">Our expertise</p><h2>What We Do — End-to-End Sustainability Consulting</h2><p>Sustaind provides integrated sustainability consulting across four core disciplines — Carbon Credit Services, ESG Advisory, IFRS Compliance, and Sustainability Strategy.</p><div className="sector-grid">{sectors.map(([title, copy]) => <article key={title}><h3>{title}</h3><p>{copy}</p></article>)}</div></div></section>
     <section className="image-divider"><Image src={`${asset}0446e3-ef6e2204be8f40c6af92b8a681b4a809-mv2-png-8ffa377ad5c9.png`} alt="Sustaind approach" fill sizes="100vw"/><div><p>Global frameworks.<br/><em>Local execution.</em><br/>Measurable outcomes.</p></div></section>
     <section className="approach"><div className="site-container approach-grid"><div><p className="section-kicker">How we work</p><h2><em>Our Approach</em> — Global Frameworks. Local Execution. Measurable Outcomes.</h2><p>Sustaind&apos;s consulting methodology is built on three foundational principles: rigorous adherence to globally recognised ESG and sustainability frameworks, practical on-ground execution tailored to local market realities, and an unwavering commitment to measurable outcomes.</p><p>Every project is undertaken to produce real, verifiable change — reducing carbon emissions, improving supply chain transparency, strengthening governance practices, or unlocking access to green capital.</p></div><Image className="approach-image" src={`${asset}11062b-03ad2bb2f5ae4a43a581798782d9f3d6-mv2-jpg-55f7f3595c04.jpg`} alt="People working on sustainability projects" width={1200} height={800}/></div></section>
     <section className="impact-section"><div className="site-container impact-grid"><Image src={`${asset}11062b-d50125819cd142e79d87a4d50407389a-mv2-jpg-115391476e25.jpg`} alt="Solar panels supporting a sustainable future" width={1200} height={800}/><div className="impact"><p className="section-kicker">The outcome</p><h2>Impact We Aim to <em>Create</em></h2><ul><li>Lower emissions</li><li>Climate-resilient supply chains</li><li>Transparent sustainability disclosures</li><li>Social equity &amp; responsible sourcing</li></ul><Link className="outline-link" href="/about-us">About Us <span>→</span></Link></div></div></section>
-    <section className="articles site-container"><p className="section-kicker">Insights</p><h2>Industries We Serve</h2><p>Agriculture • Healthcare • FMCG • Retail • Logistics • Fintech • Manufacturing • Government</p><div className="article-grid">{articles.slice(articleIndex, articleIndex + 2).map((article) => <Article key={article.href} {...article}/>)} </div><div className="carousel-controls"><button type="button" aria-label="Previous articles" onClick={() => setArticleIndex(Math.max(0, articleIndex - 1))}>←</button><span>{articleIndex + 1} / {articles.length - 1}</span><button type="button" aria-label="Next articles" onClick={() => setArticleIndex(Math.min(articles.length - 2, articleIndex + 1))}>→</button></div></section>
+    <section className="articles site-container"><p className="section-kicker">Insights</p><h2>Industries We Serve</h2><p>Agriculture • Healthcare • FMCG • Retail • Logistics • Fintech • Manufacturing • Government</p><BlogCarousel posts={homepagePosts} /><Link className="outline-link articles__all" href="/blog">View all posts <span>→</span></Link></section>
     <section className="faq-back"><div className="site-container faq"><div className="faq-heading"><div><p className="section-kicker">Need to know</p><h2>Frequently asked questions</h2></div><label className="faq-search"><span aria-hidden="true">⌕</span><input value={faqQuery} onChange={(event) => setFaqQuery(event.target.value)} placeholder="Search questions" aria-label="Search questions"/></label></div><div className="faq-tabs" role="tablist" aria-label="FAQ categories">{["All", ...new Set(questions.map(([category]) => category))].map((category) => <button key={category} type="button" role="tab" aria-selected={faqCategory === category} className={faqCategory === category ? "is-active" : undefined} onClick={() => setFaqCategory(category)}>{category}</button>)}</div><div className="faq-list">{filteredQuestions.map(([, question, answer], index) => <details key={question} open={index === 0}><summary>{question}<span aria-hidden="true">+</span></summary><p>{answer}</p></details>)}{filteredQuestions.length === 0 && <p className="faq-empty">No questions match that search.</p>}</div><div className="faq-share"><span>Share this page</span><button type="button" aria-label="Share on Facebook">f</button><button type="button" aria-label="Share on LinkedIn">in</button><button type="button" aria-label="Copy page link" onClick={() => void navigator.clipboard?.writeText(window.location.href)}>↗</button></div></div></section>
   </>;
 }
-
-function Article({ image, category, title, href }: { image: string; category: string; title: string; href: string }) { return <Link className="article-card" href={href}><Image src={image} alt={title} width={1200} height={628}/><small>{category}</small><h3>{title}</h3><span className="read-more">Read article →</span></Link>; }

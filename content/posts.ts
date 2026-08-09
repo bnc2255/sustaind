@@ -1,5 +1,5 @@
 export interface PostMetadata {
-  slug: string; title: string; heading: string; description: string; author: string; authorImage: string; authorAlt: string; category: string; categorySlugs: string[]; publishedAt: string; modifiedAt: string; canonicalPath: string; heroImage: string; heroAlt: string;
+  slug: string; title: string; heading: string; description: string; author: string; authorImage: string; authorAlt: string; category: string; categorySlugs: string[]; publishedAt: string; modifiedAt: string; canonicalPath: string; heroImage: string; heroAlt: string; readTime?: string;
 }
 
 export const posts = {
@@ -9,7 +9,7 @@ export const posts = {
     "heading": "How Do Carbon Credits Help Companies Meet Their Net Zero Targets?",
     "description": "Discover how carbon credits for net zero targets India are reshaping climate strategy. Learn how Sustaind helps businesses offset emissions, trade credits, and align with India's 2070 net zero vision.",
     "author": "Dolly Soni",
-    "authorImage": "/assets/0446e3-aa65c2c7ac844b87b4830267f0ccbd61-mv2-png-a56d11681495.png",
+    "authorImage": "/assets/blog-author-dolly-soni.webp",
     "authorAlt": "Writer: Dolly Soni",
     "category": "Sustainability Service",
     "categorySlugs": [
@@ -27,7 +27,7 @@ export const posts = {
     "heading": "Carbon Credits Services Consultants in Gurugram",
     "description": "Are you looking for expert carbon credits services consultants in Gurugram? Discover what carbon credits are, how businesses can use them in 2026, and why they are essential for sustainable growth with Sustaind.",
     "author": "Harsh Ballyan",
-    "authorImage": "/assets/0446e3-ceb7fd633c2a4f26992c4fdb5567f08b-mv2-png-3571c19eeef0.png",
+    "authorImage": "/assets/blog-author-harsh-ballyan.webp",
     "authorAlt": "Writer: Harsh Ballyan",
     "category": "Sustaind Consulting",
     "categorySlugs": [],
@@ -43,7 +43,7 @@ export const posts = {
     "heading": "Climate Risk Assessment for Businesses in India",
     "description": "Discover how climate risk assessment for businesses in India is reshaping corporate strategy. Learn key frameworks, regulatory drivers, and how Sustaind helps Indian enterprises stay ahead of climate-related financial and operational risks.",
     "author": "Harsh Ballyan",
-    "authorImage": "/assets/0446e3-ceb7fd633c2a4f26992c4fdb5567f08b-mv2-png-3571c19eeef0.png",
+    "authorImage": "/assets/blog-author-harsh-ballyan.webp",
     "authorAlt": "Writer: Harsh Ballyan",
     "category": "Climate Risk Assessment",
     "categorySlugs": [
@@ -61,7 +61,7 @@ export const posts = {
     "heading": "Climate Risk Assessment Service Consulting in Gurugram",
     "description": "Looking for expert Climate Risk Assessment service consulting in Gurugram? Sustaind helps businesses identify, measure, and manage climate-related risks with globally aligned frameworks like TCFD and GRI. Partner with us to future-proof your operations.",
     "author": "Harsh Ballyan",
-    "authorImage": "/assets/0446e3-ceb7fd633c2a4f26992c4fdb5567f08b-mv2-png-3571c19eeef0.png",
+    "authorImage": "/assets/blog-author-harsh-ballyan.webp",
     "authorAlt": "Writer: Harsh Ballyan",
     "category": "Climate Risk Assessment",
     "categorySlugs": [
@@ -79,7 +79,7 @@ export const posts = {
     "heading": "Difference Between Carbon Credits and Carbon Offsets",
     "description": "Not sure about the difference between carbon credits and carbon offsets? Sustaind breaks it down simply — learn what each means, how they work, and why the distinction matters for businesses and individuals.",
     "author": "Dolly Soni",
-    "authorImage": "/assets/0446e3-aa65c2c7ac844b87b4830267f0ccbd61-mv2-png-a56d11681495.png",
+    "authorImage": "/assets/blog-author-dolly-soni.webp",
     "authorAlt": "Writer: Dolly Soni",
     "category": "Sustaind Consulting",
     "categorySlugs": [],
@@ -95,7 +95,7 @@ export const posts = {
     "heading": "ESG Advisory Service Consultants in Gurugram",
     "description": "Looking for expert ESG advisory service consultants in Gurugram? Sustaind provides end-to-end ESG strategy, BRSR compliance, GHG accounting, and sustainability reporting solutions tailored for Indian businesses and cross-border investors.",
     "author": "Harsh Ballyan",
-    "authorImage": "/assets/0446e3-ceb7fd633c2a4f26992c4fdb5567f08b-mv2-png-3571c19eeef0.png",
+    "authorImage": "/assets/blog-author-harsh-ballyan.webp",
     "authorAlt": "Writer: Harsh Ballyan",
     "category": "Sustaind Consulting",
     "categorySlugs": [],
@@ -111,7 +111,7 @@ export const posts = {
     "heading": "ESG Advisory Services for Indian Companies",
     "description": "Discover how ESG advisory services for Indian companies are reshaping corporate strategy, attracting global investors, and ensuring long-term business resilience in a rapidly evolving regulatory landscape.",
     "author": "Dolly Soni",
-    "authorImage": "/assets/0446e3-aa65c2c7ac844b87b4830267f0ccbd61-mv2-png-a56d11681495.png",
+    "authorImage": "/assets/blog-author-dolly-soni.webp",
     "authorAlt": "Writer: Dolly Soni",
     "category": "ESG Advisory",
     "categorySlugs": [
@@ -129,7 +129,7 @@ export const posts = {
     "heading": "How to buy carbon credits in India",
     "description": "Learn how to buy carbon credits in India with this practical guide by Sustaind. Understand India’s evolving carbon market, net-zero goals, compliance opportunities, and how businesses and individuals can invest in verified carbon credits for sustainable growth.",
     "author": "Dolly Soni",
-    "authorImage": "/assets/0446e3-aa65c2c7ac844b87b4830267f0ccbd61-mv2-png-a56d11681495.png",
+    "authorImage": "/assets/blog-author-dolly-soni.webp",
     "authorAlt": "Writer: Dolly Soni",
     "category": "Sustainability Service",
     "categorySlugs": [
@@ -147,7 +147,7 @@ export const posts = {
     "heading": "IFRS S1 S2 Sustainability Disclosure India",
     "description": "Understand how IFRS S1 S2 sustainability disclosure India frameworks are reshaping ESG reporting for Indian businesses. Sustaind breaks down what these global standards mean for your organisation's compliance journey.",
     "author": "Harsh Ballyan",
-    "authorImage": "/assets/0446e3-ceb7fd633c2a4f26992c4fdb5567f08b-mv2-png-3571c19eeef0.png",
+    "authorImage": "/assets/blog-author-harsh-ballyan.webp",
     "authorAlt": "Writer: Harsh Ballyan",
     "category": "IFRS Service",
     "categorySlugs": [
@@ -165,7 +165,7 @@ export const posts = {
     "heading": "IFRS Service Consulting in Gurugram",
     "description": "Looking for trusted IFRS service consulting in Gurugram? Sustaind.in helps businesses adopt global accounting standards seamlessly.",
     "author": "Harsh Ballyan",
-    "authorImage": "/assets/0446e3-ceb7fd633c2a4f26992c4fdb5567f08b-mv2-png-3571c19eeef0.png",
+    "authorImage": "/assets/blog-author-harsh-ballyan.webp",
     "authorAlt": "Writer: Harsh Ballyan",
     "category": "Sustaind Consulting",
     "categorySlugs": [],
@@ -181,7 +181,7 @@ export const posts = {
     "heading": "IFRS Sustainability Standards Compliance in India",
     "description": "Understand IFRS sustainability standards compliance in India — from SEBI's BRSR framework to ISSB adoption timelines.",
     "author": "Harsh Ballyan",
-    "authorImage": "/assets/0446e3-ceb7fd633c2a4f26992c4fdb5567f08b-mv2-png-3571c19eeef0.png",
+    "authorImage": "/assets/blog-author-harsh-ballyan.webp",
     "authorAlt": "Writer: Harsh Ballyan",
     "category": "IFRS Service",
     "categorySlugs": [
@@ -199,7 +199,7 @@ export const posts = {
     "heading": "IFRS vs BRSR Reporting Difference in India",
     "description": "Confused about IFRS vs BRSR reporting difference in India? Sustaind breaks down both frameworks — their scope, applicability, key differences, and why Indian companies need both to stay compliant and future-ready.",
     "author": "Dolly Soni",
-    "authorImage": "/assets/0446e3-aa65c2c7ac844b87b4830267f0ccbd61-mv2-png-a56d11681495.png",
+    "authorImage": "/assets/blog-author-dolly-soni.webp",
     "authorAlt": "Writer: Dolly Soni",
     "category": "Sustaind Consulting",
     "categorySlugs": [],
@@ -215,7 +215,7 @@ export const posts = {
     "heading": "Sustainability Consulting for SMEs in India",
     "description": "Looking for expert sustainability consulting for SMEs in India? Sustaind helps small and medium enterprises integrate ESG practices, reduce carbon footprint, and build future-ready, compliant, and competitive businesses across India.",
     "author": "Dolly Soni",
-    "authorImage": "/assets/0446e3-aa65c2c7ac844b87b4830267f0ccbd61-mv2-png-a56d11681495.png",
+    "authorImage": "/assets/blog-author-dolly-soni.webp",
     "authorAlt": "Writer: Dolly Soni",
     "category": "Sustaind Consulting",
     "categorySlugs": [
@@ -233,7 +233,7 @@ export const posts = {
     "heading": "Sustainability Reporting Frameworks India 2026",
     "description": "Discover the key sustainability reporting frameworks shaping Indian businesses in 2026 — from BRSR and GRI to TCFD and the emerging ESG norms. Sustaind breaks down what each framework means for your compliance journey.",
     "author": "Dolly Soni",
-    "authorImage": "/assets/0446e3-aa65c2c7ac844b87b4830267f0ccbd61-mv2-png-a56d11681495.png",
+    "authorImage": "/assets/blog-author-dolly-soni.webp",
     "authorAlt": "Writer: Dolly Soni",
     "category": "Sustaind Consulting",
     "categorySlugs": [
@@ -251,7 +251,7 @@ export const posts = {
     "heading": "Sustainability Service Consulting in Gurugram",
     "description": "Looking for expert sustainability service consulting in Gurugram? Sustaind.in offers end-to-end ESG advisory, BRSR compliance, GHG accounting, and green strategy services tailored for businesses in NCR and beyond. Build a resilient, future-ready organisation today.",
     "author": "Harsh Ballyan",
-    "authorImage": "/assets/0446e3-ceb7fd633c2a4f26992c4fdb5567f08b-mv2-png-3571c19eeef0.png",
+    "authorImage": "/assets/blog-author-harsh-ballyan.webp",
     "authorAlt": "Writer: Harsh Ballyan",
     "category": "Sustaind Consulting",
     "categorySlugs": [],
@@ -267,7 +267,7 @@ export const posts = {
     "heading": "The Future of Agri-ESG: Scaling Carbon Credits in Saudi Arabia’s Agriculture Sector",
     "description": "Discover The Future of Agri-ESG: Scaling Carbon Credits in Saudi Arabia’s Agriculture Sector is reshaping food security, sustainability, and green investment under Vision 2030.",
     "author": "Dolly Soni",
-    "authorImage": "/assets/0446e3-aa65c2c7ac844b87b4830267f0ccbd61-mv2-png-a56d11681495.png",
+    "authorImage": "/assets/blog-author-dolly-soni.webp",
     "authorAlt": "Writer: Dolly Soni",
     "category": "ESG Advisory",
     "categorySlugs": [
@@ -285,7 +285,7 @@ export const posts = {
     "heading": "Verra or Gold Standard? Choosing the Right Registry for Your Carbon Project",
     "description": "Verra or Gold Standard? Choosing the Right Registry for Your Carbon Project can make or break your credits' credibility.",
     "author": "Dolly Soni",
-    "authorImage": "/assets/0446e3-aa65c2c7ac844b87b4830267f0ccbd61-mv2-png-a56d11681495.png",
+    "authorImage": "/assets/blog-author-dolly-soni.webp",
     "authorAlt": "Writer: Dolly Soni",
     "category": "Carbon Credits",
     "categorySlugs": [
@@ -303,7 +303,7 @@ export const posts = {
     "heading": "What is ESG Score and How It Is Calculated",
     "description": "Wondering what is ESG Score and how it is calculated? This comprehensive guide by Sustaind breaks down ESG scoring, its components, methodology,\nand why it matters for investors and businesses in 2024.",
     "author": "Harsh Ballyan",
-    "authorImage": "/assets/0446e3-ceb7fd633c2a4f26992c4fdb5567f08b-mv2-png-3571c19eeef0.png",
+    "authorImage": "/assets/blog-author-harsh-ballyan.webp",
     "authorAlt": "Writer: Harsh Ballyan",
     "category": "Carbon Credits",
     "categorySlugs": [
@@ -318,6 +318,19 @@ export const posts = {
 } satisfies Record<string, PostMetadata>;
 
 export type PostSlug = keyof typeof posts;
+
+const homepageLeadOrder = [
+  "verra-or-gold-standard-choosing-the-right-registry-for-your-carbon-project",
+  "the-future-of-agri-esg-scaling-carbon-credits-in-saudi-arabias-agriculture-sector",
+  "sustainability-reporting-frameworks-india-2026",
+] as const;
+
 export function getPost(slug: string): PostMetadata | undefined { return posts[slug as PostSlug]; }
-export function validatePosts(): void { const seen = new Set<string>(); for (const post of Object.values(posts)) { if (seen.has(post.slug)) throw new Error(`Duplicate post slug: ${post.slug}`); if (post.canonicalPath !== `/post/${post.slug}`) throw new Error(`Invalid canonical path for ${post.slug}`); if (!post.title || !post.heading || !post.description || !post.author || !post.authorImage || !post.authorAlt || !post.heroImage) throw new Error(`Missing required metadata for ${post.slug}`); seen.add(post.slug); } }
+export function getSortedPosts(): PostMetadata[] { return Object.values(posts).sort((a, b) => b.publishedAt.localeCompare(a.publishedAt)); }
+export function getHomepagePosts(): PostMetadata[] {
+  const lead = homepageLeadOrder.map((slug) => posts[slug]).filter(Boolean);
+  const leadSlugs = new Set(lead.map((post) => post.slug));
+  return [...lead, ...getSortedPosts().filter((post) => !leadSlugs.has(post.slug))];
+}
+export function validatePosts(): void { const seen = new Set<string>(); for (const post of Object.values(posts)) { if (seen.has(post.slug)) throw new Error(`Duplicate post slug: ${post.slug}`); if (post.canonicalPath !== `/post/${post.slug}`) throw new Error(`Invalid canonical path for ${post.slug}`); if (!post.title || !post.heading || !post.description || !post.author || !post.authorImage || !post.authorAlt || !post.heroImage) throw new Error(`Missing required metadata for ${post.slug}`); seen.add(post.slug); } if (homepageLeadOrder.some((slug) => !posts[slug])) throw new Error("Homepage lead order references an unknown post"); if (new Set(homepageLeadOrder).size !== homepageLeadOrder.length) throw new Error("Duplicate homepage lead post"); if (homepageLeadOrder.length > Object.keys(posts).length) throw new Error("Homepage lead order is larger than the post catalogue"); }
 validatePosts();

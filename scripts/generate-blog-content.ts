@@ -19,6 +19,11 @@ const categoryNames: Record<string, string> = { "carbon-credits": "Carbon Credit
 function original(value: string) { const match = value.match(/^https:\/\/static\.wixstatic\.com\/media\/([^/]+)/); return match ? `https://static.wixstatic.com/media/${match[1]}` : value; }
 function jsonLd(meta: Meta, type: string) { for (const raw of meta.structuredData) { try { const value = JSON.parse(raw.replace(/&#010;/g, "\\n")); if (value["@type"] === type) return value as Record<string, unknown>; } catch { /* captured source can contain non-JSON entities */ } } return undefined; }
 function clean(value: string) { return value.replace(/\\s+/g, " ").replace(/\u0000/g, "").trim(); }
+function authorThumbnail(author: string, fallback: string) {
+  if (author === "Dolly Soni") return "/assets/blog-author-dolly-soni.webp";
+  if (author === "Harsh Ballyan") return "/assets/blog-author-harsh-ballyan.webp";
+  return fallback;
+}
 function escapeMdx(value: string) { return value.replace(/\{/g, "\\{").replace(/\}/g, "\\}"); }
 async function main() {
   const inventory = JSON.parse(await readFile(path.join(root, "data/migration/url-inventory.json"), "utf8")) as Inventory;
@@ -40,11 +45,11 @@ async function main() {
     const modifiedAt = typeof blogPosting.dateModified === "string" ? blogPosting.dateModified : publishedAt;
     const categorySlugs = Object.entries(categoryMap).filter(([, slugs]) => slugs.includes(slug)).map(([category]) => category);
     const heading = meta.headings.find((item) => item.level === "h1")?.text || meta.title;
-    records[slug] = { slug, title: clean(meta.title), heading: clean(heading), description: clean(meta.description), author, authorImage: authorAsset.localPath, authorAlt: clean(authorAsset.altTexts.find((alt) => alt.toLowerCase().startsWith("writer:")) || `Writer: ${author}`), category: categorySlugs[0] ? categoryNames[categorySlugs[0]] : "Sustaind Consulting", categorySlugs, publishedAt, modifiedAt, canonicalPath: `/post/${slug}`, heroImage: hero.localPath, heroAlt: clean(hero.altTexts[0] || heading) };
+    records[slug] = { slug, title: clean(meta.title), heading: clean(heading), description: clean(meta.description), author, authorImage: authorThumbnail(author, authorAsset.localPath), authorAlt: clean(authorAsset.altTexts.find((alt) => alt.toLowerCase().startsWith("writer:")) || `Writer: ${author}`), category: categorySlugs[0] ? categoryNames[categorySlugs[0]] : "Sustaind Consulting", categorySlugs, publishedAt, modifiedAt, canonicalPath: `/post/${slug}`, heroImage: hero.localPath, heroAlt: clean(hero.altTexts[0] || heading) };
     if (slug === "carbon-credits-for-net-zero-targets-india") continue;
     const body = bodies[slug];
     if (!body || body.error) throw new Error(`Missing captured body for ${slug}`);
-    const inline = meta.images.map((item) => original(item.src)).map((source) => assets.find((asset) => asset.sourceUrl === source && asset.usages.includes(meta.sourceUrl))).filter((asset): asset is Asset => Boolean(asset)).filter((asset) => asset.localPath !== hero.localPath && asset.localPath !== authorAsset.localPath && asset.width > 300 && !asset.altTexts.some((alt) => /^(writer:|sccc)/i.test(alt.trim()))).slice(0, 6);
+    const inline = meta.images.map((item) => original(item.src)).map((source) => assets.find((asset) => asset.sourceUrl === source && asset.usages.includes(meta.sourceUrl))).filter((asset): asset is Asset => Boolean(asset)).filter((asset) => asset.localPath !== hero.localPath && asset.localPath !== authorAsset.localPath && asset.width > 300 && !asset.altTexts.some((alt) => /^(writer:|sccc)/i.test(alt.trim())));
     const lines = [`import Image from "next/image"`, ""];
     let inlineIndex = 0;
     const addInlineImage = () => {

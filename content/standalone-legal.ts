@@ -8,8 +8,8 @@ export const contactPage = {
 
 export const accessibilityPage = {
   ...standaloneMeta["/accessibility-statement"],
+  intro: ["Sustaind is committed to ensuring that our website and digital services are accessible to people with disabilities. We are continually improving the user experience and applying relevant accessibility standards to our content and interfaces."],
   sections: [
-    ["Accessibility Statement", ["Sustaind is committed to ensuring that our website and digital services are accessible to people with disabilities. We are continually improving the user experience and applying relevant accessibility standards to our content and interfaces."]],
     ["Our commitment", ["We aim to provide an inclusive digital experience through clear content, meaningful alternative text, keyboard-friendly interactions, sufficient colour contrast, and responsive layouts across devices."]],
     ["Feedback and assistance", ["If you experience an accessibility barrier or need information in an alternative format, please contact us at summit@sustaind.in. We welcome feedback and will make reasonable efforts to respond and improve the experience."]]
   ]

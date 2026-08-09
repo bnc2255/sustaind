@@ -26,19 +26,17 @@ export function ServicePage({ data }: { data: ServicePageData }) {
   return <article className="standalone-page service-page">
     <PageHero title={data.title} description={data.description} intro={data.intro} hero={data.hero} />
     <section className="service-index site-container"><SectionHeading>{data.serviceHeading}</SectionHeading><nav aria-label={`${data.serviceHeading} sections`}><ol>{data.sections.map((section) => <li key={section.heading}><a href={`#${slugify(section.heading)}`}>{section.heading}</a></li>)}</ol></nav></section>
-    <div className="service-sections">{data.sections.map((section, index) => <section className={`service-section ${index % 2 ? "is-muted" : ""}`} id={slugify(section.heading)} key={section.heading}><div className="site-container service-section__inner"><div className="service-section__copy"><h2>{section.heading}</h2>{section.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}{section.bullets && <ul>{section.bullets.map((bullet) => <li key={bullet}>{bullet}</li>)}</ul>}</div>{section.image && <HeroImage asset={section.image} className="service-section__image" />}</div></section>)}</div>
-    <section className="service-industries site-container"><div className="service-industries__image"><HeroImage asset={data.sections.find((section) => section.image)?.image ?? data.hero} /></div><div><SectionHeading>{data.industries.length ? "Industries We Serve" : "Our Services"}</SectionHeading><p>Our consulting services are tailored to the needs of organisations across sectors including:</p><ul>{data.industries.map((industry) => <li key={industry}>{industry}</li>)}</ul></div></section>
-    <section className="service-why"><div className="site-container service-why__inner"><h2>{data.whyHeading}</h2><ul>{data.why.map((item) => <li key={item}>{item}</li>)}</ul></div></section>
+    <div className="service-sections">{data.sections.map((section, index) => <section className={`service-section ${index % 2 ? "is-muted" : ""} ${section.image ? "" : "is-text-only"}`} id={slugify(section.heading)} key={section.heading}><div className={`site-container service-section__inner ${section.image ? "" : "is-text-only"}`}><div className="service-section__copy"><h2>{section.heading}</h2>{section.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}{section.bullets && <ul>{section.bullets.map((bullet) => <li key={bullet}>{bullet}</li>)}</ul>}</div>{section.image && <HeroImage asset={section.image} className="service-section__image" />}</div></section>)}</div>
+    {data.endings?.map((ending) => ending.variant === "illustrated" && ending.image ? <section className="service-ending service-ending--illustrated site-container" key={ending.heading}><div className="service-ending__image"><HeroImage asset={ending.image} /></div><div><SectionHeading>{ending.heading}</SectionHeading>{ending.intro && <p>{ending.intro}</p>}<ul>{ending.items.map((item) => <li key={item}>{item}</li>)}</ul></div></section> : <section className="service-ending service-ending--summary" key={ending.heading}><div className="site-container service-ending__summary-inner"><h2>{ending.heading}</h2>{ending.intro && <p>{ending.intro}</p>}<ul>{ending.items.map((item) => <li key={item}>{item}</li>)}</ul></div></section>)}
   </article>;
 }
 
 export function AboutPage({ data }: { data: typeof import("@/content/standalone-company").aboutPage }) {
   return <article className="standalone-page company-page">
     <CompanyHero title={data.title} intro={data.intro} hero={data.hero} />
-    <section className="company-vision site-container"><div><h2>Our Vision</h2><p>{data.vision}</p></div><div><h2>Our Mission</h2><p>{data.mission}</p></div></section>
-    <CardGrid title="Our Expertise" cards={data.expertise} />
     <section className="company-diagram"><HeroImage asset={data.diagram} /></section>
-    <CardGrid title="Our Project Experience" cards={data.projects} />
+    <CardGrid title="Our Expertise" cards={data.expertise} />
+    <CardGrid title="Our Project Experience" cards={data.projects} className="company-cards--projects" />
     <section className="company-strength"><div className="site-container company-strength__inner"><div><h2>Our Strength</h2><p>{data.strength}</p></div><HeroImage asset={data.strengthImage} /></div></section>
   </article>;
 }
@@ -47,18 +45,56 @@ function CompanyHero({ title, intro, hero }: { title: string; intro: string[]; h
   return <section className="company-hero"><HeroImage asset={hero} /><div className="company-hero__card"><h1>{title}</h1>{intro.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}</div></section>;
 }
 
-function CardGrid({ title, cards }: { title: string; cards: unknown }) {
+function CardGrid({ title, cards, className = "" }: { title: string; cards: unknown; className?: string }) {
   const entries = cards as Array<[string, string[]]>;
-  return <section className="company-cards site-container"><SectionHeading>{title}</SectionHeading><div className="company-cards__grid">{entries.map(([heading, items]) => <article key={heading}><h3>{heading}</h3><ul>{items.map((item) => <li key={item}>{item}</li>)}</ul></article>)}</div></section>;
+  return <section className={`company-cards site-container ${className}`}><SectionHeading>{title}</SectionHeading><div className="company-cards__grid">{entries.map(([heading, items]) => <article key={heading}><h3>{heading}</h3><ul>{items.map((item) => <li key={item}>{item}</li>)}</ul></article>)}</div></section>;
 }
 
 export function UmbrellaPage({ data }: { data: typeof import("@/content/standalone-company").umbrellaPage }) {
-  const pillars = data.pillars as Array<[string, string, string]>;
-  return <article className="standalone-page umbrella-page"><PageHero title={data.title} description={data.description} intro={data.intro} hero={data.hero} /><section className="umbrella-pillars">{pillars.map(([heading, copy, href], index) => <section className={`umbrella-pillar ${index % 2 ? "is-muted" : ""}`} key={heading}><div className="site-container"><div><h2>{heading}</h2><p>{copy}</p><Link className="outline-link" href={href}>Explore service <span>→</span></Link></div></div></section>)}</section><section className="umbrella-why site-container"><SectionHeading>Why Choose Sustaind?</SectionHeading><div className="umbrella-why__grid"><ul>{data.why.map((item) => <li key={item}>{item}</li>)}</ul><HeroImage asset={data.whyImage} /></div></section></article>;
+  return <article className="standalone-page umbrella-page">
+    <section className="umbrella-hero site-container">
+      <h1>ESG, Carbon Credit &amp; Sustainability <span>Consulting Services</span></h1>
+      <div className="umbrella-hero__copy">
+        <p>{data.intro[0]}</p>
+        <p>{data.intro[1]}</p>
+        <p className="umbrella-hero__portfolio-heading">{data.portfolioHeading}</p>
+        <ul>{data.portfolio.map(([label, href]) => <li key={label}><Link href={href}>{label}</Link></li>)}</ul>
+        <p>{data.closing}</p>
+      </div>
+    </section>
+    <div className="umbrella-hero-image"><HeroImage asset={data.hero} /></div>
+    <div className="umbrella-services">
+      {data.pillars.map((pillar, index) => <div key={pillar.heading}>
+        <section className={`umbrella-service ${index % 2 ? "is-muted" : ""}`}>
+          <div className="umbrella-service__inner">
+            <h2><ServiceHeading heading={pillar.heading} accent={pillar.accent} /></h2>
+            <p>{pillar.linkedText ? renderLinkedCopy(pillar.copy, pillar.linkedText, pillar.href) : pillar.copy}</p>
+          </div>
+        </section>
+        {index === 1 && <section className="umbrella-diagram"><HeroImage asset={data.servicesDiagram} /></section>}
+      </div>)}
+    </div>
+    <div className="umbrella-office"><HeroImage asset={data.whyImage} /></div>
+    <section className="umbrella-why site-container">
+      <h4><span />Why Choose Sustaind?<span /></h4>
+      <div className="umbrella-why__grid">{data.why.map((item) => <p key={item.copy}>{item.emphasis && <strong>{item.emphasis} </strong>}{item.copy}</p>)}</div>
+    </section>
+    <p className="sr-only">{data.description}</p>
+  </article>;
+}
+
+function ServiceHeading({ heading, accent }: { heading: string; accent: string }) {
+  const accentIndex = heading.lastIndexOf(accent);
+  return <>{heading.slice(0, accentIndex)}<span>{heading.slice(accentIndex)}</span></>;
+}
+
+function renderLinkedCopy(copy: string, linkedText: string, href: string) {
+  const [before, after] = copy.split(linkedText);
+  return <>{before}<Link href={href}>{linkedText}</Link>{after}</>;
 }
 
 export function TeamPage({ data }: { data: typeof import("@/content/standalone-company").teamPage }) {
-  return <article className="standalone-page team-page"><CompanyHero title={data.title} intro={[]} hero={data.hero} /><section className="team-grid site-container">{data.members.map((member) => <article className="team-card" key={member.name}><HeroImage asset={member.image} /><div><h2>{member.name}</h2><h3>{member.role}</h3><a href={`mailto:${member.email}`}>{member.email}</a><a href={member.linkedin} target="_blank" rel="noreferrer" aria-label={`${member.name} on LinkedIn`}>in</a></div><p>{member.bio}</p></article>)}</section><section className="team-experience site-container"><SectionHeading>Team Experience</SectionHeading><p>Our team brings cross-sectoral expertise in sustainability, ESG, and climate action, with deep capabilities across the following domains:</p><div className="team-experience__grid"><ul>{data.experience.slice(0, 3).map((item) => <li key={item}>{item}</li>)}</ul><HeroImage asset={data.experienceImage} /><ul>{data.experience.slice(3).map((item) => <li key={item}>{item}</li>)}</ul></div></section></article>;
+  return <article className="standalone-page team-page"><CompanyHero title="Meet The Team" intro={[]} hero={data.hero} /><section className="team-grid site-container">{data.members.map((member) => <article className="team-card" key={member.name}><HeroImage asset={member.image} /><div><h2>{member.name}</h2><h3>{member.role}</h3><a href={`mailto:${member.email}`}>{member.email}</a><a href={member.linkedin} target="_blank" rel="noreferrer" aria-label={`${member.name} on LinkedIn`}>in</a></div><p>{member.bio}</p></article>)}</section><section className="team-experience site-container"><SectionHeading>Team Experience</SectionHeading><p>Our team brings cross-sectoral expertise in sustainability, ESG, and climate action, with deep capabilities across the following domains:</p><div className="team-experience__grid"><ul>{data.experience.slice(0, 3).map((item) => <li key={item}>{item}</li>)}</ul><HeroImage asset={data.experienceImage} /><ul>{data.experience.slice(3).map((item) => <li key={item}>{item}</li>)}</ul></div></section></article>;
 }
 
 export function ContactPage({ data }: { data: typeof import("@/content/standalone-legal").contactPage }) {

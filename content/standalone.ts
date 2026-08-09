@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 
 export type PageImage = { src: string; alt: string; width: number; height: number };
 export type ServiceSection = { heading: string; paragraphs: string[]; bullets?: string[]; image?: PageImage };
-export type ServicePageData = { path: string; title: string; description: string; hero: PageImage; intro: string[]; serviceHeading: string; sections: ServiceSection[]; industries: string[]; whyHeading: string; why: string[] };
+export type ServiceEnding = { heading: string; intro?: string; items: string[]; image?: PageImage; variant: "illustrated" | "summary" };
+export type ServicePageData = { path: string; title: string; description: string; hero: PageImage; intro: string[]; serviceHeading: string; sections: ServiceSection[]; endings?: ServiceEnding[] };
 
 export const img = (src: string, alt: string, width = 1200, height = 650): PageImage => ({ src, alt, width, height });
 
@@ -21,9 +22,10 @@ export const servicePages = {
       { heading: "CDP Climate Disclosure Support", paragraphs: ["We help organisations respond accurately to CDP questionnaires, improve disclosure scores, and demonstrate environmental leadership."], image: img("/assets/11062b-99dd15b159eb4d84b2e3b28f937d86db-mv2-jpg-00bce764aea3.jpg", "Modern solar panels") },
       { heading: "SBTi Target Setting", paragraphs: ["We support near-term and long-term target setting, validation, and annual progress reporting aligned with science-based pathways."], image: img("/assets/11062b-325c85da0bea47789798ed15415f4fd3-mv2-jpg-299cac64f471.jpg", "Sustainable project landscape") }
     ],
-    industries: ["Manufacturing & Heavy Industry", "Agriculture & Food Systems", "Logistics & Supply Chain", "Healthcare & Pharma", "Energy & Utilities", "Financial Services & Fintech", "Government & Public Sector"],
-    whyHeading: "Why Sustaind for Carbon Credit Consulting?",
-    why: ["Gurugram base with active operations in Saudi Arabia", "ISO 14064 and GHG Protocol-aligned methods", "Experience with CDP, SBTi, and UNFCCC standards", "Multi-sector delivery across India and international markets", "Integrated accounting, strategy, reporting, and market access"]
+    endings: [
+      { heading: "Industries We Serve", intro: "Our consulting services are tailored to the needs of organisations across sectors including:", items: ["Manufacturing & Heavy Industry", "Agriculture & Food Systems", "Logistics & Supply Chain", "Healthcare & Pharma", "Energy & Utilities", "Financial Services & Fintech", "Government & Public Sector"], image: img("/assets/0446e3-91b5a0f3287b4f7fbefe6c138c6554fb-mv2-png-fcbc10bb6c2b.png", "Carbon Credit Service Consulting", 1050, 1050), variant: "illustrated" },
+      { heading: "Why Sustaind for Carbon Credit Consulting?", items: ["Gurugram base with active operations in Saudi Arabia", "ISO 14064 and GHG Protocol-aligned methods", "Experience with CDP, SBTi, and UNFCCC standards", "Multi-sector delivery across India and international markets", "Integrated accounting, strategy, reporting, and market access"], variant: "summary" }
+    ]
   },
   "climate-risk-assessment-consultants": {
     path: "/climate-risk-assessment-consultants",
@@ -38,10 +40,7 @@ export const servicePages = {
       { heading: "Climate Scenario Analysis", paragraphs: ["Recognised climate scenarios help us test the resilience of strategies and investments across different warming and transition pathways."], image: img("/assets/8ef393d429d64c5ab445f84c3e1337d2-jpg-15eade10e6f9.jpg", "Green rooftop architecture") },
       { heading: "Climate & Health Vulnerability Tools", paragraphs: ["Our climate and health tools integrate climate data with public-health and community-vulnerability indicators for healthcare, agriculture, and government clients."], image: img("/assets/11062b-344738b5f26b433fb54e4dc3570fcc90-mv2-jpeg-f5b7f522ecc9.jpg", "Community garden gathering") },
       { heading: "Climate Adaptation Strategy", paragraphs: ["We develop adaptation strategies that strengthen resilience, define ownership, prioritise investment, and establish measurable milestones."], image: img("/assets/11062b-2fbf53a29e91416ca35461c5a39f4344-mv2-jpg-289368708226.jpg", "Woman holding fresh produce") }
-    ],
-    industries: ["Agriculture & Food Systems", "Healthcare & Pharmaceuticals", "Infrastructure & Real Estate", "Energy & Utilities", "Manufacturing", "Financial Services", "Government & Public Systems"],
-    whyHeading: "Why Partner with Sustaind?",
-    why: ["Climate analysis connected to operational and financial decisions", "Global frameworks translated into local execution", "Data-driven tools for assets, communities, and value chains", "Clear adaptation roadmaps rather than reports that sit on a shelf"]
+    ]
   },
   "esg-advisory-service-consultants": {
     path: "/esg-advisory-service-consultants",
@@ -58,9 +57,10 @@ export const servicePages = {
       { heading: "Supplier ESG Engagement & Supply Chain Audits", paragraphs: ["We support supplier assessments, responsible-sourcing programmes, ESG audits, corrective-action plans, and value-chain data collection."], image: img("/assets/11062b-9e1bfe52f4a44ef3a4e1fdf580a01465-mv2-jpg-f0bfb17134f9.jpg", "Responsible supply chain") },
       { heading: "Assurance & ESG Risk Screening", paragraphs: ["We provide Environmental and Social Due Diligence and ESG risk screening for transactions, investments, and new-market entry."], image: img("/assets/11062b-55afbdfae50b4fa1af9708669d35a69d-mv2-d-2048-1365-s-2-jpg-8e5e7ec0b0ef.jpg", "ESG risk review") }
     ],
-    industries: ["Agriculture & Food Systems", "Healthcare & Pharmaceuticals", "FMCG & Consumer Goods", "Logistics & Transport", "Fintech & Financial Services", "Energy & Utilities", "Manufacturing & Government"],
-    whyHeading: "Sustaind's ESG Advisory Differentiators",
-    why: ["End-to-end support from strategy through reporting and assurance", "Framework expertise across BRSR, GRI, CDP, TCFD, and IFRS", "Practical supplier and value-chain engagement", "Cross-sector experience across India and the Middle East"]
+    endings: [
+      { heading: "ESG Advisory Across Industries", intro: "Our ESG advisory services support organisations across sectors including:", items: ["Agriculture & Food Systems", "Healthcare & Pharmaceuticals", "FMCG & Consumer Goods", "Logistics & Transport", "Fintech & Financial Services", "Energy & Utilities", "Manufacturing & Government"], image: img("/assets/0446e3-c21d88731de04f2d8e50c0b59c1480f5-mv2-png-967fa6893950.png", "ESG Advisory Service Consultants", 900, 900), variant: "illustrated" },
+      { heading: "Sustaind's ESG Advisory Differentiators", items: ["End-to-end support from strategy through reporting and assurance", "Framework expertise across BRSR, GRI, CDP, TCFD, and IFRS", "Practical supplier and value-chain engagement", "Cross-sector experience across India and the Middle East"], variant: "summary" }
+    ]
   },
   "irfs-service-consultant": {
     path: "/irfs-service-consultant",
@@ -78,9 +78,10 @@ export const servicePages = {
       { heading: "SOX Compliance & Internal Control Systems", paragraphs: ["We help finance and sustainability teams design controls that support reliable reporting, accountability, review, and sign-off."], image: img("/assets/11062b-caa79f32ca114d63b652b1182c10e530-mv2-jpg-9606af07659b.jpg", "Internal control systems") },
       { heading: "IRFS Training & Awareness Programmes", paragraphs: ["We deliver customised training for finance teams, ESG managers, board members, and operational leaders."], image: img("/assets/11062b-5f2ceef3a7b841958ae3fc01d9c1933a-mv2-jpeg-0f5bb38e5ec2.jpg", "Sustainability training") }
     ],
-    industries: ["Financial Services", "Manufacturing", "Energy & Utilities", "Technology", "Infrastructure", "Healthcare", "Public and Listed Companies"],
-    whyHeading: "Sustaind's IRFS Consulting Advantage",
-    why: ["End-to-end support from readiness through assurance", "Integrated finance, ESG, and data expertise", "Clear controls and evidence trails", "Training that builds lasting internal capability"]
+    endings: [
+      { heading: "IRFS Frameworks We Work With", intro: "We help organisations align disclosures with the principal sustainability reporting and climate disclosure frameworks:", items: ["IRFS S1 — General Requirements for Disclosure of Sustainability-related Financial Information", "IRFS S2 — Climate-related Disclosures", "TCFD recommendations and climate-risk reporting", "SASB industry-based disclosure guidance"], image: img("/assets/0446e3-b248bff97d4a43a5a3271012cab11f87-mv2-png-f2ba9bed5086.png", "IRFS Service Consultants", 900, 900), variant: "illustrated" },
+      { heading: "Sustaind's IRFS Consulting Advantage", items: ["End-to-end support from readiness through assurance", "Integrated finance, ESG, and data expertise", "Clear controls and evidence trails", "Training that builds lasting internal capability"], variant: "summary" }
+    ]
   },
   "sustainability-service-consultants": {
     path: "/sustainability-service-consultants",
@@ -99,9 +100,10 @@ export const servicePages = {
       { heading: "Public Sector & Policy Advisory", paragraphs: ["We support governments, development partners, and public institutions with climate studies, policy design, green procurement, and capacity building."], image: img("/assets/11062b-b5bc17a6db7345238f6d2558e8da475b-mv2-jpg-a10a49e5b678.jpg", "Public sector sustainability planning") },
       { heading: "Sustainability Training & Capacity Building", paragraphs: ["We deliver role-specific online courses, in-person workshops, and executive sustainability leadership programmes."], image: img("/assets/11062b-cf82eeea45604a13a5cb25e47eafc916-mv2-jpg-57a3948fc4a2.jpg", "Sustainability training session") }
     ],
-    industries: ["Agriculture & Food Systems", "Healthcare", "FMCG & Retail", "Logistics & Transport", "Energy & Utilities", "Manufacturing", "Government and Development Partners"],
-    whyHeading: "Sectors We Serve",
-    why: ["India and Saudi Arabia, with reach across the wider Middle East", "Cross-sector sustainability strategy and implementation", "Global frameworks combined with local execution", "Assessment, finance, reporting, and capacity building in one team"]
+    endings: [
+      { heading: "Our Geographic Reach", intro: "We combine global sustainability frameworks with local implementation experience across:", items: ["India", "Saudi Arabia", "The wider Middle East", "Emerging markets and international programmes"], image: img("/assets/0446e3-35a3bc7f86024636b874c3a873c210c4-mv2-png-647cf7c84b90.png", "Sustainability Consultant", 900, 900), variant: "illustrated" },
+      { heading: "Sectors We Serve", items: ["Agriculture & Food Systems", "Healthcare", "FMCG & Retail", "Logistics & Transport", "Energy & Utilities", "Manufacturing", "Government and Development Partners"], variant: "summary" }
+    ]
   }
 } satisfies Record<string, ServicePageData>;
 

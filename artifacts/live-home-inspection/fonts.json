@@ -1,0 +1,604 @@
+{
+  "resources": [
+    {
+      "url": "https://static.parastorage.com/fonts/v2/d1f4aaca-ba32-45fe-a717-4dff34a09bca/v1/aether.latin.woff2",
+      "type": "font",
+      "status": 200,
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v22/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
+      "type": "font",
+      "status": 200,
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
+      "type": "font",
+      "status": 200,
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/e333842f-0a84-43f9-9ab7-fb1093ba1628/v1/helveticaneuew01-45ligh.latin.woff2",
+      "type": "font",
+      "status": 200,
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/f73e760d-c6b3-4659-9a8c-9ce1d76c1173/madefor-text.var.original.woff2",
+      "type": "font",
+      "status": 200,
+      "contentType": "woff2"
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/b7cac872-10e6-48a7-aacc-39212836977c/v1/aether.latin.woff2",
+      "type": "font",
+      "status": 200,
+      "contentType": "font/woff2"
+    }
+  ],
+  "details": {
+    "faces": [
+      {
+        "family": "aether",
+        "weight": "700",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "aether",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "aether",
+        "weight": "700",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "aether",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "aether",
+        "weight": "700",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "aether",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "aether",
+        "weight": "700",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "aether",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "aether",
+        "weight": "700",
+        "style": "normal",
+        "status": "loaded"
+      },
+      {
+        "family": "aether",
+        "weight": "400",
+        "style": "normal",
+        "status": "loaded"
+      },
+      {
+        "family": "din-next-w01-light",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "din-next-w01-light",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "din-next-w01-light",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "helveticaneuew01-45ligh",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "helveticaneuew01-45ligh",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "helveticaneuew01-45ligh",
+        "weight": "400",
+        "style": "normal",
+        "status": "loaded"
+      },
+      {
+        "family": "helveticaneuew02-45ligh",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "helveticaneuew02-45ligh",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "helveticaneuew02-45ligh",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "helveticaneuew02-45ligh",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "helveticaneuew10-45ligh",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "helveticaneuew10-45ligh",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "helveticaneuew10-45ligh",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "helveticaneuew10-45ligh",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "helveticaneuew10-45ligh",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "helveticaneuew10-45ligh",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "madefor-text",
+        "weight": "400",
+        "style": "normal",
+        "status": "loaded"
+      },
+      {
+        "family": "madefor-text",
+        "weight": "400",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "900",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "900",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "700",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "700",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "200",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "200",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "800",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "800",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "500",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "500",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "300",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "300",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "100",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "100",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "400",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "900",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "900",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "700",
+        "style": "normal",
+        "status": "loaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "700",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "200",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "200",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "800",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "800",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "500",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "500",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "300",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "300",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "100",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "100",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "400",
+        "style": "normal",
+        "status": "loaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "400",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "900",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "900",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "700",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "700",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "200",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "200",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "800",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "800",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "500",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "500",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "300",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "300",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "100",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "100",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "400",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "400",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "900",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "900",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "700",
+        "style": "normal",
+        "status": "loaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "700",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "200",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "200",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "800",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "800",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "500",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "500",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "300",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "300",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "100",
+        "style": "normal",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "100",
+        "style": "italic",
+        "status": "unloaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "400",
+        "style": "normal",
+        "status": "loaded"
+      },
+      {
+        "family": "poppins-v2",
+        "weight": "400",
+        "style": "italic",
+        "status": "unloaded"
+      }
+    ],
+    "heading": {
+      "tag": "SPAN",
+      "text": "Carbon Emissions Measurement",
+      "family": "poppins-v2, sans-serif",
+      "size": "50px",
+      "weight": "700",
+      "lineHeight": "50px"
+    }
+  }
+}

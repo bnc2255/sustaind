@@ -10,7 +10,7 @@ const socialLinks = [
 
 export function SiteFooter() {
   return <footer className="site-container footer-wrap"><div className="site-footer">
-    <div className="footer-social" aria-label="Sustaind social links">{socialLinks.map(([label, href, image]) => <a key={label} href={href} target="_blank" rel="noreferrer" aria-label={label}><Image src={image} alt="" width={201} height={201} /></a>)}</div>
+    <div className="footer-brand"><Link href="/" className="footer-brand__logo" aria-label="Sustaind home"><Image src="/assets/7afb9a-433a5bb49ea3439e8a87e0e79c303033-mv2-png-46bde764f709.png" alt="" width={813} height={813} /></Link><p className="footer-brand__tagline">Sustainable Growth, Measurable Impact.</p><div className="footer-social" aria-label="Sustaind social links">{socialLinks.map(([label, href, image]) => <a key={label} href={href} target="_blank" rel="noreferrer" aria-label={label}><Image src={image} alt="" width={201} height={201} /></a>)}</div></div>
     <address className="footer-contact"><a href="tel:+919810575613">+91-98105-75613</a><a href="mailto:summit@sutaind.in">summit@sutaind.in</a><p>ILD Trade Centre, Sohna Road,<br />Gurugram, Haryana – 122018, India</p></address>
     <div className="footer-links"><Link href="/blog">Blogs</Link><Link href="/privacy-policy">Privacy Policy</Link><Link href="/accessibility-statement">Accessibility Statement</Link><small>© 2026 by Sustaind India</small></div>
   </div></footer>;
